@@ -1,26 +1,20 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<!-- Include Google Analytics hopefully. -->
-		{% include analytics.html %}
-	</head>
+	
+	{% include head.html %}
+	
 	<body>
-		<!-- Include navigation links. -->
-		{% include navigation.html %}
-    <div class="container">
+		
+    		<div class="container">
+			
+			{% include header.html %}
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-      <footer>
-    		<ul>
-        		<li><a href="mailto:bas@bammerlaan.nl">E-mail</a></li>
-        		<li>KVK-nummer: 66576385</li>
-                        <li>BTW-nummer: NL200266123B01</li>
-			</ul>
-		</footer>
+			{% include footer.html %}
+			
+		</div> <!-- /.container -->
+
 	</body>
+	
 </html>
