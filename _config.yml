@@ -1,3 +1,5 @@
 name: Sebastiaan Ammerlaan—Bariton
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
