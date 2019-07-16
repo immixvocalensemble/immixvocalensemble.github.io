@@ -1,6 +1,39 @@
-title: Sebastiaan Ammerlaan—Bariton
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# ----------- CONFIGURABLE START -----------
+title:            "Sebastiaan (Bas) Ammerlaan — bariton"
+description:      "Website van klassiek zanger Sebastiaan Ammerlaan."
+url:              http://bammerlaan.nl # Site url, without a slash at the end.
+signoff:          "Sebastiaan Ammerlaan" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Home
+    url:          /
+    external:     false
+  - name:         Concertagenda
+    url:          /concertagenda
+    external:     false    
+  - name:         Bio
+    url:          /bio
+    external:     false
+  - name:         Zangles
+    url:          /zangles
+    external:     false
+  - name:         Media
+    url:          /media
+    external:     false
+  - name:         Contact
+    url:          /contact
+    external:     false
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+        
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
