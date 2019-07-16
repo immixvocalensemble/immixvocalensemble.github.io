@@ -4,4 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-theme: modernist
+theme: jekyll-theme-merlot
