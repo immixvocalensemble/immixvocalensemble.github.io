@@ -7,19 +7,24 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
   </head>
+  
+  <!-- Logo bovenin -->
   <body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
     <header class="tc mt4">
 		<div class="mw7 bg-white mt4 mb2 center br2-ns bt bb ba-ns b--light-gray">
 			<a href="{{ site.url }}">
-				<img src="{{ site.url }}/images/Bas_zang_logo_v6.1_white_bg_optimised.svg" alt="Home">
+				<img src="{{ site.url }}/images/Bas_zang_logo_v6.2_white_bg_optimised.svg" alt="Home">
 			</a>
 		</div>
-      <!-- <p>{{ site.title }}</p> -->
+      <!-- <p>{{ site.title }}</p> --> <!-- Tekst onder logo weghalen -->
     </header>
+    
+    <!-- Begin styling van pagina-body -->
     <div class="mw7 bg-white mt0 mb3 center br2-ns bt bb ba-ns b--light-gray">
-      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+	  <!-- Navigatiebalk -->
+      <nav class="bb b--light-gray pv4 tc f4" aria-label="Main">
         {% for link in site.links %}
-          <a class="link blue hover-mid-gray mh2 pv1"
+          <a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
              href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
              {{ link.name }}
            </a>
@@ -50,8 +55,8 @@
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
-      Built with Jekyll using the <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a> theme.
-      <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" />
+      Built with <a href="https://jekyllrb.com/" class="link silver hover-blue pv1">Jekyll</a> using the <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a> theme. Hosted on <a href="https://pages.github.com/" class="link silver hover-blue pv1">Github Pages</a>. 
+      <img src="{{ site.url }}/images/Bas_zang_logo_v6.2_alleen_vierkant.svg" alt="Sebastiaan Ammerlaan — bariton" class="mt4 db center" width=50 />
     </footer>
   </body>
 </html>
