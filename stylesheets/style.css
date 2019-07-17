@@ -6,15 +6,43 @@
 .link:hover { background: url(/images/line2.png) repeat-x left bottom; }
 
 h1 {
-  color: dark-gray;
+  color: #555555;
   font-family: 'Roboto', sans-serif;
   font-weight:100;
+}
+
+h2 {
+  color: #555555;
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {background-color: #f2f2f2;}
+
+th {
+  background-color: #00b3ffff;
+  color: white;
 }
 
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;
   color: #00b3ffff;
+}
+.markdown-body a:hover,a:focus,a:active {
+  text-decoration: none;
+  color: #555555;
+  background: url(/images/line2.png) repeat-x left bottom;
 }
 .markdown-body .highlighter-rouge {
   padding: .25rem .5rem;
