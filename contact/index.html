@@ -2,20 +2,6 @@
 title: Contact
 ---
 
-<form id="form_id">
-<input name="name" type="text" placeholder="Naam"/>
-<input name="email" type="email" placeholder="E-mailadres"/>
-<input name="message" type="text" placeholder="Bericht"/>
-<input type="submit" id="submit" />
-</form>
-
-<script src="https://static.formx.stream/tracker/v1/bundle.js"></script>
-<script>
-var formx = FormX.set()
-formx.trackProject('bammerlaan_aecaecde-a8f9-4723-8504-6fea8372fa92')
-formx.trackForm('bammerlaan contact_59eaec20-7c95-410f-8b62-d9bdf1108024', 'form_id')
-formx.start()
-</script>
 
 <!--
 <form action="https://formspree.io/{{site.email}}" method="POST">
@@ -30,7 +16,7 @@ formx.start()
      2. you verify your form on formspree.io.
 -->
 
-<!--
+
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
@@ -67,5 +53,3 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
-
--->
