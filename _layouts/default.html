@@ -22,13 +22,19 @@
     <!-- Begin styling van pagina-body -->
     <div class="mw7 bg-white mt0 mb3 center br2-ns bt bb ba-ns b--light-gray">
 	  <!-- Navigatiebalk -->
-      <nav class="bb b--light-gray pv4 tc f4" aria-label="Main">
+      <nav class="bb b--light-gray pv4 tc f4" aria-label="Main" id="nav">
+        
+        {% include navbar.html %}
+        
+        <!-- 
         {% for link in site.links %}
           <a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
              href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
              {{ link.name }}
           </a>
         {% endfor %}
+		-->
+		
       </nav>
 
 	  <!-- Plaats van content op de pagina -->
