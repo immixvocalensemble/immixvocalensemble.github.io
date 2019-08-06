@@ -86,7 +86,7 @@ th {
 /* Navbar styling */
 
 #menu ul {
-  margin: 0; /* Verticale marge boven menuknoppen */
+  margin:  0; /* Verticale marge boven menuknoppen */
   padding: 0; /* Verticale padding boven menuknoppen. Geeft ook blauwe achtergrond? */
 }
 
@@ -142,18 +142,21 @@ th {
 
 #toggle-menu, 
 #menu a {
-  padding: 1em 1.5em;
-} /* Hier volgende keer verder. */
+  padding: 1em 0.5em;
+} /* Padding van mobiele site menuknop en menuregel. */
 
+/*
 #menu a {
-  transition: all .125s ease-in-out;
-  -webkit-transition: all .125s ease-in-out;
-}
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+}  
+*/ /* Menu-animatie die ik niet gebruik. */
 
 #menu a:hover {
-  background-color: white;
-  color: #09c;
-}
+/* background-color: white; */
+  color: var(--bammerlaan-grijs);
+} /*Mouse-over naar grijs. Werkt om een of andere reden anders niet. */
+
 
 #menu .sub-menu {
   display: none;
@@ -164,8 +167,8 @@ th {
 }
 
 #menu .sub-menu a:hover {
-  color: #777777;
-}
+  color: var(--bammerlaan-grijs);
+} /*Mouse-over naar grijs. Werkt om een of andere reden anders niet. */
 
 #toggle-menu .drop-icon, 
 #menu li label.drop-icon {
@@ -182,7 +185,7 @@ th {
   background-color: rgba(0, 0, 0, .125);
   text-shadow: 0 0 0 transparent;
   color: rgba(255, 255, 255, .75);
-}
+} /* Iets met het icoontje van mobiele site-menu. Wel best voor nu. */
 
 #menu .drop-icon {
   line-height: 1;
