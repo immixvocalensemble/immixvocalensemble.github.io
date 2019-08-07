@@ -85,10 +85,12 @@ th {
 
 /* Navbar styling */
 
+/*
 #menu ul {
-  margin:  0; /* Verticale marge boven menuknoppen */
-  padding: 0; /* Verticale padding boven menuknoppen. Geeft ook blauwe achtergrond? */
-}
+  margin:  0; /* Verticale marge boven menuknoppen */ /*
+  padding: 0; /* Verticale padding boven menuknoppen. Geeft ook blauwe achtergrond? */ /*
+} 
+*/ /* Dit weglaten lijkt te helpen voor centreren, maar zorgt ook voor grotere marge aan de bovenkant... */
 
 #menu .main-menu {
   display: none;
@@ -107,8 +109,8 @@ th {
 #toggle-menu, 
 #menu .sub-menu {
   border-style: solid;
-  border-color: var(--bammerlaan-blauw); 
-} /* Verticale dividertjes tussen menu-items */
+  border-color: var(--bammerlaan-grijs); 
+} /* Lijn-kleuren. */
 
 #menu li, 
 #toggle-menu {
@@ -116,10 +118,10 @@ th {
 } /* Padding elementen van menu mobiele site */
 
 #menu .sub-menu {
-  background-color: white;
+  background-color: magenta;
   border-width: 1px 1px 0;
   margin: 0 1em;
-} /* Achtergrond submenu's */
+} /* Achtergrond submenu's. Margin is voor mobiele site. */
 
 #menu .sub-menu li:last-child {
   border-width: 0;
@@ -128,7 +130,6 @@ th {
 #menu li, 
 #toggle-menu, 
 #menu a {
-  /* position: relative; */
   position: relative;
   display: block;
   color: var(--bammerlaan-blauw);
@@ -142,7 +143,7 @@ th {
 
 #toggle-menu, 
 #menu a {
-  padding: 1em 0.5em;
+  padding: 0.2em 0.5em;
 } /* Padding van mobiele site menuknop en menuregel. */
 
 /*
@@ -174,7 +175,7 @@ th {
 #menu li label.drop-icon {
   position: absolute;
   right: 1.5em;
-  top: 1.25em;
+  top: 0.5em;
 }
 
 #menu label.drop-icon, #toggle-menu span.drop-icon {
@@ -201,12 +202,12 @@ th {
   #menu .sub-menu li {
     width: auto;
   }
-}
+} /* Dit gaat over de breedte van het mobiele menu */
 
 @media only screen and (min-width: 52em) {
   #menu .main-menu {
     display: block;
-  }
+  } /* Geen idee */
 
   #toggle-menu, 
   #menu label.drop-icon {
@@ -218,9 +219,9 @@ th {
   }
 
   #menu li {
-    float: left;
-    border-width: 0 1px 0 0;
-  }
+    float: left; /* Bepaalt uitlijning, maar centreren lijkt niet te kunnen */
+    border-width: 0 0 1px 0; /* Borders om menu-items */
+  } 
 
   #menu .sub-menu li {
     float: none;
