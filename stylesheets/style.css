@@ -255,3 +255,13 @@ th {
     display: block;
   }
 }
+
+/*
+ * Inspired partially from unreleased Tachyons v 5.0 opacity addons
+*/
+@media screen and (max-width:30em) {
+.o-100-vs,
+div .o-100-vs,
+.child-vs.o-100-vs {
+  opacity: 1;
+}

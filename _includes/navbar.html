@@ -31,6 +31,39 @@
     Contact
 </a> -->
 
+<!-- Inspired by www.shopify.ca, Dropdown Navigation Prototype Using Tachyons CSS & Vue.js.-->
+<!-- Uses Tachyons CSS and a small override for a responsive CSS dropdown menu. -->
+<div class="pa3 bg-light-gray sans-serif">
+  <p class="gray">
+    This is a prototype for a responsive dropdown navigation menu, using Tachyons CSS to rapidly style the markup in a way similar to the navigation found on www.shopify.ca.  Tachyons is useful in rapid prototyping UI elements. The markup here is just some static filler used for testing.
+  </p>
+</div>
+<nav>
+  <ul class="menu list pa3 bg-moon-gray gray sans-serif f5 fw6 ttu tracked">
+    <li class="dib ma2 w-100 w-auto-ns bg-red">
+      <a href="#" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">First
+      </a>
+    </li>
+    <li class="dib ma2 bg-white bg-animate hover-bg-light-pink hide-child relative-m relative-l w-100 w-auto-ns">
+      <a href="#" class="dib nav tc no-underline pa3 ph4 dark-gray w-100">Second
+      </a>
+      <ul class="menu list bg-pink mt1 b-yellow pa2 f6 child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4">
+        <li class="ma1 pa2 ph3 bg-light-pink bg-animate hover-bg-white">
+          Sub Item 1
+        </li>
+        <li class="ma1 pa2 ph3 bg-light-pink bg-animate hover-bg-white">
+          Sub Item 2
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<div id="vue-example" class="mt5 bg-light-gray sans-serif">
+  <p class="gray pa3 pb0 dib">
+    This is the same type of menu as the prototype above but executed in Vue JS using components and some data (JSON) to inform the actual menu structure.  Since it uses actual data, in theory it could use a menu structure dynamically supplied by a CMS like WordPress or Drupal.
+  </p>
+ 
 
 
 
