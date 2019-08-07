@@ -220,7 +220,7 @@ th {
 
   #menu li {
     float: left; /* Bepaalt uitlijning, maar centreren lijkt niet te kunnen */
-    border-width: 0 0 1px 0; /* Borders om menu-items */
+    border-width: 0 0 0 0; /* Borders om menu-items */
   } 
 
   #menu .sub-menu li {
