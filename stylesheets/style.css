@@ -12,7 +12,12 @@
 .bammerlaan-grijs { color: var(--bammerlaan-grijs); }
 .top-50 { top: 50% }
 .link:hover { background: url(/images/line2.png) repeat-x left bottom; }
-
+.bg-bammerlaan-blauw { background-color: var(--bammerlaan-blauw); }
+.bg-bammerlaan-grijs { background-color: var(--bammerlaan-grijs); }
+.hover-bg-bammerlaan-blauw:hover { background-color: var(--bammerlaan-blauw); }
+.hover-bg-bammerlaan-blauw:focus { background-color: var(--bammerlaan-blauw); }
+.hover-bg-bammerlaan-grijs:hover { background-color: var(--bammerlaan-grijs); }
+.hover-bg-bammerlaan-grijs:focus { background-color: var(--bammerlaan-grijs); }
 
 
 h1 {
