@@ -20,7 +20,7 @@
     </header>
     
     <!-- Begin styling van pagina-body -->
-    <div class="mw7 bg-white mt0 mb3 center br2-ns bt bb ba-ns b--light-gray">
+    <div class="mw7 tc bg-white mt0 mb0 center br2-ns bt bb ba-ns b--light-gray">
 	  <!-- Navigatiebalk -->
       
         
@@ -35,11 +35,10 @@
         {% endfor %}
 		-->
 		
-   
-
 	  <!-- Plaats van content op de pagina -->
       <!-- <main class="tl f6 relative pa4 pa5-ns overflow-hidden"> --> <!-- Oud -->
 	  <main class="tl f6 relative pa4 ph5 overflow-hidden bt b--light-gray">
+		  <a name="top"></a>
         {% if page.title %}
           <div class="mb4">
             {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}

@@ -16,7 +16,7 @@ Mijn eigen achtergrond ligt in klassieke zang en de klassieke zangtechniek, en v
 
 Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoopt te bereiken en hoe ik je daarbij kan helpen. Neem ook iets mee om voor te zingen! Ik geef mijn lessen in Utrecht—bij mij thuis in Zuilen of op het Utrechts Conservatorium. Desgewenst is les aan huis ook mogelijk. <!-- Klik [hier](#Tarieven-en-voorwaarden) voor tarieven en algemene voorwaarden. -->
 
-<a name="Tarieven-en-voorwaarden"></a>
+<a name="tarieven-en-voorwaarden"></a>
 
 |	Tarieven 2019-2020	|	Normaal tarief			|	Gereduceerd tarief	|
 |	------------------	|	:------------------:	| :------------------:	|

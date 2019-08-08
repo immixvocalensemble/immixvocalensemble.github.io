@@ -138,7 +138,9 @@ th {
 
 #menu, 
 #toggle-menu {
-  background-color: white;
+/*
+  background-color: magenta;
+*/
 } /* Achtergrond mobiele site menuknop. */
 
 #toggle-menu, 
@@ -228,14 +230,14 @@ th {
   }
 
   #menu .sub-menu {
-    border-width: 0;
+    border-width: 10;
     margin: 0;
     position: absolute;
     top: 100%;
-    left: 0;
-    width: 12em;
+    left: -50;
+    width: 10em;
     z-index: 3000;
-  }
+  } /* Dingen voor submenu-vormgeving. Margin is verticale afstand van parent-knop. Left is marge links van knoppen. Width is breedte achtergrond, z-index is hoogte in stapelvolgorde overlappende elementen. */
 
   #menu .sub-menu, 
   #menu input[type="checkbox"]:checked + .sub-menu {
@@ -243,13 +245,13 @@ th {
   }
 
   #menu .sub-menu li {
-    border-width: 0 0 1px;
+    border-width: 0 0 0px;
   }
 
   #menu .sub-menu .sub-menu {
     top: 0;
     left: 100%;
-  }
+  } /* Sub-submenu opmaak */
 
   #menu li:hover > input[type="checkbox"] + .sub-menu {
     display: block;

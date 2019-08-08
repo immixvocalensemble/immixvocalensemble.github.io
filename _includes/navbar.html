@@ -1,4 +1,4 @@
-<!-- Bron: https://w3bits.com/css-responsive-nav-menu/ -->
+<!-- Bron: https://w3bits.com/css-responsive-nav-menu/ en https://codepen.io/YoungElPaso/pen/geqpad-->
 
 <!-- 
 <a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
@@ -33,83 +33,112 @@
 
 <!-- Inspired by www.shopify.ca, Dropdown Navigation Prototype Using Tachyons CSS & Vue.js.-->
 <!-- Uses Tachyons CSS and a small override for a responsive CSS dropdown menu. -->
-<div class="pa3 bg-light-gray sans-serif">
-  <p class="gray">
-    This is a prototype for a responsive dropdown navigation menu, using Tachyons CSS to rapidly style the markup in a way similar to the navigation found on www.shopify.ca.  Tachyons is useful in rapid prototyping UI elements. The markup here is just some static filler used for testing.
-  </p>
-</div>
+
 <nav>
-  <ul class="menu list pa3 bg-moon-gray gray sans-serif f5 fw6 ttu tracked">
-    <li class="dib ma2 w-100 w-auto-ns bg-red">
-      <a href="#" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">First
-      </a>
-    </li>
-    <li class="dib ma2 bg-white bg-animate hover-bg-light-pink hide-child relative-m relative-l w-100 w-auto-ns">
-      <a href="#" class="dib nav tc no-underline pa3 ph4 dark-gray w-100">Second
-      </a>
-      <ul class="menu list bg-pink mt1 b-yellow pa2 f6 child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4">
-        <li class="ma1 pa2 ph3 bg-light-pink bg-animate hover-bg-white">
-          Sub Item 1
-        </li>
-        <li class="ma1 pa2 ph3 bg-light-pink bg-animate hover-bg-white">
-          Sub Item 2
-        </li>
-      </ul>
-    </li>
-  </ul>
+	<ul class="menu list pa0 bg-white f4 nt0">
+    
+	    <!-- <li class="dib ma2 w-100 w-auto-ns bg-red">
+			<a href="/" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">Home</a>
+	    </li> -->
+	    
+	    <li class="dib ma0 w-100 w-auto-ns "> <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
+			<a href="/bio/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Bi&shy;o</a>
+	    </li>
+	    
+	    <li class="dib w-100 w-auto-ns">
+			<a href="/concertagenda/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">A&shy;gen&shy;da</a>
+	    </li>
+	    
+	    <li class="dib hide-child relative-m relative-l w-100 w-auto-ns">
+			<a href="/zangles/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
+			<ul class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4 z-max">
+				
+				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+					<a href="/zangles/#tarieven-en-voorwaarden" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Ta&shy;rie&shy;ven &amp; Voor&shy;waar&shy;den</a>
+				</li>
+				
+			</ul>
+	    </li>
+	    
+	    <li class="dib hide-child relative-m relative-l w-100 w-auto-ns">
+			<a href="/ensembles/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">En&shy;sem&shy;bles ▾</a>
+			<ul class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4 z-max">
+				
+				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+					<a href="/ensembles/enm/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">En&shy;sem&shy;ble Nieu&shy;we Mu&shy;ziek</a>
+				</li>
+				
+				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+					<a href="/ensembles/cantorex/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
+				</li>
+				
+			</ul>
+	    </li>
+	    
+	    <li class="dib w-100 w-auto-ns ">
+			<a href="/media/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Me&shy;di&shy;a</a>
+	    </li>
+	    
+	    <li class="dib w-100 w-auto-ns ">
+			<a href="/contact/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Con&shy;tact</a>
+	    </li>
+	    
+    </ul>
 </nav>
 
+<!--
 <div id="vue-example" class="mt5 bg-light-gray sans-serif">
   <p class="gray pa3 pb0 dib">
     This is the same type of menu as the prototype above but executed in Vue JS using components and some data (JSON) to inform the actual menu structure.  Since it uses actual data, in theory it could use a menu structure dynamically supplied by a CMS like WordPress or Drupal.
   </p>
- 
-
+</div> -->
 
 
 <!-- <nav class="bb b--light-gray pv4-l tc f4" id="menu"> OUD-->
-<nav class="tc f4" id="menu">
+<!--
+<nav class="dib ma2 f4 pb3 w-100" id="menu">
   <label for="tm" id="toggle-menu">Menu<span class="drop-icon">▾</span></label>
   <input type="checkbox" id="tm">
-  <ul class="main-menu clearfix">
-    <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/">Home</a></li>
+  <ul class="main-menu clearfix tc menu list">
+    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/">Home</a></li>
     
-    <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/concertagenda">Concertagenda</a></li>
+    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/concertagenda">Concertagenda</a></li>
     
-    <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/bio">Over Sebastiaan
+    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/bio">Bio
         <span class="drop-icon">▾</span>
         <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
       </a>
       <input type="checkbox" id="sm1">
       <ul class="sub-menu">
         <li>
-			<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/ensembles">Ensembles
+			<a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles">Ensembles
             <span class="drop-icon">▸</span>
             <label title="Toggle Drop-down" class="drop-icon" for="sm2">▸</label>
           </a>
           <input type="checkbox" id="sm2">
           <ul class="sub-menu">
-            <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/ensembles/enm.md">Ensemble Nieuwe Muziek</a></li>
-            <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/ensembles/cantorex.md">Cantorex</a></li>
+            <li><a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles/enm.md">Ensemble Nieuwe Muziek</a></li>
+            <li><a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles/cantorex.md">Cantorex</a></li>
           </ul>
-          <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/media">Media</a></li>  
+          <li><a class="link bammerlaan-blauw hover-mid-gray" href="/media">Media</a></li>  
         </li>
       </ul>
     </li>
     
-    <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/zangles">Zangles
+    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/zangles">Zangles
         <span class="drop-icon">▾</span>
         <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
       </a>
       <input type="checkbox" id="sm1">
       <ul class="sub-menu">
         <li>
-			<li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/zangles#Tarieven-en-voorwaarden">Tarieven en voorwaarden</a></li>  
+			<li><a class="link bammerlaan-blauw hover-mid-gray" href="/zangles#Tarieven-en-voorwaarden">Tarieven en voorwaarden</a></li>  
         </li>
       </ul>
     </li>
     
-    <li><a class="link bammerlaan-blauw hover-mid-gray mh2 pv1" href="/contact" class="first">Contact</a></li>
+    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/contact" class="first">Contact</a></li>
     
   </ul>
 </nav>
+-->
