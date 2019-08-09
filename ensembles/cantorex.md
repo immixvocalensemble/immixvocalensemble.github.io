@@ -3,7 +3,7 @@ title: Ensemble Cantorex
 ---
 
 <figure class="fr-l w-50-l ml-auto-l fr-m w-50-m ml-auto-m br3 ma1 ba b--light-gray">
-	<img src="/images/Cantorex.jpg" alt="Cantorex" class="br3 br--top">
+	<img src="/images/cantorex/Cantorex.jpg" alt="Cantorex" class="br3 br--top">
 	<figcaption class="tc">Iris Bouman, Sebastiaan Ammerlaan, Dierick Aartsen en Hester Westra.</figcaption>
 </figure>
 
@@ -14,6 +14,6 @@ Cantorex zingt voornamelijk renaissancemuziek. Zo voerden zij al de Lamentaties 
 De leden van Cantorex zingen vaak met elkaar en daardoor ook uitstekend in te huren als solistenensemble voor uw koor. Op deze manier voerden zij onder andere al het [Dixit Dominus](https://nl.wikipedia.org/wiki/Dixit_Dominus_(H%C3%A4ndel)) van [Händel](https://nl.wikipedia.org/wiki/Georg_Friedrich_H%C3%A4ndel) uit en [Die sieben letzten Worte unseres Erlösers am Kreuze](https://nl.wikipedia.org/wiki/Die_sieben_letzten_Worte_unseres_Erl%C3%B6sers_am_Kreuze) van [Haydn](https://nl.wikipedia.org/wiki/Joseph_Haydn).
 
 <figure class="w-100 br3 ma1 ba b--light-gray">
-	<img src="/images/Cantorex_Haydn.jpeg" alt="Cantorex">
+	<img src="/images/cantorex/Cantorex_Haydn.jpeg" alt="Cantorex" class="br3 br--top">
 	<figcaption class="tc">Die sieben letzten Worte unseres Erlösers am Kreuze van Haydn in het Rooms-Katholiek Aartsbisdom Utrecht met koor <a href="https://zingis.nl">Zingis</a> onder leiding van <a href="https://zingis.nl/martin">Martin Kuijlenburg</a>.</figcaption>
 </figure>
