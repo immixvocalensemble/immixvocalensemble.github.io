@@ -2,9 +2,9 @@
 title: Zanglessen in Utrecht
 ---
 
-<img src="/images/Strand.jpg" alt="Sebastiaan Ammerlaan" class="fr w-third ml-auto br2-ns bt bb ba-ns b--light-gray">
+<img src="/images/Strand.jpg" alt="Sebastiaan Ammerlaan" class="fr w-third ml-auto br3-ns bt bb ba-ns b--light-gray">
 
-De menselijke stem is een een verrassend geschikt muziekinstrument, voor iets dat evolutionair weinig waardevol kan zijn. Het stelt je in staat om muziek precies zo te laten klinken als jij hem in je hoofd hebt: een directe vertaling van jouw muzikale verbeelding. Er zit geen instrument tussen jou en de muziek en je bent nergens van afhankelijk.
+De menselijke stem is het muziekinstrument met de korste afstand tussen jou en muziek. Het stelt je in staat om muziek precies zo te laten klinken als jij hem in je hoofd hebt: een directe vertaling van jouw muzikale verbeelding. Er zit geen instrument tussen jou en de muziek en je bent nergens van afhankelijk.
 
 Toch klinkt gezongen muziek in de praktijk niet altijd precies zoals de zanger dat zou willen. Misschien heb je moeite met bepaalde hoge of lage noten, heb je moeite de juiste _sound_ te vinden of heb je simpelweg nog nooit gezongen en weet je niet waar je moet beginnen!
 
@@ -14,7 +14,7 @@ Samen met jou gaan we de muziek laten klinken zoals jij hem wilt. Hierbij ligt d
 
 Mijn eigen achtergrond ligt in klassieke zang en de klassieke zangtechniek, en vanuit die basis geef ik ook les. Ook voor genres als musical, jazz en pop is dit een zeer geschikt uitgangspunt.
 
-Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoopt te bereiken en hoe ik je daarbij kan helpen. Neem ook iets mee om voor te zingen! Ik geef mijn lessen in Utrecht—bij mij thuis in Zuilen of op het Utrechts Conservatorium. Desgewenst is les aan huis ook mogelijk. <!-- Klik [hier](#Tarieven-en-voorwaarden) voor tarieven en algemene voorwaarden. -->
+Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoopt te bereiken en hoe ik je daarbij kan helpen. Neem ook iets mee om voor te zingen! Ik geef mijn lessen in Utrecht&mdash;bij mij thuis in Zuilen of op het Utrechts Conservatorium. Desgewenst is les aan huis ook mogelijk.
 
 <a name="tarieven-en-voorwaarden"></a>
 
