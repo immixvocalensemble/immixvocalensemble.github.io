@@ -37,7 +37,7 @@ Het eerste project van Ensemble Nieuwe Muziek was op 16 april 2018 in het Utrech
     </div>
     <div class="fl w-100 w-50-ns pa2 br3 ba b--light-gray">
       
-		<img src="/images/enm/kistje.jpg" alt="Ensemble Nieuwe Muziek" class="br3 br--top">
+		<img src="/images/enm/kistje.jpg" alt="Ensemble Nieuwe Muziek" class="br3">
 
     </div>
   </div>
