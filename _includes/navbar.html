@@ -1,4 +1,4 @@
-<!-- Bron: https://w3bits.com/css-responsive-nav-menu/ en https://codepen.io/YoungElPaso/pen/geqpad-->
+<!-- Bron: https://w3bits.com/css-responsive-nav-menu/ en https://codepen.io/YoungElPaso/pen/geqpad -->
 
 <!-- 
 <a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
@@ -35,55 +35,67 @@
 <!-- Uses Tachyons CSS and a small override for a responsive CSS dropdown menu. -->
 
 <nav>
-	<ul class="menu list pa0 bg-white f4 nt0">
-    
-	    <!-- <li class="dib ma2 w-100 w-auto-ns bg-red">
+  <ul class="w-100 list ph3 pa3-ns bg-white f4 cf mb0 mb3-ns">
+
+    <!-- <li class="dib ma2 w-100 w-auto-ns bg-red">
 			<a href="/" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">Home</a>
 	    </li> -->
-	    
-	    <li class="dib ma0 w-100 w-auto-ns "> <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
-			<a href="/bio" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Bi&shy;o</a>
-	    </li>
-	    
-	    <li class="dib w-100 w-auto-ns">
-			<a href="/concertagenda" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">A&shy;gen&shy;da</a>
-	    </li>
-	    
-	    <li class="dib hide-child relative-m relative-l w-100 w-auto-ns">
-			<a href="/zangles" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
-			<ul class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-l shadow-4-m z-max">
-				
-				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-					<a href="/zangles/#tarieven-en-voorwaarden" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Ta&shy;rie&shy;ven &amp; Voor&shy;waar&shy;den</a>
-				</li>
-				
-			</ul>
-	    </li>
-	    
-	    <li class="dib pa0 ph2 hide-child relative-m relative-l w-100 w-auto-ns bammerlaan-blauw shadow-hover">
-			En&shy;sem&shy;bles ▾
-			<ul class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-l shadow-4-m z-max">
-				
-				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-					<a href="/ensembles/cantorex" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
-				</li>
-			
-				<li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-					<a href="/ensembles/enm" class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">En&shy;sem&shy;ble Nieu&shy;we Mu&shy;ziek</a>
-				</li>			
-				
-			</ul>
-	    </li>
-	    
-<!--    <li class="dib w-100 w-auto-ns ">
+
+    <li class="fl fn-ns dib-ns ma0-ns w-third w-auto-ns">
+      <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
+      <a href="/bio" class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">Bi&shy;o&shy;gra&shy;fie</a>
+    </li>
+
+    <li class="fl fn-ns dib-ns w-third w-auto-ns">
+      <a href="/concertagenda"
+        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">A&shy;gen&shy;da</a>
+    </li>
+
+    <li class="fl fn-ns dib-ns w-third w-auto-ns">
+      <a href="/contact" class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">Con&shy;tact</a>
+    </li>
+
+
+    <li class="outline dib pa0-ns ph2-ns hide-child relative-m relative-l w-40 w-auto-ns bammerlaan-blauw noselect">
+      En&shy;sem&shy;bles ▾
+      <ul
+        class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-l shadow-4-m z-max">
+
+        <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+          <a href="/ensembles/cantorex"
+            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
+        </li>
+
+        <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+          <a href="/ensembles/enm"
+            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">En&shy;sem&shy;ble Nieu&shy;we
+            Mu&shy;ziek</a>
+        </li>
+
+      </ul>
+    </li>
+
+
+    <li class="outline dib hide-child relative-m relative-l w-40 w-auto-ns">
+      <a href="/zangles" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
+      <ul
+        class="menu list bg-mid-gray mt1 pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-l shadow-4-m z-max">
+
+        <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
+          <a href="/zangles/#tarieven-en-voorwaarden"
+            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Ta&shy;rie&shy;ven &amp;
+            Voor&shy;waar&shy;den</a>
+        </li>
+
+      </ul>
+    </li>
+    <!--    <li class="dib w-100 w-auto-ns ">
 			<a href="/media/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Me&shy;di&shy;a</a>
 	    </li> -->
-	    
-	    <li class="dib w-100 w-auto-ns ">
-			<a href="/contact" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Con&shy;tact</a>
-	    </li>
-	    
-    </ul>
+
+
+
+  </ul>
 </nav>
 
 <!--
