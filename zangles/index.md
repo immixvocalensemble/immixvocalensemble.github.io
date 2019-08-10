@@ -8,7 +8,7 @@ De menselijke stem is het muziekinstrument met de korste afstand tussen jou en m
 
 Toch klinkt gezongen muziek in de praktijk niet altijd precies zoals de zanger dat zou willen. Misschien heb je moeite met bepaalde hoge of lage noten, heb je moeite de juiste _sound_ te vinden of heb je simpelweg nog nooit gezongen en weet je niet waar je moet beginnen!
 
-Samen met jou gaan we de muziek laten klinken zoals jij hem wilt. Hierbij ligt de focus altijd op gezond stemgebruik en werken we samen aan jouw zangtechniek.
+Samen gaan we er aan werken om de muziek te laten klinken zoals jij wilt. Hierbij ligt de focus altijd op gezond stemgebruik en werken we samen aan jouw zangtechniek.
 
 ## De zanglessen
 
