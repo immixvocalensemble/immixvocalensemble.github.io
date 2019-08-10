@@ -2,10 +2,8 @@
 title: Ensemble Nieuwe Muziek
 ---
 
-<figure class="fr w-50-l w-third-m w-25 ml-auto br3 ma1 ba b--light-gray">
-	<img src="/images/enm/Logo_ENM_final.svg" alt="Ensemble Nieuwe Muziek" class="br3 br--top">
-	<figcaption class="tc">Logo Ensemble Nieuwe Muziek.</figcaption>
-</figure>
+
+<img src="/images/enm/Logo_ENM_final_no_margin.svg" alt="Ensemble Nieuwe Muziek" class="fr w-third w-50-ns mv2 mh2-ns ml-auto">
 
 Ensemble Nieuwe Muziek is in 2017 opgezet door Sebastiaan Ammerlaan en Veronika Akhmetchina. Het is een ensemble op projectbasis met een steeds wisselende bezetting. Het ensemble is gespecialiseerd in het uitvoeren van muziek vers van de pen van de componist.
 
