@@ -122,6 +122,14 @@ a:active {
 	.child-vs.o-100-vs {
 		opacity: 1;
 	}
+	.full-width-ns {
+		width: 100vw;
+		position: relative;
+		left: 50%;
+		right: 50%;
+		margin-left: -50vw;
+		margin-right: -50vw;
+	} /* full-browser-width container: https://css-tricks.com/full-width-containers-limited-width-parents/ */
 } /* Zorgt dat in mobiele navbar de submenu's niet onzichtbaar zijn. */
 
 .noselect {
