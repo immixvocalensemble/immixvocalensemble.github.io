@@ -122,7 +122,7 @@ a:active {
 	.child-vs.o-100-vs {
 		opacity: 1;
 	}
-	.full-width-ns {
+	.full-width-mobileview {
 		width: 100vw;
 		position: relative;
 		left: 50%;
