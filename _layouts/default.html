@@ -13,24 +13,38 @@
 
 <body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
   <header class="tc ">
-    {% if page.layout != 'index' %}
-    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-    {% if posts.size == 0 %}
-    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-    {% endif %}
-    {% if posts.size > 1 %}
-    <div class="outline lang-options mb0 center mw2 bg-white br2 bt b--light-gray h2">
+    <!-- Language selection flags. -->
 
-      {% for post in posts %}
-      <a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
-        class="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
-      </a>
-      {% endfor %}
+    <div class="mw7 center">
+      <div class="cf">
+        <div class="fl w-80 w-90-l">
+          <div class="pv3"></div>
+        </div>
+        <div class="fl w-20 w-10-l h1">
+          {% if page.layout != 'index' %}
+          {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+          {% if posts.size == 0 %}
+          {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+          {% endif %}
+          {% if posts.size > 1 %}
+          <div class="lang-options f3 ">
 
+            {% for post in posts %}
+            <a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
+              class="{{post.lang}} no-underline"
+              href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
+            </a>
+            {% endfor %}
+
+          </div>
+
+          {% endif %}
+          {% endif %}
+        </div>
+      </div>
     </div>
 
-    {% endif %}
-    {% endif %}
+
     <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
       <a href="{{ site.url }}">
         <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">

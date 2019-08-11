@@ -26,7 +26,8 @@ Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoop
 |	Blok van vier lessen|	€ 133,10				|	€ 90,-				|
 |	Enkele les			|	€ 36,30					|	€ 25,-				|
 
-Het **gereduceerd tarief** geldt voor jeugd onder de 21 jaar.
+* Het **gereduceerd tarief** geldt voor jeugd onder de 21 jaar.
+* Les aan huis in overleg en voor een nader overeen te komen meerprijs.
 
 # Algemene voorwaarden
 

@@ -49,13 +49,15 @@
 
     <li class="fl fn-ns dib-ns w-third w-auto-ns">
       <a href="/{{page.lang}}/concertagenda"
-        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">A&shy;gen&shy;da</a>
+        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['agendaNav'][page.lang] }}</a>
     </li>
 
     <li class="fl fn-ns dib-ns w-third w-auto-ns">
       <a href="/{{page.lang}}/contact"
-        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">Con&shy;tact</a>
+        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['contactNav'][page.lang] }}</a>
     </li>
+
+    <!-- Onderstaande twee alleen voor mobiele site.-->
 
     <li class="fl fn-ns dn-ns w-third w-auto-ns mt2 ma0-ns">
       <a href="/{{page.lang}}/ensembles/cantorex"
@@ -64,15 +66,13 @@
 
     <li class="fl fn-ns dn-ns w-third w-auto-ns mt2 ma0-ns">
       <a href="/{{page.lang}}/ensembles/enm"
-        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble
-        Nieu&shy;we
-        Mu&shy;ziek</a>
+        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['enmNav'][page.lang] }}</a>
     </li>
 
-
+    <!-- Dropdown menu for -ns site.-->
     <li
       class="dn fl dib-ns fn-ns pa0-ns ph2-ns hide-child relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
-      En&shy;sem&shy;bles ▾
+      {{ site.data.translations['ensemblesNav'][page.lang] }} ▾
       <ul
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
 
@@ -83,8 +83,7 @@
 
         <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
           <a href="/{{page.lang}}/ensembles/enm"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">En&shy;sem&shy;ble Nieu&shy;we
-            Mu&shy;ziek</a>
+            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['enmNav'][page.lang] }}</a>
         </li>
 
       </ul>
@@ -94,14 +93,14 @@
     <li
       class="fl fn-ns dib pa0-ns ph2-ns hide-child relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
       <a href="/{{page.lang}}/zangles"
-        class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
+        class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">{{ site.data.translations['zanglesNav'][page.lang] }}
+        ▾</a>
       <ul
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
 
         <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
           <a href="/{{page.lang}}/zangles/#tarieven-en-voorwaarden"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Ta&shy;rie&shy;ven &amp;
-            Voor&shy;waar&shy;den</a>
+            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['tarievenVoorwaardenNav'][page.lang] }}</a>
         </li>
 
       </ul>
@@ -114,60 +113,3 @@
 
   </ul>
 </nav>
-
-<!--
-<div id="vue-example" class="mt5 bg-light-gray sans-serif">
-  <p class="gray pa3 pb0 dib">
-    This is the same type of menu as the prototype above but executed in Vue JS using components and some data (JSON) to inform the actual menu structure.  Since it uses actual data, in theory it could use a menu structure dynamically supplied by a CMS like WordPress or Drupal.
-  </p>
-</div> -->
-
-
-<!-- <nav class="bb b--light-gray pv4-l tc f4" id="menu"> OUD-->
-<!--
-<nav class="dib ma2 f4 pb3 w-100" id="menu">
-  <label for="tm" id="toggle-menu">Menu<span class="drop-icon">▾</span></label>
-  <input type="checkbox" id="tm">
-  <ul class="main-menu clearfix tc menu list">
-    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/">Home</a></li>
-    
-    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/concertagenda">Concertagenda</a></li>
-    
-    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/bio">Bio
-        <span class="drop-icon">▾</span>
-        <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
-      </a>
-      <input type="checkbox" id="sm1">
-      <ul class="sub-menu">
-        <li>
-			<a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles">Ensembles
-            <span class="drop-icon">▸</span>
-            <label title="Toggle Drop-down" class="drop-icon" for="sm2">▸</label>
-          </a>
-          <input type="checkbox" id="sm2">
-          <ul class="sub-menu">
-            <li><a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles/enm.md">Ensemble Nieuwe Muziek</a></li>
-            <li><a class="link bammerlaan-blauw hover-mid-gray" href="/ensembles/cantorex.md">Cantorex</a></li>
-          </ul>
-          <li><a class="link bammerlaan-blauw hover-mid-gray" href="/media">Media</a></li>  
-        </li>
-      </ul>
-    </li>
-    
-    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/zangles">Zangles
-        <span class="drop-icon">▾</span>
-        <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
-      </a>
-      <input type="checkbox" id="sm1">
-      <ul class="sub-menu">
-        <li>
-			<li><a class="link bammerlaan-blauw hover-mid-gray" href="/zangles#Tarieven-en-voorwaarden">Tarieven en voorwaarden</a></li>  
-        </li>
-      </ul>
-    </li>
-    
-    <li><a class="link bammerlaan-blauw hover-mid-gray" href="/contact" class="first">Contact</a></li>
-    
-  </ul>
-</nav>
--->
