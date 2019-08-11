@@ -1,32 +1,53 @@
 {% assign is_post = page.date %}
 <!doctype>
 <html lang="en">
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-  </head>
-  
-  <!-- Logo bovenin -->
-  <body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
-    <header class="tc mt4">
-		<div class="mw7 bg-white mt4 mb2 center br2-ns bt bb ba-ns b--light-gray">
-			<a href="{{ site.url }}">
-				<img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">
-			</a>
-		</div>
-      <!-- <p>{{ site.title }}</p> --> <!-- Tekst onder logo weghalen -->
-    </header>
-    
-    <!-- Begin styling van pagina-body -->
-    <div class="mw7 tc bg-white mt0 mb0 center br2-ns bt bb ba-ns b--light-gray">
-	  <!-- Navigatiebalk -->
-      
-        
-        {% include navbar.html %}
-        
-        <!-- 
+
+<head>
+  <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+  <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% include head.html %}
+</head>
+
+<!-- Logo bovenin -->
+
+<body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
+  <header class="tc ">
+    {% if page.layout != 'index' %}
+    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+    <div class="outline lang-options mb0 center mw2 bg-white br2 bt b--light-gray h2">
+
+      {% for post in posts %}
+      <a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
+        class="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
+      </a>
+      {% endfor %}
+
+    </div>
+
+    {% endif %}
+    {% endif %}
+    <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
+      <a href="{{ site.url }}">
+        <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">
+      </a>
+    </div>
+    <!-- <p>{{ site.title }}</p> -->
+    <!-- Tekst onder logo weghalen -->
+  </header>
+
+  <!-- Begin styling van pagina-body -->
+  <div class="mw7 tc bg-white mt0 mb0 center br2-ns bt bb ba-ns b--light-gray">
+    <!-- Navigatiebalk -->
+
+
+    {% include navbar.html %}
+
+    <!-- 
         {% for link in site.links %}
           <a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
              href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
@@ -34,38 +55,44 @@
           </a>
         {% endfor %}
 		-->
-		
-	  <!-- Plaats van content op de pagina -->
-      <!-- <main class="tl f6 relative pa4 pa5-ns overflow-hidden"> --> <!-- Oud -->
-	  <main class="tl f6 relative pa4 ph5 overflow-hidden bt b--light-gray">
-		  <a name="top"></a> <!-- Anchor om bovenaan de pagina te komen. -->
-        {% if page.title %}
-          <div class="mb4">
-            {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
-            <!-- Hieronder styling van paginatitels -->
-            <!-- <h1 class="ttu f3 mt0 lh-title cb mb2"> --> <!-- Oud -->
-			<h1> <!-- Zonder class om gewoon h1-regel te volgen -->
-              {% if is_post %}
-              {% endif %}
-              {{ page.title }}
-            </h1>
-            {% if is_post and site.share %}
-              <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-              <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" data-action="like"></div>
-            {% endif %}
-          </div>
+
+    <!-- Plaats van content op de pagina -->
+    <!-- <main class="tl f6 relative pa4 pa5-ns overflow-hidden"> -->
+    <!-- Oud -->
+    <main class="tl f6 relative pa4 ph5 overflow-hidden bt b--light-gray">
+      <a name="top"></a> <!-- Anchor om bovenaan de pagina te komen. -->
+      {% if page.title %}
+      <div class="mb4">
+        {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
+        <!-- Hieronder styling van paginatitels -->
+        <!-- <h1 class="ttu f3 mt0 lh-title cb mb2"> -->
+        <!-- Oud -->
+        <h1>
+          <!-- Zonder class om gewoon h1-regel te volgen -->
+          {% if is_post %}
+          {% endif %}
+          {{ page.title }}
+        </h1>
+        {% if is_post and site.share %}
+        <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+        <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"
+          data-font="arial" data-action="like"></div>
         {% endif %}
-        <div class="markdown-body">
-          {{ content }}
-        </div>
-        {% if is_post %}{% include signoff.html %}{% endif %}
-      </main>
-      {% if is_post %}{% include pagination.html %}{% endif %}
-    </div>
-    <footer class="mw7 center tc pt3 pb4 silver">
-      Built with <a href="https://jekyllrb.com/" class="link silver hover-blue pv1">Jekyll</a> using the <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a> theme. Hosted on <a href="https://pages.github.com/" class="link silver hover-blue pv1">Github Pages</a>. 
-      <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_alleen_vierkant_optimised.svg" alt="Sebastiaan Ammerlaan — bariton" class="mt4 db center" width=50 />
-    </footer>
-  </body>
+      </div>
+      {% endif %}
+      <div class="markdown-body">
+        {{ content }}
+      </div>
+      {% if is_post %}{% include signoff.html %}{% endif %}
+    </main>
+    {% if is_post %}{% include pagination.html %}{% endif %}
+  </div>
+  <footer class="mw7 center tc pt3 pb4 silver">
+    {{ site.data.translations['footerText'][page.lang] }}
+    <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_alleen_vierkant_optimised.svg"
+      alt="Sebastiaan Ammerlaan — bariton" class="mt4 db center" width=50 />
+  </footer>
+</body>
+
 </html>

@@ -1,5 +1,7 @@
 ---
 title: Ensemble Cantorex
+lang: en
+lang-ref: cantorex
 ---
 
 <figure class="fr-l w-50-l ml-auto-l fr-m w-50-m ml-auto-m br3 ma1 ba b--light-gray">

@@ -43,25 +43,28 @@
 
     <li class="fl fn-ns dib-ns ma0-ns w-third w-auto-ns">
       <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
-      <a href="/bio" class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">Bi&shy;o&shy;gra&shy;fie</a>
+      <a href="/{{page.lang}}/bio"
+        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['bioNav'][page.lang] }}</a>
     </li>
 
     <li class="fl fn-ns dib-ns w-third w-auto-ns">
-      <a href="/concertagenda"
+      <a href="/{{page.lang}}/concertagenda"
         class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">A&shy;gen&shy;da</a>
     </li>
 
     <li class="fl fn-ns dib-ns w-third w-auto-ns">
-      <a href="/contact" class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">Con&shy;tact</a>
+      <a href="/{{page.lang}}/contact"
+        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">Con&shy;tact</a>
     </li>
 
     <li class="fl fn-ns dn-ns w-third w-auto-ns mt2 ma0-ns">
-      <a href="/ensembles/cantorex"
+      <a href="/{{page.lang}}/ensembles/cantorex"
         class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble Can&shy;to&shy;rex</a>
     </li>
 
     <li class="fl fn-ns dn-ns w-third w-auto-ns mt2 ma0-ns">
-      <a href="/ensembles/enm" class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble
+      <a href="/{{page.lang}}/ensembles/enm"
+        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble
         Nieu&shy;we
         Mu&shy;ziek</a>
     </li>
@@ -74,12 +77,12 @@
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
 
         <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/ensembles/cantorex"
+          <a href="/{{page.lang}}/ensembles/cantorex"
             class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
         </li>
 
         <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/ensembles/enm"
+          <a href="/{{page.lang}}/ensembles/enm"
             class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">En&shy;sem&shy;ble Nieu&shy;we
             Mu&shy;ziek</a>
         </li>
@@ -90,12 +93,13 @@
 
     <li
       class="fl fn-ns dib pa0-ns ph2-ns hide-child relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
-      <a href="/zangles" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
+      <a href="/{{page.lang}}/zangles"
+        class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Zang&shy;les ▾</a>
       <ul
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
 
         <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-          <a href="/zangles/#tarieven-en-voorwaarden"
+          <a href="/{{page.lang}}/zangles/#tarieven-en-voorwaarden"
             class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Ta&shy;rie&shy;ven &amp;
             Voor&shy;waar&shy;den</a>
         </li>

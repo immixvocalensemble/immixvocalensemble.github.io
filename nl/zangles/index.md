@@ -1,5 +1,7 @@
 ---
 title: Zanglessen in Utrecht
+lang: nl
+lang-ref: zanglessen
 ---
 
 <img src="/images/Strand.jpg" alt="Sebastiaan Ammerlaan" class="fr w-third ml-auto br3-ns bt bb ba-ns b--light-gray">

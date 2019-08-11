@@ -1,0 +1,12 @@
+relatedPosts:
+  en: "Related posts"
+  nl: "Gerelateerde posts"
+differentLanguage:
+  en: "Read this page in a different language"
+  es: "Lees deze pagina in een andere taal"
+bioNav:
+  en: "Bi&shy;o&shy;gra&shy;phy"
+  nl: "Bi&shy;o&shy;gra&shy;fie"
+footerText:
+  en: "Built with <a href="https://jekyllrb.com/" class="link silver hover-blue pv1">Jekyll<a> using the <a href="http://github.com/muan/scribble" class="link silver hover-blue v1">Scribble</a> theme. Hosted on <a href="https://pages.github.com/" class="link silver hover-blue pv1">Github Pages</a>."
+  nl: "Gemaakt met <a href="https://jekyllrb.com/" class="link silver hover-blue pv1">Jekyll</a> met het <a href="http://github.com/muan/scribble" class="link silver hover-blue v1">Scribble</a> thema. Gehost op <a href="https://pages.github.com/" class="link silver hover-blue pv1">Github Pages</a>."
