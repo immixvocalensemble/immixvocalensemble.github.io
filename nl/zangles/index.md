@@ -36,6 +36,6 @@ Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoop
 *   Betaling geschiedt bij voorkeur per overschrijving.
 *   Prijzen zijn inclusief 21% BTW. (Gereduceerd tarief betaalt geen BTW, zie de [website van de Belastingdienst](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/tarieven_en_vrijstellingen/vrijstellingen/onderwijs/vrijstelling_voor_onderwijs_in_muziek_dans_drama_beeldende_vorming_en_circustechnieken).)
 *   Een zangles kan uiterlijk 24 uur voor de afgesproken lestijd afgezegd worden. Daarna breng ik het lesgeld in rekening (overmacht daargelaten in overleg).
-*   De 60 minuten zijn inclusief binnenkomen en weggaan.
+*   De les duurt 60 minuten, inclusief binnenkomen en weggaan.
 *   Ik behoud mij het recht voor om zonder opgave van reden een les af te zeggen. Deze les wordt vanzelfsprekend ingehaald of vergoed.
 *   De prijzen kunnen ieder jaar in het nieuwe seizoen (na de zomervakantie) worden aangepast.

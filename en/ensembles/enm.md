@@ -1,5 +1,5 @@
 ---
-title: Ensemble Nieuwe Muziek
+title: Ensemble for New Music
 lang: en
 lang-ref: enm
 ---
