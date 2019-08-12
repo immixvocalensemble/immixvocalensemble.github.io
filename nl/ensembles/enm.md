@@ -11,7 +11,7 @@ Ensemble Nieuwe Muziek is in 2017 opgezet door Sebastiaan Ammerlaan en sopraan V
 
 Ook Mozart schreef ooit nieuwe muziek, net als Wagner en later Poulenc. Wie zijn de grote componisten van onze generatie?
 
-De eerste incarnatie van het ensemble was voor zangkwartet, met de zangers Annely Leinberg, Hugo Kampschreur, Sebastiaan Ammerlaan en Veronika Akhmetchina. 
+De eerste incarnatie van het ensemble was een zangkwartet, met de zangers Annely Leinberg, Hugo Kampschreur, Sebastiaan Ammerlaan en Veronika Akhmetchina. 
 
 ## Idealistisch
 
@@ -21,11 +21,11 @@ Het ensemble is idealistisch van opzet en probeert transparant te zijn in zijn w
 
 Het eerste project van Ensemble Nieuwe Muziek was op 16 april 2018 in het Utrechts Conservatorium, met een tweede uitvoering op 25 mei 2018 in TivoliVredenburg. De volgende stukken werden in première gebracht:
 
-* **Killian Elbers** (1993) - *Leafless Trees*
+* **[Killian Elbers](http://www.killianelbers.com/)** (1993) - *Leafless Trees*
 * **Ardie van der Knijff** (1991) - *Jûra*
-* **Hugo Bouma** (1991) - *Objets trouvés*
-* **Remco Jacobs** (1989) - *Koraal voor het koraal*
-* **Niels Hak** (1994)  - *Distant Light*
+* **[Hugo Bouma](http://hugobouma.nl/)** (1991) - *[Objets trouvés](http://hugobouma.nl/composities/objets-trouves/)*
+* **[Remco Jacobs](http://remco-jacobs.com/)** (1989) - *Koraal voor het koraal*
+* **[Niels Hak](https://nielshak.com/)** (1994)  - *[The Distant Light](https://nielshak.com/portfolio/the-distant-light/)*
 
 <div class="mw9 center ph3-ns">
   <div class="cf ph2-ns">
