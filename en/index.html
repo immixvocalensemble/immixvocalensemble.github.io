@@ -8,14 +8,25 @@ lang-ref: home
 </figure>
 
 <!-- Hieronder eventueel code voor blog -->
-<!--
+
 <div class="blurb">
-	<center><h1>Blog</h1></center>
+  <center>
+    <h1>Blog</h1>
+  </center>
+  <p>
+    De sterk uiteenlopende onderwerpen en hersenspinselen die door mijn grijze massa slingeren. Als vage rode lijn is er
+    het zingen, maar ik hobby er naarstig op los in andere interessevelden.
+  </p>
+  <p>
+    Handig, dan hebben we hopelijk een leuk onderwerp om over te kunnen keuvelen in de pauze van een concert.
+  </p>
+
 </div><!-- /.blurb -->
 
-<!--
+
 <ul class="list pa0">
-  {% for post in site.posts %}
+  {% assign posts = site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
   <li class="mv2">
     <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
       <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
@@ -24,4 +35,3 @@ lang-ref: home
   </li>
   {% endfor %}
 </ul>
--->
