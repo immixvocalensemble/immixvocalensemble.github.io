@@ -1,6 +1,6 @@
 ---
 title: Android-tablets voor de klassieke musicus
-date: 2019-07-15
+date: 2019-08-14
 lang: nl
 lang-ref: android-tablets
 ---
@@ -9,7 +9,7 @@ De klassieke musicus wordt omgeven door traditie. Dat zorgt voor een rijke voedi
 
 Waar de schoen wringt bij technologie en muziek is vaak de betrouwbaarheid. Het rampscenario is de technologie die plotseling de geest geeft midden in een concert. Wat dan? Reden genoeg voor velen om de technologie nog maar te mijden.
 
-Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans [open-source](https://youtu.be/a8fHgx9mE5U) te zijn en, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten.](https://stallman.org/apple.html)) In dit artikel heb ik het dus over Android-tablets.
+Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans [open-source](https://youtu.be/a8fHgx9mE5U) te zijn en zijn, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten.](https://stallman.org/apple.html)) In dit artikel heb ik het dus over Android-tablets.
 
 ## Een tablet uitkiezen
 

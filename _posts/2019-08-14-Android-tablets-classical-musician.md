@@ -1,6 +1,6 @@
 ---
 title: Android-tablets for the classical musician
-date: 2019-07-15
+date: 2019-08-14
 lang: en
 lang-ref: android-tablets
 ---
