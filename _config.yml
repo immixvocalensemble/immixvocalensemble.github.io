@@ -38,3 +38,10 @@ permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
+
+[Params.staticman]
+  endpoint = "https://api.staticman.net"
+  gitProvider = "github"
+  username = "bammerlaan"
+  repository = "hugo-swift-theme"
+  branch = "master"
