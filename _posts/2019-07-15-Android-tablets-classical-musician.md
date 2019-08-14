@@ -5,11 +5,11 @@ lang: en
 lang-ref: android-tablets
 ---
 
-De klassieke musicus wordt omgeven door traditie. Dat zorgt voor een rijke voedingsbodem maar verhindert nog wel eens vernieuwing. Dat ene koorlid met een tablet in z'n handen valt niet per se in positieve zin op.
+De klassieke musicus wordt omgeven door traditie. Dat zorgt voor een rijke voedingsbodem maar staat vernieuwing soms in de weg. Dat ene koorlid met een tablet in z'n handen valt niet per se in positieve zin op.
 
-Waar de schoen wringt bij technologie en muziek is vaak de betrouwbaarheid. Het rampscenario is de technologie die plotseling de geest geeft midden in een concert. Wat dan?
+Waar de schoen wringt bij technologie en muziek is vaak de betrouwbaarheid. Het rampscenario is de technologie die plotseling de geest geeft midden in een concert. Wat dan? Reden genoeg voor velen om de technologie nog maar te mijden.
 
-Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans open-source te zijn en, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten.](https://stallman.org/apple.html))
+Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans [open-source](https://youtu.be/a8fHgx9mE5U) te zijn en, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten.](https://stallman.org/apple.html)) In dit artikel heb ik het dus over Android-tablets.
 
 ## Een tablet uitkiezen
 
@@ -19,9 +19,19 @@ Het interessante van tablets voor musici is natuurlijk voornamelijk de mogelijkh
 
 Let bij het uitkiezen van een tablet op deze dingen:
 
-- **Opslagmogelijkheid.** Als je een boel bladmuziek hebt kan het verstandig zijn te kijken naar een tablet met veel opslagruimte. Zeker ingescande bladmuziek in pdf-vorm kunnen oplopen qua bestandsgrootte, omdat het feitelijk een serie in pdf gegoten afbeeldingen zijn, vaak op hoge resolutie.
+<figure class="fr-l w-50-l ml-auto-l fr-m w-50-m ml-auto-m br3 ma1 ba b--light-gray">
+	<img src="/images/blog/2019/Screenshot_20190814-210739_Total Commander.jpg" alt="Opslag" class="br3 br--top">
+	<figcaption class="tc">Grote verzamelingen bladmuziek kunnen al snel groot worden.</figcaption>
+</figure>
 
-  - Het kan het overwegen waard zijn een tablet te nemen met ruimte voor een sd-kaart. Dat kan het makkelijker maken gegevens met anderen te delen, nieuwe bladmuziek op de tablet te zetten en door meerdere sd-kaarten te gebruiken heb je zelfs praktisch oneindige ruimte voor meer bestanden (gezien die dingen zo klein zijn).
+- **Opslagmogelijkheid.** Als je een boel bladmuziek hebt kan het verstandig zijn te kijken naar een tablet met veel opslagruimte. Zeker ingescande bladmuziek in pdf-vorm kan oplopen qua bestandsgrootte, omdat het feitelijk een serie in pdf gegoten afbeeldingen zijn, vaak op hoge resolutie.
+
+  - Je kan overwegen een tablet te nemen met ruimte voor een sd-kaart. Dat kan het makkelijker maken gegevens met anderen te delen, nieuwe bladmuziek op de tablet te zetten en door meerdere sd-kaarten te gebruiken heb je zelfs praktisch oneindige ruimte voor meer bestanden (gezien die dingen zo klein zijn).
+  - Voor toegevoegd praktisch nut kan je ook overwegen je bladmuziekvoorraad in de _cloud_ op te slaan. Voordelen:
+    1. Minder opslagruimte op de tablet nodig.
+    2. Makkelijker om je bladmuziek met anderen te delen: het staat al online en je hoeft alleen nog maar een link te genereren.
+    3. Bladmuziek is automatisch beschermd tegen falende opslagapparatuur.
+  - Het nadeel is wel dat je afhankelijk bent van een internetverbinding voor de bladmuziek die je nog niet naar de harde schijf van je tablet hebt gedownload.
 
 <figure class="fr-l w-50-l ml-auto-l fr-m w-50-m ml-auto-m br3 ma1 ba b--light-gray">
 	<img src="/images/blog/2019/s-pen.jpg" alt="S-pen" class="br3 br--top">
