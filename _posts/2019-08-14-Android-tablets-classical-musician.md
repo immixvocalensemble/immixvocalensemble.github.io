@@ -7,7 +7,7 @@ lang-ref: android-tablets
 
 <img class="db w-100 mt0" src="/images/blog/2019/tablet-choir.jpg" alt="A tablet in a choir.">
 
-The classical musician is surrounded by tradition. A rich tradition, te be sure, with much to be learned from, but occasionally it gets in the way of progress. That one choir member holding a tablet sticks out like a sore thumb.
+The classical musician is surrounded by tradition. A rich tradition, to be sure, with much to be learned from, but occasionally it gets in the way of progress. That one choir member holding a tablet sticks out like a sore thumb.
 
 The primary concern regarding technology and classical music is its reliability. There is always the fear of a tablet suddenly freezing in the middle of a performance, or simply pressing the wrong button and losing your place in the score. Reason enough for most to simply avoid the scary new tech.
 
