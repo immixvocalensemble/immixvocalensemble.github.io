@@ -7,6 +7,8 @@ facebook_appid: # APP ID for like button, remove from /_includes/share.html if u
 google_analytics: UA-77407217-1
 share: false # Turn on twitter and facebook share buttons
 email: "bas@bammerlaan.nl"
+timezone: "Europe/Amsterdam"
+
 
 links:
   - name: Home
@@ -41,4 +43,4 @@ defaults:
 
 staticman:
   api: "https://staticman3.herokuapp.com/v3/entry/github/bammerlaan/bammerlaan.github.io/master/comments"
-  path: "_data/comments/test-slug"
+  path: "_data/comments/{{ page.lang-ref }}"
