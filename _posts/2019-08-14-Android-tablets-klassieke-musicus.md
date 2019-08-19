@@ -64,7 +64,7 @@ Let bij het uitkiezen van een tablet op deze dingen:
 
 ## Gebruik van de tablet
 
-Ervaring wijst uit dat je er verstandig aan doet eerst in je eentje uitgebreid ervaring op te doen met de tablet voor je hem in het openbaar bij repetities gebruikt. Op het moment dat je niet gelijk het goede knopje hebt gevonden zal je al snel zulke bemoedigende woorden horen als, "Zie je wel, het werkt toch maar zo-zo, zo'n tablet", of "Kan je voor de volgende repetitie toch gewoon je bladmuziek uitprinten? Dit werkt duidelijk gewoon niet". Zoals alle nieuwe technologie moet de tablet zichzelf nog bewijzen.
+Ervaring wijst uit dat je er verstandig aan doet eerst in je eentje uitgebreid te oefenen met de tablet voor je hem in het openbaar bij repetities gebruikt. Op het moment dat je niet gelijk het goede knopje hebt gevonden zal je al snel zulke bemoedigende woorden horen als, "Zie je wel, het werkt toch maar zo-zo, zo'n tablet", of "Kan je voor de volgende repetitie toch gewoon je bladmuziek uitprinten? Dit werkt duidelijk gewoon niet". Zoals alle nieuwe technologie moet de tablet zichzelf nog bewijzen.
 
 In een volgende blogpost zal ik de essentiële Android-apps op een rijtje zetten voor de klassieke musicus. (Tipje van de sluier: [Mobilesheets](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro) is wat mij betreft de beste bladmuziek-app voor Android.) Ook de oplossing die ik heb gevonden voor de tablet in een map voor bladmuziek zal ik in een andere post nader toelichten en mijn compensatie voor het gebrek aan _palm rejection_ van mijn tablet.
 
