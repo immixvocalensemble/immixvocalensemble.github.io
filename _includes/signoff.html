@@ -20,7 +20,7 @@
       <input type="email" name="fields[email]" class="db w-100 fr-ns w-50-ns pa2 mt2 mb1 br2 b--black-20 ba f6 bl-0-ns"
         placeholder="{{ site.data.translations['commentsEmail'][page.lang] }}">
       <!-- Comment submit button -->
-      <button type="submit"
+      <button type="submit" onclick="return confirm('{{ site.data.translations['commentsConfirm'][page.lang] }}')"
         class="db pointer br2 ba b--black-20 bg-bammerlaan-blauw white pa2 ml1 mv1 bg-animate hover-bg-bammerlaan-grijs border-box">{{ site.data.translations['commentsSubmit'][page.lang] }}</button>
     </form>
   </div>

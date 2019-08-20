@@ -46,3 +46,6 @@ commentsMessage:
 commentsSubmit:
   en: "Send"
   nl: "Versturen"
+commentsConfirm:
+  en: "Press OK to send your comment."
+  nl: "Druk op OK om je reactie te versturen."
