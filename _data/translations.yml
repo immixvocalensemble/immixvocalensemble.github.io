@@ -47,5 +47,5 @@ commentsSubmit:
   en: "Send"
   nl: "Versturen"
 commentsConfirm:
-  en: "Press OK to send your comment."
-  nl: "Druk op OK om je reactie te versturen."
+  en: "Press OK to send your comment. It will be published following approval."
+  nl: "Druk op OK om je reactie te versturen. Na goedkeuring wordt hij op de site gepubliceerd."
