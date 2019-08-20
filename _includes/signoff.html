@@ -21,17 +21,7 @@
         class="pointer br2 ba b--black-20 bg-bammerlaan-blauw white pa2 ml1 mv1 bg-animate hover-bg-bammerlaan-grijs border-box">{{ site.data.translations['commentsSubmit'][page.lang] }}</button>
     </form>
   </div>
-
-
-  <form method="POST" action="{{ site.staticman.api }}">
-    <input name="options[redirect]" type="hidden" value="{{ site.url }}">
-    <input name="options[slug]" type="hidden" value="{{ page.lang-ref }}">
-    <label>Name: <input name="fields[name]" type="text"></label><br>
-    <label>Email: <input name="fields[email]" type="email"></label><br>
-    <label>Message: <br><textarea name="fields[message]" rows="12" cols="36"></textarea></label><br>
-    <input type="submit" value="Submitgcxgdf">
-  </form>
+  <!-- List existing comments -->
   {% include comments.html %}
 
 </p>
-<img src="{{ site.url }}/images/Bas_zang_logo_v6.3_alleen_vierkant_optimised.svg" alt="Bammerlaan" class="" width=50>

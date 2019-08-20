@@ -6,7 +6,7 @@
     {% assign commentData = comment[1] %}
     <article class="comment">
         <h4 class="comment-name">{{ commentData.name }}</h4>
-        <p class="comment-time">{{ commentData.date | date: "%b %d, %Y %H:%M:%S" }}</p>
+        <p class="comment-time">{{ commentData.date | date: "%d %b %Y, %H:%M" }}</p>
         <div class="comment-msg">
             {{ commentData.message | markdownify }}
         </div>
