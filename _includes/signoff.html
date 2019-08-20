@@ -11,14 +11,17 @@
       <textarea type="text" name="fields[message]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6" rows="10"
         placeholder="{{ site.data.translations['commentsMessage'][page.lang] }}"></textarea>
       <!-- Comments writer name -->
-      <input type="text" name="fields[name]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6"
+      <input type="text" name="fields[name]" class="db w-100 fl-ns w-50-ns pa2 mt2 mb1 br2 b--black-20 ba f6"
         placeholder="{{ site.data.translations['commentsName'][page.lang] }}">
+      <!-- Spacer between name & e-mail 
+      <div class="fl w-20 outline pa1 mt2">&nbsp;</div> -->
+
       <!-- Comments e-mail -->
-      <input type="email" name="fields[email]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6"
+      <input type="email" name="fields[email]" class="db w-100 fr-ns w-50-ns pa2 mt2 mb1 br2 b--black-20 ba f6 bl-0-ns"
         placeholder="{{ site.data.translations['commentsEmail'][page.lang] }}">
       <!-- Comment submit button -->
       <button type="submit"
-        class="pointer br2 ba b--black-20 bg-bammerlaan-blauw white pa2 ml1 mv1 bg-animate hover-bg-bammerlaan-grijs border-box">{{ site.data.translations['commentsSubmit'][page.lang] }}</button>
+        class="db pointer br2 ba b--black-20 bg-bammerlaan-blauw white pa2 ml1 mv1 bg-animate hover-bg-bammerlaan-grijs border-box">{{ site.data.translations['commentsSubmit'][page.lang] }}</button>
     </form>
   </div>
   <!-- List existing comments -->
