@@ -68,7 +68,7 @@ Ervaring wijst uit dat je er verstandig aan doet eerst in je eentje uitgebreid t
 
 In een volgende blogpost zal ik de essentiële Android-apps op een rijtje zetten voor de klassieke musicus. (Tipje van de sluier: [Mobilesheets](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro) is wat mij betreft de beste bladmuziek-app voor Android.) Ook de oplossing die ik heb gevonden voor de tablet in een map voor bladmuziek zal ik in een andere post nader toelichten en mijn compensatie voor het gebrek aan _palm rejection_ van mijn tablet.
 
-<section class="mw5 mw7-ns center bg-lightest-blue pa3 ph5-ns navy">
+<section class="mw5 mw7-ns center bg-lightest-blue pa3 ph5-ns navy pa5-l pa5-m">
 <figure class="fr-ns br3 ma1 mt0">
   	<img src="/images/blog/2019/tablet-zoom.gif" alt="Opslag" class="br3">
   </figure>

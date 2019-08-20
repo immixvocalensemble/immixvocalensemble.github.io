@@ -68,7 +68,7 @@ My experience shows that you'd do well to thoroughly test your tablet before usi
 
 In a next post I will list some essential Android apps for the classical musician. (Spoiler: [Mobilesheets](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro) is in my opinion the best sheet music app for Android.) I will also talk about the solution I found for putting the tablet in a music binder to be less conspicuous in group settings and my compensation for having a tablet without palm rejection.
 
-<section class="mw5 mw7-ns center bg-lightest-blue pa3 ph5-ns navy">
+<section class="mw5 mw7-ns center bg-lightest-blue pa3 pa5-l pa5-m ph5-ns navy">
 <figure class="fr-ns br3 ma1 mt0">
   	<img src="/images/blog/2019/tablet-zoom.gif" alt="Opslag" class="br3">
   </figure>
