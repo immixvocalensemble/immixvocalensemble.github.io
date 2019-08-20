@@ -1,8 +1,6 @@
 <p class="mt4">
   {{ site.data.translations['blogSignoff'][page.lang] }}<br>
   {{ site.signoff }}
-  <!-- <span class="silver">{{ page.date | date: "at %H:%M" }}</span> -->
-
   <div class="w-100 pa2">
     <form method="POST" action="{{ site.staticman.api }}">
       <input name="options[redirect]" type="hidden" value="{{ site.url }}">
