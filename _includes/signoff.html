@@ -3,13 +3,33 @@
   {{ site.signoff }}
   <!-- <span class="silver">{{ page.date | date: "at %H:%M" }}</span> -->
 
+  <div class="w-100 pa2">
+    <form method="POST" action="{{ site.staticman.api }}">
+      <input name="options[redirect]" type="hidden" value="{{ site.url }}">
+      <input name="options[slug]" type="hidden" value="{{ page.lang-ref }}">
+      <!-- Comment body text -->
+      <textarea type="text" name="fields[message]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6" rows="10"
+        placeholder="{{ site.data.translations['commentsMessage'][page.lang] }}"></textarea>
+      <!-- Comments writer name -->
+      <input type="text" name="fields[name]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6"
+        placeholder="{{ site.data.translations['commentsName'][page.lang] }}">
+      <!-- Comments e-mail -->
+      <input type="email" name="fields[email]" class="db w-100 pa2 mt2 br2 b--black-20 ba f6"
+        placeholder="{{ site.data.translations['commentsEmail'][page.lang] }}">
+      <!-- Comment submit button -->
+      <button type="submit"
+        class="pointer br2 ba b--black-20 bg-bammerlaan-blauw white pa2 ml1 mv1 bg-animate hover-bg-bammerlaan-grijs border-box">{{ site.data.translations['commentsSubmit'][page.lang] }}</button>
+    </form>
+  </div>
+
+
   <form method="POST" action="{{ site.staticman.api }}">
     <input name="options[redirect]" type="hidden" value="{{ site.url }}">
     <input name="options[slug]" type="hidden" value="{{ page.lang-ref }}">
     <label>Name: <input name="fields[name]" type="text"></label><br>
     <label>Email: <input name="fields[email]" type="email"></label><br>
     <label>Message: <br><textarea name="fields[message]" rows="12" cols="36"></textarea></label><br>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Submitgcxgdf">
   </form>
   {% include comments.html %}
 

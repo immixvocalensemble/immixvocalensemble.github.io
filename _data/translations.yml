@@ -31,3 +31,18 @@ footerText:
 blogSignoff:
   en: "Until next time,"
   nl: "Tot de volgende,"
+commentsHeader:
+  en: "Comments"
+  nl: "Reacties"
+commentsName:
+  en: "Name"
+  nl: "Naam"
+commentsEmail:
+  en: "Email"
+  nl: "E-mailadres"
+commentsMessage:
+  en: "Comment"
+  nl: "Plaats een reactie..."
+commentsSubmit:
+  en: "Send"
+  nl: "Versturen"

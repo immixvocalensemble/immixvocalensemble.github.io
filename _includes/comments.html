@@ -1,5 +1,5 @@
 <div class="comments">
-    <h3>Comments</h3>
+    <h3>{{ site.data.translations['commentsHeader'][page.lang] }}</h3>
     <!-- Add nesting Liquid Tags. Refer to variable in Liquid array declaration. -->
     {% assign comments = site.data.comments.[page.lang-ref] | sort %}
     {% for comment in comments reversed %}
