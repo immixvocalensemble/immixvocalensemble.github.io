@@ -22,7 +22,7 @@ Het afgelopen jaar heb ik verschillende Android-apps uitgeprobeerd voor bladmuzi
 
 ## Muziekbibliotheek
 
-Als je de app opent zal je eerst toestemming moeten verlenen om de app toegang te geven tot je bestanden. Gezien je bladmuziek bestanden zijn is dit dus noodzakelijk.
+Als je de app opent zal je eerst toestemming moeten verlenen om de app toegang te geven tot je bestanden. Druk hier op ja.
 
 <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray caption tc f7">
 <a href="/images/blog/2019/welkomstvraag.jpg">
@@ -54,7 +54,7 @@ Je ziet dan de muziekbibliotheek: een overzicht van alle bladmuziek die je hebt 
 
 De bibliotheek is in eerste instantie gevuld met tabbladen die voor klassieke musici overbodig zijn. Dat is makkelijk aan te passen en zorgt voor een overzichtelijkere bibliotheek. Voor klassieke muziek heb je eigenlijk alleen een tab met componisten nodig en eventueel een tab met de titels van muziek. Een tab met recent geopende bestanden is een handige derde tab.
 
-Druk hiervoor op de drie puntjes onder elkaar, rechtboven, en ga naar de "Bibliotheek instellingen" (inclusief nare spatiefout). Hier kan je best een aantal dingen instellen. Lees deze rustig even door, zodat je weet dat de opties er zijn. Probeer ook wat dingen uit, zo kan ik het donkere thema aanraden en hoeven voor klassieke componisten lettertekens niet "genormaliseerd" te worden.
+Druk hiervoor op de drie puntjes onder elkaar, rechtboven, en ga naar de "Bibliotheek instellingen" (inclusief nare spatiefout). Hier zijn een groot aantal instellingen te vinden. Lees deze rustig even door, zodat je weet dat de opties er zijn. Probeer ook wat dingen uit, zo kan ik het donkere thema aanraden en hoeven voor klassieke componisten lettertekens niet "genormaliseerd" te worden.
 
 <figure class="fr-ns w-30-ns br3 ma1 ba b--light-gray caption tc f7">
 <a href="/images/blog/2019/titelopmaak.jpg">
@@ -76,18 +76,18 @@ Druk vervolgens op "Tab volgorde". Hier kan ik de tabs zoals in de afbeelding hi
 
 Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zijn een kleine tijdsinvestering wel waard om alles naar je smaak in te kunnen stellen. Een overzicht van de meest relevante opties per tab van de instellingen:
 
-- **Opslagruimte:** Hier kan je onder andere instellingen voor Dropbox en Google Drive aanpassen.
-- **Weergave instellingen:** De standaard-instellingen hier zijn goed, alleen schakelde ik de omsla-animatie hier uit om sneller de volgende pagina te kunnen zien in de hitte van de strijd.
+- **Opslagruimte:** Hier kan je onder andere Dropbox en Google Drive instellen.
+- **Weergave instellingen:** De standaardinstellingen hier zijn goed, alleen schakelde ik de omsla-animatie hier uit om sneller de volgende pagina te kunnen zien in de hitte van de strijd.
 - **Importeerinstellingen:** Hier heb ik agressief bijsnijden ingeschakeld. Hoe minder marge hoe beter op een klein scherm. Wat heb je aan witruimte op een tablet?
   <figure class="fr-ns w-40-ns br3 ma1 ba b--light-gray caption tc f7">
   <a href="/images/blog/2019/aanraakacties.jpg">
     	<img src="/images/blog/2019/aanraakacties.jpg" alt="Aanraakacties" class="br3 br--top"></a>
     	Zo zorgen de meeste aanraakgebieden gewoon voor het omslaan van de bladzijde.
   </figure>
-- **Aanraak- en pedaalinstellingen:** <a name="aanraakacties"></a>Opties voor bluetooth-pedalen. Dit heb ik zelf nog niet gebruikt. Wel handig is het om te kijken naar de "Aanraakacties". Het scherm is grofweg in te delen in een raster (zie [verderop in deze blogpost](#aanraakgebieden)). Met deze opties kan je instellen wat elk van de cellen van het raster doen als je er op drukt. Ik raad de instellingen in de tweede afbeelding aan.
-- **Tekstbestandinstellingen:** Vooral relevant voor mensen die van tabs spelen, waarvan de "bladmuziek" vaak in tekstbestanden staat.
+- **Aanraak- en pedaalinstellingen:** <a name="aanraakacties"></a> (Opeens snapte de vertaler wél hoe spaties werken.) Opties voor bluetooth-pedalen. Dit heb ik zelf nog niet gebruikt. Wel handig is het om te kijken naar de "Aanraakacties". Het scherm is grofweg in te delen in een raster (zie [verderop in deze blogpost](#aanraakgebieden)). Met deze opties kan je instellen wat elk van de cellen van het raster doen als je er op drukt. Ik raad de instellingen in de afbeelding aan.
+- **Tekstbestandinstellingen:** Vooral relevant voor mensen die van (gitaar)tabs spelen, waarvan de "bladmuziek" vaak in tekstbestanden staat.
 - **MIDI instellingen:** Dit heb ik nog niet gebruikt en is vermoedelijk ook relevanter voor popmusici.
-- **Backup en herstel:** Kan van pas komen als je op een gegeven een nieuwe tablet gaat kopen.
+- **Backup en herstel:** Kan van pas komen als je op een gegeven moment een nieuwe tablet gaat kopen.
 - **Overige instellingen:** Lees deze even door om te kijken wat mogelijk is. Ik raad aan de Audiospeler uit te schakelen in de "Optreden Modus" zodat je minder gevaar loopt op het opeens afspelen van audio tijdens een concert.
 
 <figure class="fr-ns w-30-ns br3 ma1 ba b--light-gray caption tc f7">
@@ -99,10 +99,9 @@ Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zij
 
 Als de instellingen eenmaal geoptimaliseerd zijn voor klassieke muziek is het tijd om ons eerste stuk bladmuziek te importeren. Als voorbeeld heb ik van [IMSLP](https://imslp.org) een [klavieruitreksel van de Matthäuspassion](<https://imslp.org/wiki/Matth%C3%A4uspassion%2C_BWV_244_(Bach%2C_Johann_Sebastian)#tabScore3>) gedownload.
 
-Als je op het gedownloade bestand drukt krijg je de optie om het bestand met apps te openen die pdf-bestanden kunnen lezen. We willen het aan de bibliotheek toevoegen, dus kies voor MobileSheets.
+Als je het bestand importeert kom je op een scherm waar je het bestand kan aanpassen vóór het aan je bibliotheek wordt toegevoegd. In deze blogpost ga ik de tabbladen met "Velden" en "Bestanden" behandelen, in een volgende post zal ik laten zien hoe je een mp3-bestand aan je bladmuziek kan koppelen om te helpen bij het studeren.
 
-Je komt nu op een scherm waar je wat dingen aan het bestand aan kan passen vóór het aan je bibliotheek wordt toegevoegd. In deze blogpost ga ik de tabbladen met "Velden" en "Bestanden" behandelen, in een volgende post zal ik laten zien hoe je een mp3-bestand aan je bladmuziek kan koppelen om te helpen bij het studeren.
-<br><br>
+<div class="pa5-ns"></div>
 
 <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray caption tc f7">
 <a href="/images/blog/2019/bestanden.jpg">
@@ -110,9 +109,9 @@ Je komt nu op een scherm waar je wat dingen aan het bestand aan kan passen vóó
 </figure>
 ### "Bestanden"-tab
 
-Bovenin het scherm zie je de bestanden die bij dit stuk muziek horen. Meestal staat hier maar één bestand, zoals nu. Als het muziekstuk uit meerdere losse afbeeldingen of pdf-bestanden bestaat kan je die met de knoppen rechts toevoegen. Dit zou vrij vanzelfsprekend moeten gaan. Zoniet, zie dan de [handleiding](https://www.zubersoft.com/mobilesheets/MobileSheetsPro.pdf).
+Bovenin het scherm zie je de bestanden die bij dit muziekstuk horen. Meestal staat hier maar één bestand, zoals nu. Als het muziekstuk uit meerdere losse afbeeldingen of pdf-bestanden bestaat kan je die met de knoppen rechts toevoegen. Dit zou vrij vanzelfsprekend moeten gaan. Zoniet, zie dan de [handleiding](https://www.zubersoft.com/mobilesheets/MobileSheetsPro.pdf).
 
-Onderin het scherm staat linksonder de optie om alle pagina's te draaien of alleen de pagina die op dit moment wordt getoond. Rechtsonder is de krachtigste functie van de app te vinden: het automatisch wegsnijden van de paginamarges, waardoor de bladmuziek zo groot mogelijk op je tabletscherm kan worden getoond. Dit kan je één voor één doen door op het <img src="/images/blog/2019/crop.svg" alt="Crop icon" class="h1">-icoontje te drukken of je kan op "automatisch bijsnijden" drukken, waarop de app het voor je doet.
+Onderin het scherm staat linksonder de optie om alle pagina's te draaien of alleen de pagina die op dit moment wordt getoond. Rechtsonder is de krachtigste functie van de app te vinden: het **automatisch wegsnijden van de paginamarges**, waardoor de bladmuziek zo groot mogelijk op je tabletscherm kan worden getoond. Dit kan je per pagina doen door op het <img src="/images/blog/2019/crop.svg" alt="Crop icon" class="h1">-icoontje te drukken of je kan op "automatisch bijsnijden" drukken, waardoor de app het voor je doet.
 
 Als het automatisch bijsnijden onverhoopt iets te enthousiast was waardoor er noten van de pagina afvallen kan je altijd terug naar dit scherm om handmatige wijzigingen aan te brengen.
 
@@ -133,7 +132,7 @@ Druk nu bovenaan op OK en je bibliotheek zal z'n eerste muziekstuk hebben.
   	Het kan natuurlijk voorkomen dat je je muziek op genre wil sorteren als je een erg grote bibliotheek hebt. Of je kan een "Custom group" maken voor instrumentatie.
 </figure>
 
-## Aantekeningen maken
+## Bladmuziek weergeven en aantekeningen maken
 
 Open een stuk bladmuziek door erop te drukken in de bibliotheek.
 
@@ -154,13 +153,13 @@ Het scherm is in negen onzichtbare "aanraakgebieden" onderverdeeld. Deze heb je 
 8. Volgende pagina
 9. "Snelle actie box"
 
-Als je deze aanraakgebieden eenmaal snapt zal dat je navigatie sterk vergemakkelijken. Het **overlayscherm**, het **aantekeningenscherm** en de **"Snelle actie box"** zijn de drie navigatieschermen die je goed onder de knie wilt krijgen om navigatie tijdens een repetitie te vergemakkelijken.
+Als je deze aanraakgebieden eenmaal snapt zal dat je navigatie sterk vergemakkelijken. Het **overlayscherm**, het **aantekeningenscherm** en de **"Snelle actie box"** zijn de drie navigatieschermen die je goed onder de knie wilt krijgen om navigatie tijdens repetities en concerten te vergemakkelijken.
 
 ### Overlayscherm
 
 Het overlayscherm is te bereiken door op vakje 4 of 5 te drukken, en verdwijnt ook weer als je nog eens op 4 of 5 drukt.
 
-Hoe laat ik nou eens handig zien welk knopje wat doet? Zo maar:
+Een korte beschrijving van de belangrijkste knoppen:
 
 <section class="cf w-100 pa2-ns">
   <article class="fl w-100 w-50-m  w-third-ns pa2-ns">
@@ -184,7 +183,7 @@ Hoe laat ik nou eens handig zien welk knopje wat doet? Zo maar:
       <img style="background-image:url(/images/blog/2019/menuLinksonder.jpg);" 
       class="db bg-center cover aspect-ratio--object" /></a>
     </div>
-      <h3 class="f6 f5 fw4 mt2 black-60">Grotendeels vanzelfsprekend. Een "uitknipsel" geeft de mogelijkheid een deel van de bladmuziek te verknippen tot een pdf-bestand van alleen die pagina's. Er zit ook een autoscroll-functie in de app die de muziek automatisch met een ingesteld tempo naar de volgende pagina doet glijden.</h3>  
+      <h3 class="f6 f5 fw4 mt2 black-60">Deze opties zijn grotendeels vanzelfsprekend. Een "uitknipsel" geeft de mogelijkheid een deel van de bladmuziek te verknippen tot een pdf-bestand van alleen die pagina's.<br> Er zit ook een autoscroll-functie in de app die de muziek automatisch met een ingesteld tempo naar de volgende pagina doet glijden.</h3>  
   </article>
     <article class="fl w-100 w-50-m  w-third-ns pa2-ns pb7-l">
     <div class="aspect-ratio aspect-ratio--1x1">
@@ -241,7 +240,7 @@ Hoe laat ik nou eens handig zien welk knopje wat doet? Zo maar:
       <img style="background-image:url(/images/blog/2019/linkpoint.jpg);" 
       class="db bg-center cover aspect-ratio--object" /></a>
     </div>
-      <h3 class="f6 f5 fw4 mt2 black-60">Een handige geavanceerde functie: als je muziekstuk een herhaling (da capo, dal segno...) heeft kan je hiermee een zogenaamd "verwijzingspunt" mee maken. Druk op +, dan op de plek waar "da capo" of iets dergelijks staat...</h3>  
+      <h3 class="f6 f5 fw4 mt2 black-60">Een handige geavanceerde functie: als je muziekstuk een herhaling (da capo, dal segno...) heeft kan je hiermee een zogenaamd "verwijzingspunt" maken. Druk op +, dan op de plek waar "da capo" of iets dergelijks staat...</h3>  
   </article>
     <article class="fl w-100 w-50-m  w-third-ns pa2-ns pb0-l pb0-m">
     <div class="aspect-ratio aspect-ratio--1x1">
@@ -303,7 +302,7 @@ Hoe laat ik nou eens handig zien welk knopje wat doet? Zo maar:
 
 Pakkende naam, niet? Hier zitten een aantal knoppen die ook in het overlayscherm zitten waarvan de ontwikkelaar van de app dacht dat ze het meest gebruikt zouden worden.
 
-De middelste knop is niet te vinden in het overlayscherm: deze is voor de **concertstand**. Dit is een soort veiligheidsstand: alle [aanraakgebieden](#aanraakgebieden) van het scherm worden uitgeschakeld behalve de "Snelle actie box" rechtsonder, waardoor je niet tijdens een concert per ongeluk een of ander menu opent als je wilt omslaan. Het scherm aanraken zorgt nu altijd dat je naar de volgende of vorige bladzijde gaat. Deze knop is ook in de bibliotheek te vinden.
+De middelste knop is niet te vinden in het overlayscherm: deze is voor de **concertstand**. Dit is een soort veiligheidsstand: alle [aanraakgebieden](#aanraakgebieden) van het scherm worden uitgeschakeld behalve de "Snelle actie box" rechtsonder, waardoor je niet tijdens een concert per ongeluk een of ander menu opent als je wilt omslaan. Het scherm aanraken zorgt nu altijd dat je naar de volgende of vorige bladzijde gaat. De concertstand-knop is ook in de bibliotheek te vinden.
 
 ### Aantekeningen
 
@@ -320,7 +319,7 @@ De aantekeningenmodus is vrij vanzelfsprekend. De knop voor ongedaan maken zit l
   - De stylusmodus is bedoeld voor een ["actieve" stylus](/posts/Android-tablets-klassieke-musicus#stylus). Met een normale "passieve" stylus werkt dit niet.
   - Auto-save bij het wisselen van pagina's is aan te raden. Als je snel door het bestand bladert tijdens het aantekenen met de knoppen rechtsboven zit je snel per ongeluk op de annuleren-knop ernaast.
 - Met de pijltjes in dit kastje <img src="zweefknop.jpg" alt="Crop icon" class="h1"> kan je de aantekening die je net hebt gemaakt met precisie verplaatsen.
-- Zie ook de tip in mijn [andere blogpost](/posts/Android-tablets-klassieke-musicus): [zoom in](/posts/Android-tablets-klassieke-musicus#stylus) voordat je gaat schrijven.
+- Zie ook de tip in mijn andere blogpost: [zoom in](/posts/Android-tablets-klassieke-musicus#tipZoomen) voordat je gaat schrijven.
 
 <div class="center">
   <div class="cf ph2-ns">
@@ -412,6 +411,6 @@ Naast MobileSheets bestaan er ook een aantal andere apps voor bladmuziek. Hieron
   </article>
 </main>
 
-Daarnaast heb je nog een aantal apps die bij een specifieke website voor bladmuziek horen, zoals [MuseScore](https://play.google.com/store/apps/details?id=com.musescore.playerlite), [Virtual Sheet Music](https://play.google.com/store/apps/details?id=com.virtualsheetmusic.vsheetmusic) en [IMSLP Browser](https://play.google.com/store/apps/details?id=com.imslp.app). Deze zijn alleen minder goed onderhouden en ondersteunen bovendien uitsluitend bladmuziek van hun eigen bron. Ook zijn er allerhande apps waarmee je bladmuziek kan fotograferen om het door de app af te laten spelen. Deze zijn meer _gimmicks_ en voor het tonen van bladmuziek niet bijzonder geschikt.
+Daarnaast heb je nog een aantal apps die bij een specifieke website voor bladmuziek horen, zoals [MuseScore](https://play.google.com/store/apps/details?id=com.musescore.playerlite), [Virtual Sheet Music](https://play.google.com/store/apps/details?id=com.virtualsheetmusic.vsheetmusic) en [IMSLP Browser](https://play.google.com/store/apps/details?id=com.imslp.app). Deze zijn minder goed onderhouden en ondersteunen bovendien uitsluitend bladmuziek van hun eigen bron. Ook zijn er allerhande apps waarmee je bladmuziek kan fotograferen om deze daarna door de app af te laten spelen. Dit soort apps zijn meer _gimmicks_ en voor het weergeven van bladmuziek niet bijzonder geschikt.
 
 Gebruik jij een andere app voor bladmuziek waar je tevreden over bent of ben ik nog handige _features_ van MobileSheets vergeten? Laat het me weten in de comments!
