@@ -1,114 +1,119 @@
-@import "https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css";
+@import "https://unpkg.com/tachyons/css/tachyons.min.css";
 
 /* Set variables. (https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd) */
 :root {
-	--bammerlaan-blauw: #00b3ffff;
-	--bammerlaan-grijs: #515151;
+  --bammerlaan-blauw: #00b3ffff;
+  --bammerlaan-grijs: #515151;
 }
 
 .bg-tiled-bammerlaan {
-	background: url(/images/tile-bg.svg) repeat;
+  background: url(/images/tile-bg.svg) repeat;
 }
 .bammerlaan-blauw {
-	color: var(--bammerlaan-blauw);
+  color: var(--bammerlaan-blauw);
 }
 .bammerlaan-grijs {
-	color: var(--bammerlaan-grijs);
+  color: var(--bammerlaan-grijs);
 }
 .top-50 {
-	top: 50%;
+  top: 50%;
 }
 .link:hover {
-	background: url(/images/line2.png) repeat-x left bottom;
+  background: url(/images/line2.png) repeat-x left bottom;
 }
 .bg-bammerlaan-blauw {
-	background-color: var(--bammerlaan-blauw);
+  background-color: var(--bammerlaan-blauw);
 }
 .bg-bammerlaan-grijs {
-	background-color: var(--bammerlaan-grijs);
+  background-color: var(--bammerlaan-grijs);
 }
 .hover-bg-bammerlaan-blauw:hover {
-	background-color: var(--bammerlaan-blauw);
+  background-color: var(--bammerlaan-blauw);
 }
 .hover-bg-bammerlaan-blauw:focus {
-	background-color: var(--bammerlaan-blauw);
+  background-color: var(--bammerlaan-blauw);
 }
 .hover-bg-bammerlaan-grijs:hover {
-	background-color: var(--bammerlaan-grijs);
+  background-color: var(--bammerlaan-grijs);
 }
 .hover-bg-bammerlaan-grijs:focus {
-	background-color: var(--bammerlaan-grijs);
+  background-color: var(--bammerlaan-grijs);
+}
+
+caption {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
 }
 
 h1 {
-	color: var(--bammerlaan-grijs);
-	font-family: 'Roboto', sans-serif;
-	font-weight: 100;
+  color: var(--bammerlaan-grijs);
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
 }
 
 h2 {
-	color: var(--bammerlaan-grijs);
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+  color: var(--bammerlaan-grijs);
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
 }
 
 table {
-	border-collapse: collapse;
-	width: 100%;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 th,
 td {
-	text-align: left;
-	padding: 8px;
+  text-align: left;
+  padding: 8px;
 }
 
 tr:nth-child(odd) {
-	background-color: #f2f2f2;
+  background-color: #f2f2f2;
 } /* Zebra-effect tabel. */
 
 th {
-	background-color: var(--bammerlaan-blauw);
-	color: white;
+  background-color: var(--bammerlaan-blauw);
+  color: white;
 } /* Tabel headers */
 
 /* Markdown styles */
 .markdown-body a {
-	text-decoration: none;
-	color: var(--bammerlaan-blauw);
+  text-decoration: none;
+  color: var(--bammerlaan-blauw);
 } /* Link-kleur */
 
 .markdown-body a:hover,
 a:focus,
 a:active {
-	text-decoration: none;
-	color: var(--bammerlaan-grijs);
-	background: url(/images/line2.png) repeat-x left bottom;
+  text-decoration: none;
+  color: var(--bammerlaan-grijs);
+  background: url(/images/line2.png) repeat-x left bottom;
 } /* Link-mouse-over */
 
 .markdown-body .highlighter-rouge {
-	padding: .25rem .5rem;
+  padding: 0.25rem 0.5rem;
 } /* Iets voor als ik ooit code met highlights wil tonen */
 
 .markdown-body pre {
-	margin: 0;
-	overflow: auto;
+  margin: 0;
+  overflow: auto;
 }
 
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
-	padding: .5rem 4rem;
-	margin: 2em -4rem;
+  padding: 0.5rem 4rem;
+  margin: 2em -4rem;
 }
 .markdown-body > hr {
-	margin: 2em -4rem;
-	border: 0;
-	border-bottom: 1px dotted #ccc;
+  margin: 2em -4rem;
+  border: 0;
+  border-bottom: 1px dotted #ccc;
 } /* <hr> tags. */
 .markdown-body blockquote {
-	background: #f9f9f9;
-	border-left: .2rem solid #ccc;
-	padding-left: 3.8rem;
+  background: #f9f9f9;
+  border-left: 0.2rem solid #ccc;
+  padding-left: 3.8rem;
 } /* Opmaak blockquotes. Misschien oplossing voor contact-pagina? */
 
 /* end Markdown styles */
@@ -117,28 +122,28 @@ a:active {
  * Inspired partially from unreleased Tachyons v 5.0 opacity addons
 */
 @media screen and (max-width: 30em) {
-	.o-100-vs,
-	div .o-100-vs,
-	.child-vs.o-100-vs {
-		opacity: 1;
-	}
-	.full-width-mobileview {
-		width: 100vw;
-		position: relative;
-		left: 50%;
-		right: 50%;
-		margin-left: -50vw;
-		margin-right: -50vw;
-	} /* full-browser-width container: https://css-tricks.com/full-width-containers-limited-width-parents/ */
+  .o-100-vs,
+  div .o-100-vs,
+  .child-vs.o-100-vs {
+    opacity: 1;
+  }
+  .full-width-mobileview {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+  } /* full-browser-width container: https://css-tricks.com/full-width-containers-limited-width-parents/ */
 } /* Zorgt dat in mobiele navbar de submenu's niet onzichtbaar zijn. */
 
 .noselect {
-	-webkit-touch-callout: none; /* iOS Safari */
-	-webkit-user-select: none; /* Safari */
-	-khtml-user-select: none; /* Konqueror HTML */
-	-moz-user-select: none; /* Firefox */
-	-ms-user-select: none; /* Internet Explorer/Edge */
-	user-select: none; /* Non-prefixed version, currently
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
 }
 /* Class to prevent selection, from https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */

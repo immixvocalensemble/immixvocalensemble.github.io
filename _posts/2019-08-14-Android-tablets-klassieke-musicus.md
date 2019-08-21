@@ -39,7 +39,7 @@ Let bij het uitkiezen van een tablet op deze dingen:
 	<figcaption class="tc">De <a href="https://www.samsung.com/nl/i/tablet/s-pen/">S-pen</a> die bij sommige Samsung-tablets werkt. Niet bij mijn tablet, waar ik stiekem aardig van baal.</figcaption>
 </figure>
 
-- **Stylus-integratie.** Sommige Android-tablets worden geleverd met een elektronische "actieve" _stylus_—een pen voor touch screens.
+- **Stylus-integratie.** <a name="stylus"></a> Sommige Android-tablets worden geleverd met een elektronische "actieve" _stylus_—een pen voor touch screens.
   - Hiermee kan je bijvoorbeeld op een knopje op de pen drukken om van functie te veranderen. Leuk, maar niet noodzakelijk.
   - Echter, wat zo'n pen écht onderscheidt van een "passieve" stylus is de zogenaamde _palm rejection_: de mogelijkheid je handpalm op het scherm te laten rusten terwijl je schrijft zonder dat het scherm de palm registreert. Dit maakt veel verschil bij het maken van aantekenen.
 
@@ -72,7 +72,7 @@ In een volgende blogpost zal ik de essentiële Android-apps op een rijtje zetten
 <figure class="fr-ns br3 ma1 mt0">
   	<img src="/images/blog/2019/tablet-zoom.gif" alt="Opslag" class="br3">
   </figure>
-  <h1 class="mt0">Tip</h1>
+  <h1 class="mt0">Tip</h1> <a name="tipZoomen"></a>
   <p class="lh-copy measure-wide">
     Ongeacht welke app je gebruikt voor bladmuziek: het is aan te raden om eerst met een spreidende vingerbeweging in te zoomen op de plek waar je je aantekening wilt maken voordat je gaat schrijven. Dit maakt je aantekening veel preciezer. 
     </p>
