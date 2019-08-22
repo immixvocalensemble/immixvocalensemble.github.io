@@ -44,11 +44,16 @@
       </div>
     </div>
 
-
     <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
+
+      {% if page.lang == 'nl' %}
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">
-      </a>
+        {% endif %}
+        {% if page.lang != 'nl' %}
+        <a href="{{ site.url }}/{{ page.lang }}">
+          {% endif %}
+          <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">
+        </a>
     </div>
     <!-- <p>{{ site.title }}</p> -->
     <!-- Tekst onder logo weghalen -->
