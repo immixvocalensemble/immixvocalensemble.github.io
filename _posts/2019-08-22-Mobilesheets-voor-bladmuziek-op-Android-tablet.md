@@ -3,6 +3,8 @@ title: MobileSheets gebruiken voor bladmuziek op Android-tablets
 date: 2019-08-22
 lang: nl
 lang-ref: mobile-sheets # Also create a directory for this in _data/comments. Throws error otherwise. Add empty file there to propagate on Github as well, then remove again.
+tags: android tablet bladmuziek technologie klassiekemuziek howto 
+# Run tag_generator.py for every new blog post!
 ---
 
 <figure class="fr-ns w-20-ns br3 ma1 ba b--light-gray">

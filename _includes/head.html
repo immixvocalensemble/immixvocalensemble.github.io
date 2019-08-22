@@ -1,30 +1,30 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300&display=swap" rel="stylesheet">
 
-<link href='{{ site.url }}/images/Bas_zang_logo_v6.3_favicon.png' rel='shortcut icon'>
-<link href='{{ site.url }}/stylesheets/style.css' rel='stylesheet' type='text/css' />
-<link href='{{ site.url }}/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
+<link href='{{ site.url }}/images/Bas_zang_logo_v6.3_favicon.png' rel="shortcut icon">
+<link href='{{ site.url }}/stylesheets/style.css' rel="stylesheet" type="text/css"/>
+<link href='{{ site.url }}/stylesheets/syntax.css' rel="stylesheet" type="text/css"/>
 {% seo %}
 
-<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
-<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 {% if page.date %}
-<meta content='{{ site.url }}{{ page.url }}' property='og:url' />
-<meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
-<meta content="article" property="og:type" />
+    <meta content='{{ site.url }}{{ page.url }}' property="og:url"/>
+    <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property="og:description"/>
+    <meta content="article" property="og:type"/>
 {% else %}
-<meta content='{{ site.url }}' property='og:url' />
-<meta content="{{ site.description }}" property='og:description' />
-<meta content="blog" property="og:type" />
+    <meta content='{{ site.url }}' property="og:url"/>
+    <meta content="{{ site.description }}" property="og:description"/>
+    <meta content="blog" property="og:type"/>
 {% endif %}
 <!-- - -->
 
 {% if site.google_analytics %}
-<script>
+    <script>
   (function (i, s, o, g, r, a, m) {
-  i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-    (i[r].q = i[r].q || []).push(arguments)
-  }, i[r].l = 1 * new Date(); a = s.createElement(o),
-    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
   })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
   ga('create', '{{ site.google_analytics }}', 'auto');
@@ -34,8 +34,8 @@
 {% endif %}
 
 {% if site.facebook_appid %}
-<meta content="{{ site.facebook_appid }}" property="fb:app_id" />
-<script>(function (d, s, id) {
+    <meta content="{{ site.facebook_appid }}" property="fb:app_id"/>
+    <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
@@ -44,14 +44,20 @@
   }(document, 'script', 'facebook-jssdk'));</script>
 {% endif %}
 
+<!-- Help search engines handle multilingual site... apparently. -->
 {% if page.layout != 'index' %}
-{% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-{% if posts.size == 0 %}
-{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+        {% for post in posts %}
+            <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}"/>
+        {% endfor %}
+    {% endif %}
 {% endif %}
-{% if posts.size > 1 %}
-{% for post in posts %}
-<link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
-{% endfor %}
-{% endif %}
+
+<!-- Execute tag collection -->
+{% if site.tags != "" %}
+    {% include collecttags.html %}
 {% endif %}

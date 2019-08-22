@@ -2,7 +2,9 @@
 title: Android-tablets for the classical musician
 date: 2019-08-14
 lang: en
-lang-ref: android-tablets
+lang-ref: android-tablets # Also create a directory for this in _data/comments. Throws error otherwise. Add empty file there to propagate on Github as well, then remove again.
+tags: android tablet sheetmusic technology classicalmusic 
+# Run tag_generator.py for every new blog post!
 ---
 
 <img class="db w-100 mt0" src="/images/blog/2019/tablet-choir.jpg" alt="A tablet in a choir.">

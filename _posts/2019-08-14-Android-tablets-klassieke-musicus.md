@@ -2,7 +2,9 @@
 title: Android-tablets voor de klassieke musicus
 date: 2019-08-14
 lang: nl
-lang-ref: android-tablets
+lang-ref: android-tablets # Also create a directory for this in _data/comments. Throws error otherwise. Add empty file there to propagate on Github as well, then remove again.
+tags: android tablet bladmuziek technologie klassiekemuziek 
+# Run tag_generator.py for every new blog post!
 ---
 
 <img class="db w-100 mt0" src="/images/blog/2019/tablet-choir.jpg" alt="Een tablet in een koor.">
