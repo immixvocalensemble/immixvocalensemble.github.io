@@ -58,7 +58,7 @@ Je ziet dan de muziekbibliotheek: een overzicht van alle bladmuziek die je hebt 
   	<img src="/images/blog/2019/instellingenknop.jpg" alt="Instellingenknop" class="br3 br--top"></a>
   	De verstopplaats van de instellingenknop.
 </figure>
-### Tabbladen
+### Tabbladen <a name="tabbladen"></a>
 
 De bibliotheek is in eerste instantie gevuld met tabbladen die voor klassieke musici overbodig zijn. Dat is makkelijk aan te passen en zorgt voor een overzichtelijkere bibliotheek. Voor klassieke muziek heb je eigenlijk alleen een tab met componisten nodig en eventueel een tab met de titels van muziek. Een tab met recent geopende bestanden is een handige derde tab.
 
@@ -130,7 +130,7 @@ Als het automatisch bijsnijden onverhoopt iets te enthousiast was waardoor er no
   	<img src="/images/blog/2019/veldenIngevuld.jpg" alt="Velden-ingevuld" class="br3"></a>
 </figure>
 
-Op deze pagina kan je de zogenaamde meta-informatie van het muziekstuk invullen. Standaard staan er veel velden ingeschakeld die je kan invullen, maar ik heb zelf alle velden uitgeschakeld behalve "Componisten". Doe dat door op "Velden instellen" bovenin het scherm te drukken en alle vinkjes weg te halen behalve die voor "componisten". Of niet, natuurlijk, als jij bepaalde velden wél handig vindt!
+Op deze pagina kan je de zogenaamde meta-informatie van het muziekstuk invullen. Standaard staan er veel velden ingeschakeld die je kan invullen, maar ik heb zelf alle velden uitgeschakeld behalve "Componisten". Doe dat door op "Velden instellen" bovenin het scherm te drukken en alle vinkjes weg te halen behalve die voor "componisten". Of niet, natuurlijk, als jij bepaalde velden wél handig vindt! (In dat geval zal je vermoedelijk het bijbehorende tabblad in de [bibliotheek](#tabbladen) weer terug willen.)
 
 Druk nu bovenaan op OK en je bibliotheek zal z'n eerste muziekstuk hebben.
 
