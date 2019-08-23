@@ -12,15 +12,15 @@
 <!-- Logo bovenin -->
 
 <body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
-  <header class="tc ">
+  <header class="tc">
     <!-- Language selection flags. -->
-
-    <div class="mw7 center">
+    <div class="mw7 center debug">
       <div class="cf">
         <div class="fl w-80 w-90-l">
           <div class="pv3"></div>
         </div>
         <div class="fl w-20 w-10-l h1">
+          {% if page.layout != 'tagpage' %}
           {% if page.layout != 'index' %}
           {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
           {% if posts.size == 0 %}
@@ -35,7 +35,7 @@
               href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
             </a>
             {% endfor %}
-
+            {% endif %}
           </div>
 
           {% endif %}
@@ -44,6 +44,8 @@
       </div>
     </div>
 
+
+    <!-- Header logo -->
     <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
 
       {% if page.lang == 'nl' %}
