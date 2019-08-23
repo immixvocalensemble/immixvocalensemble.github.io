@@ -17,8 +17,8 @@ Het afgelopen jaar heb ik verschillende Android-apps uitgeprobeerd voor bladmuzi
 De drie voornaamste functies waardoor ik MobileSheets de beste app vind:
 
 1. [Automatisch wegsnijden van de paginamarges](#margessnijden) van bladmuziek 
-2. [Referentiepunten](linkpoints) om snel met herhalingstekens of *da capo*'s te kunnen werken 
-3. [Concertmodus](concertstand) waardoor alle menu's tijdelijk uitgeschakeld worden 
+2. [Referentiepunten](#linkpoints) om snel met herhalingstekens of *da capo*'s te kunnen werken 
+3. [Concertmodus](#concertstand) waardoor alle menu's tijdelijk uitgeschakeld worden 
 
 <div class="flex items-center justify-center pa4 bg-lightest-blue navy">
   <svg class="w3-ns w4" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
