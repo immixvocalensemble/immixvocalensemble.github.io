@@ -12,7 +12,7 @@ tags: android tablet bladmuziek technologie klassiekemuziek howto
   	<figcaption class="tc caption f7">MobileSheetsPro.</figcaption>
 </figure>
 
-Het afgelopen jaar heb ik verschillende Android-apps uitgeprobeerd voor bladmuziek. (Apple's iOS heeft weliswaar meer keus, maar [ik hou niet zo van Apple](https://stallman.org/apple.html).) Mijn favoriet daarbij was [MobileSheetsPro](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro), waarvan ook een gratis uitprobeer-versie [hier](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetsfree) is te vinden. Er bestaat een handleiding, maar die kan wat overweldigend zijn. In deze blogpost zal ik laten zien welke opties het meest relevant zijn voor klassieke muziek.
+Het afgelopen jaar heb ik verschillende Android-apps uitgeprobeerd voor bladmuziek. (Apple's iOS heeft weliswaar meer keus, maar [ik hou niet zo van Apple](https://stallman.org/apple.html).) Mijn favoriet daarbij was [MobileSheetsPro](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro), waarvan ook een gratis uitprobeer-versie [hier](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetsfree) te vinden is. Er bestaat een handleiding, maar die kan wat overweldigend zijn. In deze blogpost zal ik laten zien welke opties het meest relevant zijn voor klassieke muziek.
 
 <div class="flex items-center justify-center pa4 bg-lightest-blue navy">
   <svg class="w3-ns w4" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
@@ -31,7 +31,7 @@ Als je de app opent zal je eerst toestemming moeten verlenen om de app toegang t
 <img src="/images/blog/2019/welkomstvraag.jpg" alt="Welkomstvraag" class="br3 br--top"></a>
 Niet de meest gebruikersvriendelijke keuze ooit, om gelijk dergelijke taal rond te strooien.
 </figure>
-De app stelt dan een ingewikkelde vraag. Je kan het makkelijkst op "ja" drukken. Dat kost meer schijfruimte, maar is uiteindelijk makkelijker met het overzicht bewaren van aantekeningen die je gaat maken.
+De app stelt dan een ingewikkelde vraag (zie afbeelding). Je kan het makkelijkst op "ja" drukken. Dat kost meer schijfruimte, maar is uiteindelijk makkelijker met het overzicht bewaren van aantekeningen die je gaat maken.
 
 Je ziet dan de muziekbibliotheek: een overzicht van alle bladmuziek die je hebt geïmporteerd. Nu zal alles nog leeg zijn.
 
@@ -56,7 +56,7 @@ Je ziet dan de muziekbibliotheek: een overzicht van alle bladmuziek die je hebt 
 
 De bibliotheek is in eerste instantie gevuld met tabbladen die voor klassieke musici overbodig zijn. Dat is makkelijk aan te passen en zorgt voor een overzichtelijkere bibliotheek. Voor klassieke muziek heb je eigenlijk alleen een tab met componisten nodig en eventueel een tab met de titels van muziek. Een tab met recent geopende bestanden is een handige derde tab.
 
-Druk hiervoor op de drie puntjes onder elkaar, rechtboven, en ga naar de "Bibliotheek instellingen" (inclusief nare spatiefout). Hier zijn een groot aantal instellingen te vinden. Lees deze rustig even door, zodat je weet dat de opties er zijn. Probeer ook wat dingen uit, zo kan ik het donkere thema aanraden en hoeven voor klassieke componisten lettertekens niet "genormaliseerd" te worden.
+Druk hiervoor op de drie puntjes onder elkaar, rechtsboven, en ga naar de "Bibliotheek instellingen" (inclusief nare spatiefout). Hier is een groot aantal instellingen te vinden. Lees deze rustig even door, zodat je weet dat de opties er zijn. Probeer ook wat dingen uit, zo kan ik het donkere thema aanraden en hoeven voor klassieke componisten lettertekens niet "genormaliseerd" te worden.
 
 <figure class="fr-ns w-30-ns br3 ma1 ba b--light-gray caption tc f7">
 <a href="/images/blog/2019/titelopmaak.jpg">
@@ -76,7 +76,7 @@ Druk vervolgens op "Tab volgorde". Hier kan ik de tabs zoals in de afbeelding hi
 
 ## Andere instellingen
 
-Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zijn een kleine tijdsinvestering wel waard om alles naar je smaak in te kunnen stellen. Een overzicht van de meest relevante opties per tab van de instellingen:
+Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zijn een kleine tijdsinvestering wel waard om alles naar smaak te kunnen instellen. Een overzicht van de meest relevante opties per tab van de instellingen:
 
 - **Opslagruimte:** Hier kan je onder andere Dropbox en Google Drive instellen.
 - **Weergave instellingen:** De standaardinstellingen hier zijn goed, alleen schakelde ik de omsla-animatie hier uit om sneller de volgende pagina te kunnen zien in de hitte van de strijd.
@@ -86,7 +86,7 @@ Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zij
     	<img src="/images/blog/2019/aanraakacties.jpg" alt="Aanraakacties" class="br3 br--top"></a>
     	Zo zorgen de meeste aanraakgebieden gewoon voor het omslaan van de bladzijde.
   </figure>
-- **Aanraak- en pedaalinstellingen:** <a name="aanraakacties"></a> (Opeens snapte de vertaler wél hoe spaties werken.) Opties voor bluetooth-pedalen. Dit heb ik zelf nog niet gebruikt. Wel handig is het om te kijken naar de "Aanraakacties". Het scherm is grofweg in te delen in een raster (zie [verderop in deze blogpost](#aanraakgebieden)). Met deze opties kan je instellen wat elk van de cellen van het raster doen als je er op drukt. Ik raad de instellingen in de afbeelding aan.
+- **Aanraak- en pedaalinstellingen:** <a name="aanraakacties"></a> Opties voor bluetooth-pedalen. Dit heb ik zelf nog niet gebruikt. Wel handig is het om te kijken naar de "Aanraakacties". Het scherm is grofweg in te delen in een raster (zie [verderop in deze blogpost](#aanraakgebieden)). Met deze opties kan je instellen wat elk van de cellen van het raster doen als je er op drukt. Ik raad de instellingen in de afbeelding aan.
 - **Tekstbestandinstellingen:** Vooral relevant voor mensen die van (gitaar)tabs spelen, waarvan de "bladmuziek" vaak in tekstbestanden staat.
 - **MIDI instellingen:** Dit heb ik nog niet gebruikt en is vermoedelijk ook relevanter voor popmusici.
 - **Backup en herstel:** Kan van pas komen als je op een gegeven moment een nieuwe tablet gaat kopen.
@@ -373,7 +373,7 @@ Naast MobileSheets bestaan er ook een aantal andere apps voor bladmuziek. Hieron
       </div>
       <div class="dtc v-top pl2">
         <h1 class="f6 f5-ns fw6 lh-title black mv0">Orpheus Sheet Music PRO</h1>
-        <h2 class="f6 fw4 mt2 mb0 black-60">Heeft ook een gratis versie. Simpeler dan MobileSheets en met een minder actieve ontwikkelaar. Mist in zijn simpelheid bovendien een boel functies die MobileSheets wel heeft. Weliswaar is deze app goedkoper, maar hij voegt voor dat geld weinig toe aan een simpele PDF-viewer.</h2>
+        <h2 class="f6 fw4 mt2 mb0 black-60">Heeft ook een gratis versie. Simpeler dan MobileSheets en met een minder actieve ontwikkelaar. Mist in zijn simpelheid bovendien veel functies die MobileSheets wel heeft. Weliswaar is deze app goedkoper, maar hij voegt voor dat geld weinig toe aan een simpele PDF-viewer.</h2>
         <dl class="mt2 f6">
           <dt class="clip">Prijs</dt>
           <dd class="ml0">€7,49</dd>
