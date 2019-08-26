@@ -329,6 +329,7 @@ De aantekeningenmodus is vrij vanzelfsprekend. De knop voor "ongedaan maken" zit
   - Auto-save bij het wisselen van pagina's is aan te raden. Als je tijdens het aantekenen snel door het bestand bladert met de knoppen rechtsboven druk je makkelijk per ongeluk op de annuleren-knop ernaast.
 - Met de pijltjes in dit kastje  kan je de aantekening die je net hebt gemaakt met precisie verplaatsen: <img src="/images/blog/2019/zweefknop.jpg" alt="Crop icon" class="h3">
 - Zie ook de tip in mijn andere blogpost: [zoom in](/posts/Android-tablets-klassieke-musicus#tipZoomen) voordat je gaat schrijven.
+- Door met twee vingers tegelijk op je scherm te tikken wissel je snel tussen pen/markeerstift en de "verplaatsmodus". Erg handig als je ingezoomd hebt en op een ander deel van het scherm een aantekening wil maken.
 
 <div class="center">
   <div class="cf ph2-ns">
