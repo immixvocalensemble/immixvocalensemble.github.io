@@ -40,6 +40,13 @@
   background-color: var(--bammerlaan-grijs);
 }
 
+.pointers {
+  pointer-events: auto;
+}
+.no-pointers {
+  pointer-events: none;
+}
+
 caption {
   font-family: "Roboto", sans-serif;
   font-weight: 100;
