@@ -5,7 +5,7 @@ lang: en
 lang-ref: gnucash-latex-gcinvoice # Also create a directory for this in _data/comments. Throws error otherwise. Add empty file there to propagate on Github as well, then remove again.
 tags: technology bookkeeping latex gnucash invoice opensource linux
 # Run tag_generator.py for every new blog post!
-published: false
+published: true
 ---
 
 <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
@@ -91,10 +91,10 @@ By using LaTeX markup in these billing terms, you can make text bold or underlin
 **Payment within thirty days:**
 
 ```latex
-For my services I kindly request the following payment, 
-to be transferred within 30 days to \usekomavar{frombank} 
-under the name of \textbf{\usekomavar{fromname}}. 
-Please mention your \underline{name} and the 
+For my services I kindly request the following payment,
+to be transferred within 30 days to \usekomavar{frombank}
+under the name of \textbf{\usekomavar{fromname}}.
+Please mention your \underline{name} and the
 \underline{invoice number}.
 ```
 
@@ -102,16 +102,16 @@ Please mention your \underline{name} and the
 
 ```latex
 For my services I kindly request the following payment,
-to be transferred before the first lesson to  
-\usekomavar{frombank} under the name of 
-\textbf{\usekomavar{fromname}}. Please mention your 
+to be transferred before the first lesson to
+\usekomavar{frombank} under the name of
+\textbf{\usekomavar{fromname}}. Please mention your
 \underline{name} and the \underline{invoice number}.
 ```
 
 **Payment already received:**
 
 ```latex
-This invoice has already been paid and is merely for 
+This invoice has already been paid and is merely for
 your own administration.
 ```
 
