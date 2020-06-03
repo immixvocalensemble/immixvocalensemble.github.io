@@ -108,6 +108,6 @@ van uw \underline{naam} en het \underline{factuurnummer}.
 Deze factuur is al betaald en is slechts voor uw eigen administratie.
 ```
 
-In de toekomst hoop ik dit systeem uit te kunnen breiden met een scriptje om automatisch een *SEPA Credit Transfer* QR-code aan de factuur toe te voegen. Deze kunnen klanten dan scannen met de app van hun bank, om zo het betalen makkelijker te maken. Hiervoor kan ik hopelijk de API van de [Online SEPA Credit Transfer QR-code generator](https://epc-qr.eu/) gebruiken.
+In de toekomst hoop ik dit systeem uit te kunnen breiden met een scriptje om automatisch een *SEPA Credit Transfer* QR-code aan de factuur toe te voegen. Deze kunnen klanten dan scannen met de app van hun bank, om zo het betalen makkelijker te maken. Hiervoor kan ik hopelijk de API van de [Online SEPA Credit Transfer QR-code generator](https://epc-qr.eu/) gebruiken. UPDATE: Dit heb ik gedaan, zie mijn [volgende blogpost](https://bammerlaan.nl/posts/Automatische-QR-codes-gcinvoice-GnuCash-facturen).
 
 Heb je iets aan deze blogpost gehad of heb je nog vragen? Laat het me weten via de comments!

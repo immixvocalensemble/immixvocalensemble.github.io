@@ -14,7 +14,7 @@ published: true
     <figcaption class="tc">Factuur met automatisch toegevoegde SEPA Credit Transfer QR-code.</figcaption>
 </figure>
 
-Terwijl ik werkte aan mijn [vorige blogpost](https://bammerlaan.nl/posts/GnuCash-LaTeX-en-gcinvoice-voor-mooie-facturen) over het maken van mooie facturen met LaTeX en GnuCash, vroeg een student me of hij ook kon betalen met een [Tikkie](https://www.tikkie.me/). Een vrij bekende site die je makkelijk met mobiel bankieren geld kan laten overmaken.
+Terwijl ik werkte aan mijn [vorige blogpost](https://bammerlaan.nl/posts/GnuCash-LaTeX-en-gcinvoice-voor-mooie-facturen) over het maken van mooie facturen met LaTeX en GnuCash, vroeg een student me of hij ook kon betalen met een [Tikkie](https://www.tikkie.me/): een vrij bekende site die je makkelijk met mobiel bankieren geld kan laten overmaken.
 
 Ik heb dit even uitgezocht, en het blijkt dat Tikkie voor een bedrijfje van mijn formaat € 0,25 per transactie kost. Niet extreem veel, natuurlijk, maar ik probeer toch zo min mogelijk extra kosten te maken met mijn kleine bedrijf.
 

@@ -115,6 +115,6 @@ This invoice has already been paid and is merely for
 your own administration.
 ```
 
-In the future, I hope to expand on this with a script to add a SEPA Credit Transfer QR code to the invoice, to make payment easier for customers, using the API from the [Online SEPA Credit Transfer QR-code generator](https://epc-qr.eu/). UPDATE: I have done this, see my next blog post.
+In the future, I hope to expand on this with a script to add a SEPA Credit Transfer QR code to the invoice, to make payment easier for customers, using the API from the [Online SEPA Credit Transfer QR-code generator](https://epc-qr.eu/). UPDATE: I have done this, see my [next blog post](https://bammerlaan.nl/posts/Automatically-adding-QR-codes-gcinvoice-GnuCash-invoices).
 
 Did this blog post help you or do you still have questions or tips? Let me know in the comments!
