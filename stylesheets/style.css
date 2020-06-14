@@ -64,6 +64,12 @@ h2 {
   font-weight: 300;
 }
 
+h4 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 1rem;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;

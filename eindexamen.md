@@ -46,10 +46,10 @@ Welkom bij mijn eindexamen. Vergeet niet je telefoon op stil en/of vliegtuigstan
 ### Programma
 </center>
 
-#### 1. Carlos Micháns - Cuerpo de mujer
+#### 1. Carlos Micháns - *Cuerpo de mujer*
 
 <details><summary class="f5">Liedtekst (klik)</summary>
-<p class="f6 lh-copy measure-narrow eindexamen">
+<p class="f6 lh-copy eindexamen overflow-auto">
 Cuerpo de mujer, blancas colinas, muslos blancos,
 	<i>Lichaam van een vrouw, blanke heuvels, blanke dijen,</i>
 te pareces al mundo en tu actitud de entrega.
@@ -79,10 +79,10 @@ Cuerpo de mujer mía, persistiré en tu gracia.
 </p>
 </details>
 
-#### 2. Wilhelm Stenhammar - Gammal nederländare
+#### 2. Wilhelm Stenhammar - *Gammal nederländare*
 
 <details><summary class="f5">Liedtekst (klik)</summary>
-<p class="f6 lh-copy measure-narrow eindexamen">
+<p class="f6 lh-copy eindexamen overflow-auto">
 Det är inte roligt att stå och bulta längre Katinka.
 	<i>Het is niet leuk meer om te staan kloppen, Katinka.</i>
 Månen lyser och vädren gå,
@@ -112,10 +112,10 @@ en fet och rykande skinka.
 </p>
 </details>
 
-#### 3. Carolus Hacquart - Miser es
+#### 3. Carolus Hacquart - *Miser es*
 
 <details><summary class="f5">Liedtekst (klik)</summary>
-<p class="f6 lh-copy measure-narrow eindexamen">
+<p class="f6 lh-copy eindexamen overflow-auto">
 1. Miser es ubicumque fueris
 	<i>Miserabel ben je waar je ook bent</i>
 et quocumque te verteris
@@ -125,16 +125,25 @@ nisi ad Deum te convertas.
 Quid turbaris
 	<i>Waarom ben je verstoord</i>
 qui a non succedit 
-	<i>als alles niet slaagt</i>
+	<i>als alles niet lukt</i>
 tibi sicut vis et desideras.
 	<i>zoals jij wilt en verlangt.</i><br>
-3. Nemo est in mundo 
-sine aliqua tribulatione et angustia 
+3. Nemo est in mundo
+	<i>Er is niemand op de aarde</i>
+sine aliqua tribulatione et angustia
+	<i> zonder beproevingen en angst</i>
 quam vis rex sit vel regina.
-
-4. Dicunt mihi imbecilles imbecilles et infirmi
-	ecce quam bonam quam bonam vitam ille homo habet 
-	Quam dives quam magnus quam magnus quam potens quam potens et excelsus
+	<i>of je koning of koningin bent.</i><br>
+5. Dicunt mihi imbecilles imbecilles et infirmi:
+	<i>Zeggen veel imbecielen en zieken:</i>
+"Ecce quam bonam vitam ille homo habet 
+	<i>"Kijk wat een goed leven die man heeft</i>
+Quam dives quam magnus quam potens et excelsus."
+	<i>Hoe rijk en groots en machtig en krachtig."</i><br>
+(6. Sed attende ad cælestia bona 
+	<i>(Maar luister naar de hemelse goedheid</i>
+et vide bis quod omnia ista temporalia nulla sunt.)
+	<i>en zie dat al dit tijdelijke niets is.)</i>
 </p>
 </details>
 
