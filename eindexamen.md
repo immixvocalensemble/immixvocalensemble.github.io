@@ -1,7 +1,5 @@
 ---
 title: Eindexamen Sebastiaan Ammerlaan
-lang: nl
-lang-ref: home
 layout: eindexamen
 ---
 
@@ -63,7 +61,7 @@ Mi cuerpo de labriego salvaje te socava
 y hace saltar el hijo del fondo de la tierra.
 	<i>en laat de zoon opspringen uit het diepst van de aarde.</i><br>
 Fui solo como un túnel. De mí huían los pájaros
-	<i>Ik ging alleen als een tunnel. Van mijn vluchten de vogels</i>
+	<i>Ik ging alleen als een tunnel. Van mij vluchten de vogels</i>
 y en mí la noche entraba su invasión poderosa.
 	<i>en de nacht betrad mij met een krachtige invasie.</i>
 Para sobrevivirme te forjé como un arma,
@@ -73,13 +71,13 @@ como una flecha en mi arco, como una piedra en mi honda.
 Pero cae la hora de la venganza, y te amo.
 	<i>Maar het uur van de wraak valt, en ik hou van je</i>
 Cuerpo de piel, de musgo, de leche ávida y firme.
-	<i>Lichaam van huis, van mos, van gretige en ferme melk.</i>
+	<i>Lichaam van huid, van mos, van gretige en ferme melk.</i>
 Ah los vasos del pecho! Ah los ojos de ausencia!
 	<i>Ah de schepen van de borst! Ah de ogen van afwezigheid!</i>
 Ah las rosas del pubis! Ah tu voz lenta y triste!
 	<i>Ah de rozen van het schaambeen! Ah je zachte en trieste stem!</i><br>
 Cuerpo de mujer mía, persistiré en tu gracia.
-	<i>Vrouwenlichaam van mij, ik besta in jouw gratie.</i><br>
+	<i>Vrouwenlichaam van mij, ik besta voort in jouw gratie.</i><br>
 </p>
 </details>
 
