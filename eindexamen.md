@@ -347,7 +347,7 @@ Und fast ein Mädchen wars und ging hervor
 aus diesem einigen Glück von Sang und Leier
 	<i>uit dit unieke geluk van zang en lier</i>
 und glänzte klar durch ihre Frühlingsschleier
-	<i>en glinsterde helder door jaar lentesluier</i>
+	<i>en glinsterde helder door haar lentesluier</i>
 und machte sich ein Bett in meinem Ohr.
 	<i>en maakte zich een bed in mijn oor.</i><br>
 Und schlief in mir. Und alles war ihr Schlaf.
@@ -392,7 +392,7 @@ Gesang ist Dasein. Für den Gott ein Leichtes.
 Wann aber sind wir? Und wann wendet er
 	<i>Wanneer echter zijn wij? En wanneer wendt hij</i><br>
 an unser Sein die Erde und die Sterne?
-	<i>aan ons *zijn* de aarde en de sterren?</i>
+	<i>aan ons </i>zijn<i> de aarde en de sterren?</i>
 Dies ists nicht, Jüngling, Daß du liebst, wenn auch
 	<i>Dit is niet, jongeling, wat je liefhebt, als ook</i>
 die Stimme dann den Mund dir aufstößt,—lerne
