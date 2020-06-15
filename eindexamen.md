@@ -69,7 +69,7 @@ Para sobrevivirme te forjé como un arma,
 como una flecha en mi arco, como una piedra en mi honda.
 	<i>als een pijl in mijn boog, als een steen in mijn slinger.</i><br>
 Pero cae la hora de la venganza, y te amo.
-	<i>Maar het uur van de wraak valt, en ik hou van je</i>
+	<i>Maar het uur van de wraak valt, en ik hou van je.</i>
 Cuerpo de piel, de musgo, de leche ávida y firme.
 	<i>Lichaam van huid, van mos, van gretige en ferme melk.</i>
 Ah los vasos del pecho! Ah los ojos de ausencia!
@@ -100,7 +100,7 @@ Min knoge är rod, min näsa blå.
 Se så, 
 	<i>Kijk,</i>
 lyft nu på dörrens klinka.
-	<i>hef nu op de deurklink.</i><br>
+	<i>hef nu de deurklink op.</i><br>
 Glänta på dörrn och låt mig få
 	<i>Zet de deur op een kier en laat me</i>
 tak över huvudet, din slinka.
@@ -120,13 +120,13 @@ en fet och rykande skinka.
 
 #### 3. Carolus Hacquart ⁠— *Miser es*
 
-<details><summary class="f5">Liedtekst</summary>
+<details><summary class="f5">1. <i>Miser es</i></summary>
 <div align="right">
 
 **Thomas à Kempis**
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
-1. Miser es ubicumque fueris
+Miser es ubicumque fueris
 	<i>Miserabel ben je waar je ook bent</i>
 et quocumque te verteris
 	<i>en waarheen je ook keert</i>
@@ -137,20 +137,30 @@ Quid turbaris
 qui a non succedit 
 	<i>als alles niet lukt</i>
 tibi sicut vis et desideras.
-	<i>zoals jij wilt en verlangt.</i><br>
-3. Nemo est in mundo
+	<i>zoals jij wilt en verlangt.</i>
+</p>
+</details>
+
+<details><summary class="f5">3. <i>Nemo est in mundo</i></summary>
+<p class="f6 lh-copy eindexamen overflow-auto">
+Nemo est in mundo
 	<i>Er is niemand op de aarde</i>
 sine aliqua tribulatione et angustia
 	<i> zonder beproevingen en angst</i>
 quam vis rex sit vel regina.
-	<i>of je koning of koningin bent.</i><br>
-5. Dicunt mihi imbecilles imbecilles et infirmi:
+	<i>of je koning of koningin bent.</i>
+</p>
+</details>
+
+<details><summary class="f5">5. <i>Dicunt mihi imbecilles et infirmi</i></summary>
+<p class="f6 lh-copy eindexamen overflow-auto">
+Dicunt mihi imbecilles et infirmi:
 	<i>Zeggen veel imbecielen en zieken:</i>
 "Ecce quam bonam vitam ille homo habet 
 	<i>"Kijk wat een goed leven die man heeft</i>
 Quam dives quam magnus quam potens et excelsus."
 	<i>Hoe rijk en groots en machtig en krachtig."</i><br>
-(6. Sed attende ad cælestia bona 
+(6: Sed attende ad cælestia bona 
 	<i>(Maar luister naar de hemelse goedheid</i>
 et vide bis quod omnia ista temporalia nulla sunt.)
 	<i>en zie dat al dit tijdelijke niets is.)</i>
@@ -166,7 +176,7 @@ et vide bis quod omnia ista temporalia nulla sunt.)
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Le Seigneur a dit à son enfant:
-	<i>De meneer heeft gezegd aan zijn kind:</i>
+	<i>De man heeft gezegd aan zijn kind:</i>
 Va, par le clair jardin innocent des anges,
 	<i>Ga naar de heldere onschuldige tuin van de engelen,</i>
 où brillent les pommes et les roses. 
@@ -302,7 +312,7 @@ Und küßt ihn mit lachendem Munde.
 Da stieg ein Baum. O reine Übersteigung!
 	<i>Daar steeg een boom. O pure oversteiging!</i>
 O Orpheus singt! O hoher Baum im Ohr.
-	<i>O Orpheus zingt! O hoge boom in het oor!</i>
+	<i>O Orpheus zingt! O hoge boom in het oor.</i>
 Und alles schwieg. Doch selbst in der verschweigung
 	<i>En alles zweeg. Maar zelfs in de verstilling</i>
 ging neuer Anfang, Wink und Wandlung vor.
@@ -337,86 +347,128 @@ Und fast ein Mädchen wars und ging hervor
 aus diesem einigen Glück von Sang und Leier
 	<i>uit dit unieke geluk van zang en lier</i>
 und glänzte klar durch ihre Frühlingsschleier
+	<i>en glinsterde helder door jaar lentesluier</i>
 und machte sich ein Bett in meinem Ohr.
-
+	<i>en maakte zich een bed in mijn oor.</i><br>
 Und schlief in mir. Und alles war ihr Schlaf.
+	<i>En sliep in mij. En alles was haar slaap.</i>
 Die Bäume, die ich je bewundert, diese 
+	<i>De bomen, die ik zo bewonder, deze</i>
 fühlbare Ferne, die gefühlte Wiese
+	<i>voelbare verte, de gevoelde weide</i>
 und jedes Staunen, das mich selbst betraf.
-
+	<i>en elke verbazing, die mij zelf betrof.</i><br>
 Sie schlief die Welt. Singender Gott, wie hast 
+	<i>Ze sliep de wereld. Zingende god, hoe heb</i>
 du sie vollendet, daß sie nicht begehrte 
+	<i>je het klaargespeeld, dat ze niet begeerde</i>
 erst wach zu sein? Sieh, sie erstand und schlief. 
-
+	<i>eerst wakker te zijn? Zie, ze stond op en sliep.</i><br>
 Wo ist ihr Tod? O, wirst du dies Motiv 
-erfinden noch, eh sich dein Lied verzehrte? --
-Wo sinkt sie hin aus mir? ... Ein Mädchen fast...
+	<i>Waar is haar dood? O, wil je dit motief</i>
+erfinden noch, eh sich dein Lied verzehrte?—
+	<i>uitwerken nog, voor je lied verteerd wordt?—</i>
+Wo sinkt sie hin aus mir?... Ein Mädchen fast...
+	<i>Waar zinkt ze heen uit mij?... Een meisje bijna...</i>
 </p>
 </details>
 
 <details><summary class="f5">3. <i>Ein Gott vermags</i></summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Ein Gott vermags. Wie aber, sag mir, soll
+	<i>Een god kan het. Hoe echter, zeg me, kan</i>
 ein Mann ihm folgen durch die schmale Leier?
+	<i>een man hem volgen met de smalle lier?</i>
 Sein Sinn ist Zwiespalt. An der Kreuzung zweier
+	<i>Zijn zin is dubbelzinnig. Aan de kruising van twee</i>
 Herzwege steht kein Tempel für Apoll.
-
+	<i>hartenstromen staat geen tempel voor Apollo.</i><br>
 Gesang, wie du ihn lehrst, ist nicht Begehr,
+	<i>Zang, hoe je het leert, is niet begeerte,</i>
 nicht Werbung um ein endlich noch Erreichtes;
+	<i>niet werving voor iets eindelijk bereikts;</i>
 Gesang ist Dasein. Für den Gott ein Leichtes.
+	<i>zang is zijn. Voor een god iets lichts.</i>
 Wann aber sind wir? Und wann wendet er
-
+	<i>Wanneer echter zijn wij? En wanneer wendt hij</i><br>
 an unser Sein die Erde und die Sterne?
+	<i>aan ons *zijn* de aarde en de sterren?</i>
 Dies ists nicht, Jüngling, Daß du liebst, wenn auch
-die Stimme dann den Mund dir aufstößt, - lerne
-
+	<i>Dit is niet, jongeling, wat je liefhebt, als ook</i>
+die Stimme dann den Mund dir aufstößt,—lerne
+	<i>de stemmen dan de mond je openstoot,—leer</i><br>
 vergessen, daß du aufsangst. Das verrinnt.
+	<i>vergeten, dat je opzong. Dat verloopt.</i> 
 In Wahrheit singen, ist ein andrer Hauch.
+	<i>In waarheid zingen, is een andere adem.</i>
 Ein Hauch um nichts. Ein Wehn im Gott. Ein Wind.
+	<i>Een adem om niets. Een ween in god. Een wind.</i>
 </p>
 </details>
 
 <details><summary class="f5">4. <i>O ihr Zärtlichen</i></summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
 O ihr Zärtlichen, tretet zuweilen
+	<i>O jullie zachtmoedigen, treed nu en dan</i>
 in den Atem, der euch nicht meint,
+	<i>in de adem, die niet voor jullie is bedoeld,</i>
 laßt ihn an eueren Wangen sich teilen,
+	<i>laat hem op jullie wangen zich breken,</i>
 hinter euch zittert er, wieder vereint.
-
+	<i>achter jullie trilt hij, weer verenigd.</i><br>
 O ihr Seligen, o ihr Heilen,
-die ihr der Anfang der Herzen scheint.
+	<i>O jullie zaligen, o jullie helen,</i>
+die ihr der Anfang der Herzen scheint
+	<i>jullie die het begin lijken van harten</i>
 Bogen der Pfeile und Ziele von Pfeilen,
+	<i>Boog van pijlen en doelwit van pijlen,</i>
 ewiger glänzt euer Lächeln verweint.
-
+	<i>eeuwig glanst jullie lachen betraand.</i><br>
 Fürchtet euch nicht zu leiden, die Schwere,
-gebt sie zurück an der Erde Gewicht:
-schwer sind die Berge. Schwer sind die Meere.
-
-Selbst die als Kinder ihr pflanztet, die Bäume, 
+	<i>Vrees niet te lijden, het zware,</i>
+gebt sie zurück an der Erde Gewicht;
+	<i>geef het gewicht ervan terug aan de aarde;</i>
+schwer sind die Berge, schwer sind die Meere.
+	<i>zwaar zijn de bergen, zwaar zijn de zeeën.</i><br>
+Selbst die als Kinder ihr pflanztet, die Bäume,
+	<i>Zelfs wat als kinderen jullie plantten, de bomen,</i>
 wurden zu schwer längst; ihr trüget sie nicht.
-Aber die Lüfte... aber die Räume...
+	<i>werden lang geleden te zwaar; jullie kunnen ze niet dragen.</i> 
+Aber die Lüfte ... aber die Räume ...
+	<i>Maar de luchten ... maar de ruimtes ...</i>
 </p>
 </details>
 
 <details><summary class="f5">5. <i>Errichtet keinen Denkstein</i></summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Errichtet keinen Denkstein. Laßt die Rose
+	<i>Richt geen gedenksteen op. Laat de roos</i>
 nur jedes Jahr zu seinen Gunsten blühn.
+	<i>slechts elk jaar in zijn belang bloeien.</i> 
 Denn Orpheus ists. Seine Metamorphose
+	<i>Want het is Orpheus. Zijn metamorfose</i>
 in dem und dem. Wir sollen uns nicht mühn
-
+	<i>in dit en dat. We moeten ons niet moeien</i><br>
 um andre Namen. Ein für alle Male
+	<i>om andere namen. Eens en voor altijd</i>
 ists Orpheus, wenn es singt. Er kommt und geht.
+	<i>is het Orpheus, wanneer er gezongen wordt. Hij komt en gaat.</i>
 Ists nicht schon viel, wenn er die Rosenschale
-um ein Paar Tage manchmal übersteht?
-
+	<i>Is het niet al veel, wanneer hij de rozenschalen</i>
+um ein paar Tage manchmal übersteht?
+	<i>voor een paar dagen soms overleeft?</i><br>
 O wie er schwinden muß, daß ihrs begrifft!
+	<i>O hoe hij tanen moet, dat je dat begrijpt!</i>
 Und wenn ihm selbst auch bangte, daß er schwände.
+	<i>En wanneer hij zelf ook vreesde, dat hij taande.</i>
 Indem sein Wort das Hiersein übertrifft,
-
+	<i>Terwijl zijn woord het hierzijn overtreft.</i><br>
 ist er schon dort, wohin ihrs nicht begleitet.
-Der Leier Gitter zwingt ihm nicht die Hände.
+	<i>is hij al daar, waarheen je hem niet begeleidt.</i>
+Der Leier Gitter zwängt ihm nicht die Hände.
+	<i>De frets van de lier binden hem niet de handen.</i>
 Und er gehorcht, indem er überschreitet.
+	<i>En hij gehoorzaamt, doordat hij overschrijdt.</i>
 </p>
 </details>
 
@@ -431,34 +483,53 @@ Und er gehorcht, indem er überschreitet.
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Mit Myrthen und Rosen, lieblich und hold,
+	<i>Met mirte en rozen, lieflijk en vertrouwd,</i>
 Mit duft’gen Zypressen und Flittergold,
+	<i>Met geurende cipressen en klatergoud,</i>
 Möcht’ ich zieren dies Buch wie ’nen Totenschrein,
+	<i>Wilde ik kleden dit boek als een dodenschrijn,</i>
 Und sargen meine Lieder hinein.
-
+	<i>En mijn liederen erin begraven</i><br>
 O könnt’ ich die Liebe sargen hinzu!
+	<i>O kon ik maar de liefde daarin begraven!</i>
 Auf dem Grabe der Liebe wächst Blümlein der Ruh’,
+	<i>In het graf van de liefde groeit het bloemetje van de rust,</i>
 Da blüht es hervor, da pflückt man es ab,—
+	<i>Daar schiet het omhoog, daar plukt men het af,—</i>
 Doch mir blüht’s nur, wenn ich selber im Grab.
-
+	<i>Maar bij mij bloeit het pas, als ik zelf in mijn graf lig.</i><br>
 Hier sind nun die Lieder, die einst so wild,
+	<i>Hier zijn nu de liederen, die eens zo wild,</i>
 Wie ein Lavastrom, der dem Ätna entquillt,
+	<i>Als een lavastroom, die de Etna ontwelt,</i>
 Hervorgestürzt aus dem tiefsten Gemüt,
+	<i>Omhooggeperst uit het diepste gevoel,</i>
 Und rings viel blitzende Funken versprüht!
-
+	<i>En rondom veel flitsende vonken sproeit!</i><br>
 Nun liegen sie stumm und totengleich,
+	<i>Nu liggen ze stom en als doden gelijk,</i>
 Nun starren sie kalt und nebelbleich,
+	<i>Nu staren ze koud en nevelbleek,</i>
 Doch aufs neu’ die alte Glut sie belebt,
+	<i>Maar ze beleven opnieuw hun oude gloed,</i>
 Wenn der Liebe Geist einst über sie schwebt.
-
+	<i>Als de lieve geest eens over ze zweeft.</i><br>
 Und es wird mir im Herzen viel Ahnung laut:
+	<i>En in mijn hart groeit het sterke vermoeden:</i>
 Der Liebe Geist einst über sie taut;
+	<i>De lieve geest stort zijn dauw eens over haar heen;</i>
 Einst kommt dies Buch in deine Hand,
+	<i>Eens komt dit boek in jouw hand,</i>
 Du süsses Lieb im fernen Land.
-
+	<i>Jij zoete geliefde in een ver land.</i><br>
 Dann löst sich des Liedes Zauberbann,
+	<i>Dan breekt de toverspreuk van het lied los,</i>
 Die blassen Buchstaben schaun dich an,
+	<i>De bleke letters kijken je aan,</i>
 Sie schauen dir flehend ins schöne Aug’,
+	<i>Ze kijken je smekend in je mooie ogen,</i>
 Und flüstern mit Wehmut und Liebeshauch.
+	<i>En fluisteren met weemoed en liefdeszucht.</i>
 </p>
 </details>
 
