@@ -310,7 +310,7 @@ Und küßt ihn mit lachendem Munde.
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Da stieg ein Baum. O reine Übersteigung!
-	<i>Daar steeg een boom. O pure oversteiging!</i>
+	<i>Daar steeg een boom. O pure overstijging!</i>
 O Orpheus singt! O hoher Baum im Ohr.
 	<i>O Orpheus zingt! O hoge boom in het oor.</i>
 Und alles schwieg. Doch selbst in der verschweigung
