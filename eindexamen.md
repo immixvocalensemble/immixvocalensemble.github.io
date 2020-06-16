@@ -36,20 +36,23 @@ width: 20em;
 <center>
 
 ### Introductie
+
 </center>
-Welkom bij mijn eindexamen. Vergeet niet je telefoon op stil en/of vliegtuigstand te zetten wanneer het concert begint. 
+Welkom bij mijn eindexamen. Vergeet niet je telefoon op stil en/of vliegtuigstand te zetten wanneer het concert begint.
 
 <center>
 
 ### Programma
+
 </center>
 
-#### 1. Carlos Micháns ⁠— *Cuerpo de mujer*
+#### 1. Carlos Micháns ⁠— _Cuerpo de mujer_
 
 <details><summary class="f5">Liedtekst (klik)</summary>
 <div align="right">
 
 **Pablo Neruda**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Cuerpo de mujer, blancas colinas, muslos blancos,
@@ -81,12 +84,13 @@ Cuerpo de mujer mía, persistiré en tu gracia.
 </p>
 </details>
 
-#### 2. Wilhelm Stenhammar ⁠— *Gammal nederländare*
+#### 2. Wilhelm Stenhammar ⁠— _Gammal nederländare_
 
 <details><summary class="f5">Liedtekst</summary>
 <div align="right">
 
 **Bo Bergman**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Det är inte roligt att stå och bulta längre Katinka.
@@ -118,12 +122,13 @@ en fet och rykande skinka.
 </p>
 </details>
 
-#### 3. Carolus Hacquart ⁠— *Miser es*
+#### 3. Carolus Hacquart ⁠— _Miser es_
 
 <details><summary class="f5">1. <i>Miser es</i></summary>
 <div align="right">
 
 **Thomas à Kempis**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Miser es ubicumque fueris
@@ -167,12 +172,13 @@ et vide bis quod omnia ista temporalia nulla sunt.)
 </p>
 </details>
 
-#### 4. Alphons Diepenbrock ⁠— *Berceuse*
+#### 4. Alphons Diepenbrock ⁠— _Berceuse_
 
 <details><summary class="f5">Liedtekst</summary>
 <div align="right">
 
 **Charles van Lerberghe**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Le Seigneur a dit à son enfant:
@@ -209,7 +215,7 @@ Aux bosquets sombres de l'Amour.
 	<i>In de sombere bosjes van de liefde.</i><br>
 Reste ignorante, ne pense pas; chante.
 	<i>Blijf onwetend, denk niet na; zing.</i>
-Tout science est vaine,
+Toute science est vaine,
 	<i>Alle kennis is ijdelheid</i>
 N'aime que la beauté.
 	<i>Hou van niks dan de schoonheid.</i>
@@ -218,12 +224,13 @@ Et qu'elle soit pour toi toute la vérité.
 </p>
 </details>
 
-#### 5. Gerrit Jan van Eijken ⁠— *König Harald Harfagar*
+#### 5. Gerrit Jan van Eijken ⁠— _König Harald Harfagar_
 
 <details><summary class="f5">Liedtekst</summary>
 <div align="right">
 
 **Heinrich Heine**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Der König Harald Harfagar
@@ -301,12 +308,13 @@ Und küßt ihn mit lachendem Munde.
 </p>
 </details>
 
-#### 6. Einojuhani Rautavaara ⁠— *Fünf Sonette an Orpheus*
+#### 6. Einojuhani Rautavaara ⁠— _Fünf Sonette an Orpheus_
 
 <details><summary class="f5">1. <i>Da stieg ein Baum</i></summary>
 <div align="right">
 
 **Rainer Maria Rilke**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Da stieg ein Baum. O reine Übersteigung!
@@ -472,14 +480,13 @@ Und er gehorcht, indem er überschreitet.
 </p>
 </details>
 
-
-
-#### 7. Robert Schumann ⁠— *Mit Myrten und Rosen*
+#### 7. Robert Schumann ⁠— _Mit Myrten und Rosen_
 
 <details><summary class="f5">Liedtekst</summary>
 <div align="right">
 
 **Heinrich Heine**
+
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
 Mit Myrthen und Rosen, lieblich und hold,
@@ -533,8 +540,7 @@ Und flüstern mit Wehmut und Liebeshauch.
 </p>
 </details>
 
-
-<!-- 
+<!--
 <center>
 
 ### Dank
@@ -549,7 +555,7 @@ Und flüstern mit Wehmut und Liebeshauch.
 
 Veel dank aan Selma Harkink, mijn *maestra* de afgelopen vier jaar waar ik zo veel van heb geleerd.
 
-Veel dank aan Mariken Zandvliet en Carl van Reenen, mijn genadeloze correpetitoren de afgelopen jaren. 
+Veel dank aan Mariken Zandvliet en Carl van Reenen, mijn genadeloze correpetitoren de afgelopen jaren.
 
 Ook veel dank aan Jasper Schweppe, die mij het afgelopen jaar de kneepjes van het bariton-zijn heeft geleerd.
 
@@ -559,11 +565,11 @@ Veel dank aan David Wilson-Johnson, Kaspar Kröner en Elisabeth Blom, de zangdoc
 
 Veel dank aan mijn ouders en aan Margreet en Els. Ik heb het hart niet op de tong, maar jullie stelden mij in staat zo ver te komen en ik probeer dat elke dag opnieuw te verdienen.
 
-Veel dank aan mijn medezangers op het conservatorium. Ik heb er de afgelopen zeven jaar veel zien komen en gaan, en allen hebben mijn leven verder verrijkt. Met name veel dank aan Robin Lammertink voor haar medewerking aan dit examen, *nota bene* vlak voor haar eigen examen! 
+Veel dank aan mijn medezangers op het conservatorium. Ik heb er de afgelopen zeven jaar veel zien komen en gaan, en allen hebben mijn leven verder verrijkt. Met name veel dank aan Robin Lammertink voor haar medewerking aan dit examen, *nota bene* vlak voor haar eigen examen!
 
 Ook veel dank aan Veronika Akhmetchina, mijn *partner in crime* voor heel veel projecten de afgelopen jaren. Door Covid-19 helaas niet met mij op het podium, maar wel achter de schermen actief met het licht.
 
-Veel dank aan alle andere musici met wie ik éigenlijk had gepland te zingen of spelen tijdens dit eindexamen. 
+Veel dank aan alle andere musici met wie ik éigenlijk had gepland te zingen of spelen tijdens dit eindexamen.
 
 Veel dank aan Wilfred van de Peppel en Gusta Gerritsen, die me hebben geleerd hoe ik op een podium moet staan en hoe ik met de aandacht van een publiek om moet gaan.
 
