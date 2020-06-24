@@ -540,20 +540,16 @@ Und flüstern mit Wehmut und Liebeshauch.
 </p>
 </details>
 
-<!--
 <center>
 
 ### Dank
+
 </center>
-
-
-
-
 
 <details><summary class="f5">(Klik)</summary>
 <p class="f6 lh-copy">
 
-Veel dank aan Selma Harkink, mijn *maestra* de afgelopen vier jaar waar ik zo veel van heb geleerd.
+Veel dank aan Selma Harkink, mijn _maestra_ de afgelopen vier jaar waar ik zo veel van heb geleerd.
 
 Veel dank aan Mariken Zandvliet en Carl van Reenen, mijn genadeloze correpetitoren de afgelopen jaren.
 
@@ -561,13 +557,15 @@ Ook veel dank aan Jasper Schweppe, die mij het afgelopen jaar de kneepjes van he
 
 Veel dank aan Jón Þorsteinsson, die mij de eerste drie jaar aan het Utrechts Conservatorium wegwijs heeft gemaakt in het zingen na een leven van strijken.
 
+Veel dank aan José Lieshout, Eduardo Benigno López Cabello en Roberto Redondo Sainz voor hulp met uitspraak.
+
 Veel dank aan David Wilson-Johnson, Kaspar Kröner en Elisabeth Blom, de zangdocenten die mij geholpen hebben het conservatorium überhaupt binnen te komen.
 
 Veel dank aan mijn ouders en aan Margreet en Els. Ik heb het hart niet op de tong, maar jullie stelden mij in staat zo ver te komen en ik probeer dat elke dag opnieuw te verdienen.
 
-Veel dank aan mijn medezangers op het conservatorium. Ik heb er de afgelopen zeven jaar veel zien komen en gaan, en allen hebben mijn leven verder verrijkt. Met name veel dank aan Robin Lammertink voor haar medewerking aan dit examen, *nota bene* vlak voor haar eigen examen!
+Veel dank aan mijn medezangers op het conservatorium. Ik heb er de afgelopen zeven jaar veel zien komen en gaan, en allen hebben mijn leven verder verrijkt. Met name veel dank aan Robin Lammertink voor haar medewerking aan dit examen, _nota bene_ vlak voor haar eigen examen!
 
-Ook veel dank aan Veronika Akhmetchina, mijn *partner in crime* voor heel veel projecten de afgelopen jaren. Door Covid-19 helaas niet met mij op het podium, maar wel achter de schermen actief met het licht.
+Ook veel dank aan Veronika Akhmetchina, mijn _partner in crime_ voor heel veel projecten de afgelopen jaren. Door Covid-19 helaas niet met mij op het podium, maar wel achter de schermen actief met het licht.
 
 Veel dank aan alle andere musici met wie ik éigenlijk had gepland te zingen of spelen tijdens dit eindexamen.
 
@@ -576,5 +574,6 @@ Veel dank aan Wilfred van de Peppel en Gusta Gerritsen, die me hebben geleerd ho
 Dank ook aan de medewerkers van het Utrechts Conservatorium. Ondanks een pandemie(!) stellen zij ons tóch in staat een fysiek eindexamen te hebben, waar bijna alle andere conservatoria dat niet doen.
 
 Boven alles, natuurlijk: dank aan Sanne. Na de hele dag in de praktijk heeft ze ook nog energie voor mij en mijn onzin. Veel liefde daarvoor.
+
 </p>
-</details> -->
+</details>
