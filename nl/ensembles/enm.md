@@ -30,15 +30,11 @@ Het eerste project van Ensemble Nieuwe Muziek was op 16 april 2018 in het Utrech
 <div class="mw9 center ph3-ns">
   <div class="cf ph2-ns">
     <div class="fl w-100 w-50-ns pa2 br3 ba b--light-gray">
-      
 		<img src="/images/enm/enm1.jpg" alt="Ensemble Nieuwe Muziek" class="br3 br--top">
 			<figcaption class="tc">Veronika Akhmetchina, Annely Leinberg, Hugo Kampschreur, Sebastiaan Ammerlaan.</figcaption>
-      
     </div>
     <div class="fl w-100 w-50-ns pa2 br3 ba b--light-gray">
-      
 		<img src="/images/enm/kistje.jpg" alt="Ensemble Nieuwe Muziek" class="br3">
-
     </div>
   </div>
 </div>

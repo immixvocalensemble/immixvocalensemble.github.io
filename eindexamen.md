@@ -35,7 +35,9 @@ width: 20em;
 </style>
 <center>
 
+
 ### Introductie
+
 
 </center>
 Welkom bij mijn eindexamen. Vergeet niet je telefoon op stil en/of vliegtuigstand te zetten wanneer het concert begint.
