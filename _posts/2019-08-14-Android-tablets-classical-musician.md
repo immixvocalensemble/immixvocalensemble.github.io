@@ -24,10 +24,12 @@ By far the most interesting use of a tablet for musicians is of course the optio
 When choosing a tablet, think about these aspects:
 
 - **Storage.** If you have a lot of sheet music it can be a good idea to look for a tablet with plenty of storage space. Especially scanned sheet music in pdf format can be cumbersome, as these are essentially a series of high-resolution image files moulded into a pdf file.
+
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<img src="/images/blog/2019/Screenshot_20190814-210739_Total Commander.jpg" alt="Opslag" class="br3 br--top">
   	<figcaption class="tc">Storage of digital sheet music can take up quite some space.</figcaption>
   </figure>
+
     - You may consider choosing a tablet with a slot for an external (micro) sd card. This can make it easier to share files with others and to add new music to your tablet. By using multiple sd cards you could theoretically even have nigh infinite storage space for sheet music, given the very small size of sd cards these days.
     - You may also consider storing your sheet music in the *cloud*. This has the following advantages:
     1. Less need for much storage space on the tablet.
@@ -57,16 +59,18 @@ When choosing a tablet, think about these aspects:
 </figure>
 
 - **Screen size.** To view sheet music meant for A4 (or bigger!) it is important to pick a tablet with a large enough screen. However, it is not necessary to buy a screen with the same measurements as a sheet of A4 paper: good sheet music apps have the option to automatically remove the margins from the sheet music, making the notes (almost) the same size as they are on paper.
+  
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<a href="/images/blog/2019/tablet-schaal.jpg">
       <img src="/images/blog/2019/tablet-schaal-lores.jpg" alt="Tablet-schaal" class="br3 br--top"></a>
   	<figcaption class="tc">Sheet music on my tablet with a Bic pen for scale. Click for a larger image.</figcaption>
   </figure>
+
     - I own a tablet of 10.5 inch (1200x1920 pixels), which is just right for me. The notes and text are usually slightly smaller than on paper, but still clearly legible. However, I usually hold my tablet in my hands and can bring it closer to my eyes. You may consider going for a larger screen if you're afraid it might not be legible enough, to get the notes on the same size as they are on paper.
 
 ## Using the tablet
 
-My experience shows that you'd do well to thoroughly test your tablet before using it in public during rehearsals. The moment you fail finding the right button fast enough you will quickly hear such encouraging words as, "See, paper is still easier" or "Could you print out your music for the next rehearsal? This is clearly not working out." As with all new technology, the tablet is set a pretty high bar.
+My experience shows that you'd do well to thoroughly test your tablet before using it in public during rehearsals. The moment you fail finding the right button fast enough you will quickly hear such encouraging words as, "See, paper is still easier" or "Could you print out your music for the next rehearsal? This is clearly not working out." As with all new technology, the tablet has to work hard to prove itself.
 
 In a next post I will list some essential Android apps for the classical musician. (Spoiler: [Mobilesheets](https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro) is in my opinion the best sheet music app for Android.) I will also talk about the solution I found for putting the tablet in a music binder to be less conspicuous in group settings and my compensation for having a tablet without palm rejection.
 

@@ -24,10 +24,12 @@ Het interessante van tablets voor musici is natuurlijk voornamelijk de mogelijkh
 Let bij het uitkiezen van een tablet op deze dingen:
 
 - **Opslagmogelijkheid.** Als je veel bladmuziek hebt kan het verstandig zijn te kijken naar een tablet met veel opslagruimte. Zeker ingescande bladmuziek in pdf-vorm kan oplopen qua bestandsgrootte, omdat het feitelijk een serie in pdf gegoten afbeeldingen zijn, vaak op hoge resolutie.
+
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<img src="/images/blog/2019/Screenshot_20190814-210739_Total Commander.jpg" alt="Opslag" class="br3 br--top">
   	<figcaption class="tc">Verzamelingen bladmuziek kunnen al snel groot worden.</figcaption>
   </figure>
+
     - Je kan overwegen een tablet te nemen met ruimte voor een sd-kaart. Dat kan het makkelijker maken gegevens met anderen te delen en nieuwe bladmuziek op de tablet te zetten. Bovendien kan je door meerdere sd-kaarten te gebruiken zelfs praktisch oneindige ruimte hebben voor meer bestanden (gezien die dingen zo klein zijn).
     - Voor toegevoegd praktisch nut kan je ook overwegen je bladmuziekvoorraad in de _cloud_ op te slaan. Voordelen:
     1. Minder opslagruimte op de tablet nodig.
@@ -57,11 +59,13 @@ Let bij het uitkiezen van een tablet op deze dingen:
 </figure>
 
 - **Schermgrootte.** Om bladmuziek die bedoeld is voor A4 (of groter!) goed te kunnen tonen is het belangrijk een tablet te nemen met een scherm dat groot genoeg is. Toch is een scherm met dezelfde afmetingen als A4 meestal niet nodig: goede apps om bladmuziek mee weer te geven kunnen de paginamarges automatisch van de muziek afsnijden, waardoor de noten uiteindelijk toch (bijna) even groot als op papier worden weergegeven.
+  
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<a href="/images/blog/2019/tablet-schaal.jpg">
       <img src="/images/blog/2019/tablet-schaal-lores.jpg" alt="Tablet-schaal" class="br3 br--top"></a>
   	<figcaption class="tc">Bladmuziek op mijn tablet, met een bic-pen voor de schaal. Klik voor een grotere afbeelding.</figcaption>
   </figure>
+  
     - Ik heb zelf een tablet van 10.5 inch (1200x1920 pixels), wat voor mij nèt groot genoeg is. De noten en tekst zijn vaak iets kleiner dan op papier, maar nog steeds goed leesbaar. Ik hou mijn tablet echter meestal in mijn handen en kan 'm dus makkelijk dichter bij mijn hoofd brengen. Als dat voor je instrument minder makkelijk gaat kan je overwegen te kijken voor een iets groter scherm, zodat de noten even groot als op papier worden.
 
 ## Gebruik van de tablet

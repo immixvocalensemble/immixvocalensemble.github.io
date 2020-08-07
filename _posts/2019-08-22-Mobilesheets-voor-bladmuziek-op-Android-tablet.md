@@ -58,6 +58,7 @@ Je ziet dan de muziekbibliotheek: een overzicht van alle bladmuziek die je hebt 
   	<img src="/images/blog/2019/instellingenknop.jpg" alt="Instellingenknop" class="br3 br--top"></a>
   	De verstopplaats van de instellingenknop.
 </figure>
+
 ### Tabbladen <a name="tabbladen"></a>
 
 De bibliotheek is in eerste instantie gevuld met tabbladen die voor klassieke musici overbodig zijn. Dat is makkelijk aan te passen en zorgt voor een overzichtelijkere bibliotheek. Voor klassieke muziek heb je eigenlijk alleen een tab met componisten nodig en eventueel een tab met de titels van muziek. Een tab met recent geopende bestanden is een handige derde tab.
@@ -72,7 +73,7 @@ Druk hiervoor op de drie puntjes onder elkaar, rechtsboven, en ga naar de "Bibli
 
 Specifieke instellingen die handig zijn voor klassieke muziek zijn te vinden onder de knop "Titelopmaak Muziekstukken". Deze kan je beter instellen zoals in de afbeelding hiernaast.
 
-Druk vervolgens op "Tab volgorde". Hier kan ik de tabs zoals in de afbeelding hieronder aanbevelen. De rest van de tabs zijn voor popmusici misschien interessanter, maar voor de meeste klassieke muziek niet erg relevant.
+Druk vervolgens op "Tab volgorde" [_sic_]. Hier kan ik de tabs zoals in de afbeelding hieronder aanbevelen. De rest van de tabs zijn voor popmusici misschien interessanter, maar voor de meeste klassieke muziek niet erg relevant.
 
 <figure class="br3 ma1 ba b--light-gray caption tc f7 mw5">
 <a href="/images/blog/2019/tabvolgorde.jpg">
@@ -103,6 +104,7 @@ Laat je niet intimideren door alle knopjes: de instellingen van MobileSheets zij
   	<img src="/images/blog/2019/importeren.jpg" alt="Muziek_importeren" class="br3 br--top"></a>
   	Druk op "Importeren naar MobileSheets".
 </figure>
+
 ## Bladmuziek bekijken
 
 Als de instellingen eenmaal geoptimaliseerd zijn voor klassieke muziek is het tijd om je eerste stuk bladmuziek te importeren. Als voorbeeld heb ik van [IMSLP](https://imslp.org) een [klavieruitreksel van de Matthäuspassion](<https://imslp.org/wiki/Matth%C3%A4uspassion%2C_BWV_244_(Bach%2C_Johann_Sebastian)#tabScore3>) gedownload.
@@ -115,6 +117,7 @@ Als je het bestand importeert kom je op een scherm waar je het bestand kan aanpa
 <a href="/images/blog/2019/bestanden.jpg">
   	<img src="/images/blog/2019/bestanden.jpg" alt="Bestanden-tab" class="br3"></a>
 </figure>
+
 ### "Bestanden"-tab
 
 Bovenin het scherm zie je de bestanden die bij dit muziekstuk horen. Meestal staat hier maar één bestand, zoals nu. Als het muziekstuk uit meerdere losse afbeeldingen of pdf-bestanden bestaat kan je die met de knoppen rechts toevoegen. Dit zou vrij vanzelfsprekend moeten gaan. Zoniet, zie dan de [handleiding](https://www.zubersoft.com/mobilesheets/MobileSheetsPro.pdf).
@@ -149,8 +152,10 @@ Open een stuk bladmuziek door erop te drukken in de bibliotheek.
   	<img src="/images/blog/2019/paginaAanraakgebieden.jpg" alt="Aanraakgebieden" class="br3 br--top"></a>
   	 Het bladmuziekscherm is ingedeeld in een onzichtbaar raster van aanraakgebieden met drie rijen en drie kolommen.
 </figure>
+
 <a name="aanraakgebieden"></a>
 Het scherm is in negen onzichtbare "aanraakgebieden" onderverdeeld. Deze heb je ingesteld bij de ["aanraakacties"](#aanraakacties) bij de instellingen. Als je mijn instellingen daar volgt krijg je de volgende effecten:
+
 1. Vorige pagina
 2. Vorige pagina
 3. Vorige pagina
@@ -334,23 +339,19 @@ De aantekeningenmodus is vrij vanzelfsprekend. De knop voor "ongedaan maken" zit
 <div class="center">
   <div class="cf ph2-ns">
     <div class="fl w-100 w-50-ns pa2">
-      
       <figure class="br3 ba b--light-gray caption tc f7">
     <a href="/images/blog/2019/peninstellingen.jpg">
     	<img src="/images/blog/2019/peninstellingen.jpg" alt="Peninstellingen" class="br3 br--top"></a>
     	Mijn instellingen voor de pen.
   </figure>
-      
     </div>
     <div class="fl w-100 w-50-ns pa2">
-      
       <figure class="br3 ba b--light-gray caption tc f7">
     <a href="/images/blog/2019/markeerinstellingen.jpg">
     	<img src="/images/blog/2019/markeerinstellingen.jpg" alt="Markeerstiftinstellingen" class="br3 br--top"></a>
     	Mijn instellingen voor de markeerstift.
   </figure>
-  
-    </div>
+  </div>
   </div>
 </div>
 
