@@ -49,7 +49,7 @@ Roboto is eventueel ook makkelijk te installeren:
 # pacman -S ttf-roboto
 ```
 
-Op Ubuntu of andere distributies moet je even kijken hoe bovenstaande pakketten daar heten, maar ze zijn dusdanig standaard dat ze ongetwijfeld in de software repository van je distributie beschikbaar zijn.
+Op Ubuntu of andere distributies moet je even kijken hoe bovenstaande pakketten daar heten, maar ze zijn dusdanig standaard dat ze ongetwijfeld in de *software repository* van je distributie beschikbaar zijn.
 
 Een programma om LaTeX-bestanden mee te verwerken kan ook van pas komen. Ik gebruik daarvoor [texstudio](https://www.archlinux.org/packages/community/x86_64/texstudio/).
 
@@ -68,7 +68,7 @@ De werkvolgorde is als volgt:
   	<figcaption class="tc">Mijn sjabloon met de nog niet vervangen stukjes Pythoncode. De tabel vormt meerdere regels waar nodig door middel van een <i>for loop</i>.</figcaption>
 </figure>
 
-In de sjabloonfactuur verwerk je bepaalde sleutelwoorden (stukjes Pythoncode) die worden vervangen door overeenkomende getalen of tekst uit je GnuCash-database als het bestand door gcinvoice wordt gelezen. Als in het sjabloon bijvoorbeeld ergens `@{owner['full_name']}` staat, vervangt gcinvoice dat door de naam van de klant aan wie je factuur is gericht. Een lijst van de mogelijke stukjes Pythoncode staat [op de webpagina van gcinvoice](https://pypi.org/project/gcinvoice/) onder het kopje "Templates".
+In de sjabloonfactuur verwerk je bepaalde sleutelwoorden (stukjes Pythoncode) die worden vervangen door overeenkomende getallen of tekst uit je GnuCash-database als het bestand door gcinvoice wordt gelezen. Als in het sjabloon bijvoorbeeld ergens `@{owner['full_name']}` staat, vervangt gcinvoice dat door de naam van de klant aan wie je factuur is gericht. Een lijst van de mogelijke stukjes Pythoncode staat [op de webpagina van gcinvoice](https://pypi.org/project/gcinvoice/) onder het kopje "Templates".
 
 ## Sjabloon
 

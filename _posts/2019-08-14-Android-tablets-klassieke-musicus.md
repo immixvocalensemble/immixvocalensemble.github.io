@@ -11,9 +11,9 @@ tags: android tablet bladmuziek technologie klassiekemuziek
 
 De klassieke musicus wordt omgeven door traditie. Dat zorgt voor een rijke voedingsbodem maar staat vernieuwing soms in de weg. Dat ene koorlid met een tablet in z'n handen valt niet per se in positieve zin op.
 
-Waar de schoen wringt bij technologie en muziek is vaak de betrouwbaarheid. Het rampscenario is de technologie die plotseling de geest geeft midden in een concert. Wat dan? Reden genoeg voor velen om de technologie nog maar te mijden.
+Waar de schoen wringt bij technologie en muziek is vaak de betrouwbaarheid. Het rampscenario is technologie die plotseling de geest geeft midden in een concert. Wat dan? Reden genoeg voor velen om technologie voorlopig nog maar te mijden.
 
-Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans [open-source](https://youtu.be/a8fHgx9mE5U) te zijn en zijn, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten.](https://stallman.org/apple.html)) In dit artikel heb ik het dus over Android-tablets.
+Apple-producten zijn sterk vertegenwoordigd in de muziekwereld, maar Android-producten zijn altijd goedkoper, hebben een grotere kans [open-source](https://youtu.be/a8fHgx9mE5U) te zijn en zijn, mijns inziens, vaak beter. (Ik ben geen fan van Apple. Misschien schrijf ik daar later meer over, maar [hier staan al een aantal goede argumenten](https://stallman.org/apple.html).) In dit artikel heb ik het dus over Android-tablets.
 
 ## Een tablet uitkiezen
 
@@ -23,7 +23,7 @@ Het interessante van tablets voor musici is natuurlijk voornamelijk de mogelijkh
 
 Let bij het uitkiezen van een tablet op deze dingen:
 
-- **Opslagmogelijkheid.** Als je veel bladmuziek hebt kan het verstandig zijn te kijken naar een tablet met veel opslagruimte. Zeker ingescande bladmuziek in pdf-vorm kan oplopen qua bestandsgrootte, omdat het feitelijk een serie in pdf gegoten afbeeldingen zijn, vaak op hoge resolutie.
+- **Opslagmogelijkheid.** Als je veel bladmuziek hebt kan het verstandig zijn te kijken naar een tablet met veel opslagruimte. Zeker ingescande bladmuziek in pdf-vorm kan snel oplopen qua bestandsgrootte, omdat dit feitelijk een serie afbeeldingen zijn, vaak op hoge resolutie, die in een pdf-bestand worden gegoten.
 
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<img src="/images/blog/2019/Screenshot_20190814-210739_Total Commander.jpg" alt="Opslag" class="br3 br--top">

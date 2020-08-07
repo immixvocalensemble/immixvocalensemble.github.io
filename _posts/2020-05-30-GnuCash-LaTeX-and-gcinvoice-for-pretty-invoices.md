@@ -72,7 +72,7 @@ You need to place pieces of Python code in the invoice template, which get repla
 
 ## Template
 
-My template can be downloaded from my [Github repository](https://github.com/bammerlaan/template_blogpost_bammerlaan). Also included is a bash script you can use to automate using gcinvoice. In both the bash script and the template you will need to edit some global variables to your situation. These are indicated with comments.
+My template can be downloaded from my [Github repository](https://github.com/bammerlaan/template_blogpost_bammerlaan). Also included is a bash script you can use to automate running gcinvoice. In both the bash script and the template you will need to edit some global variables to your situation. These are indicated with comments.
 
 My template uses my self-made background image and logo. Feel free to use these, though you'll probably want to change the logo, considering. For the prettiest results I recommend using vector images for these. If you already have svg files of your images, you can easily export them to pdf using [Inkscape](https://inkscape.org/).
 
@@ -80,7 +80,7 @@ The background image was made with [Scribus](https://www.scribus.net/). The Scri
 
 ## Using GnuCash for the body text
 
-By using billing terms to your invoice, you can automatically change the body text of your letter for different situations. In GnuCash, go to the menu `Business → Billing Terms Editor`. You can add different options here. I myself use three different ones:
+By using billing terms to your invoice, you can automatically change the body text of your letter for different situations. In GnuCash, go to `Business → Billing Terms Editor` in the menu. You can add different options here. I myself use three different ones:
 
 - Payment within thirty days
 - Payment before the first lesson

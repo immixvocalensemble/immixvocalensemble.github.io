@@ -66,7 +66,7 @@ De website [https://epc-qr.eu/](https://epc-qr.eu/) heeft een generator voor der
 
 `download_SEPA_credit_transfer_QR_Code.sh` is het resultaat, en gebruikt [gcinvoice](https://bitbucket.org/smoerz/gcinvoice) om het factuurnummer en de klantnaam uit je GnuCash-database te halen. Ik gebruikte gcinvoice ook al in mijn vorige blogpost en ik was al bekend met de syntax, dus dat leek me het eenvoudigst.
 
-De nieuwe scriptjes zijn te vinden op mijn [Github repository](https://github.com/bammerlaan/template_blogpost_bammerlaan/tree/master/SEPA_CT_QR_codes).
+De nieuwe scriptjes zijn te vinden op mijn [Github-repository](https://github.com/bammerlaan/template_blogpost_bammerlaan/tree/master/SEPA_CT_QR_codes).
 
 `download_SEPA_credit_transfer_QR_Code.sh` kan ook los worden gebruikt. Dat kan van pas komen als je een SCT QR-code uit je GnuCashfactuur met iets anders wilt gebruiken. Zie `download_SEPA_credit_transfer_QR_Code.sh -h` voor gebruiksinstructies.
 

@@ -19,9 +19,9 @@ Apple products enjoy great popularity in the music world, but Android products a
 
 Yes: a _tablet_. Calling every tablet an iPad is akin to calling every game console a Nintendo. To each his own, of course, but this does date you somewhat.
 
-By far the most interesting use of a tablet for musicians is of course the option of using the tablet for sheet music. This saves printing costs, the rain forest and the environment. Additionally, it saves you physically storing the rain forest on your shelves of sheet music.
+By far the most interesting use of a tablet for musicians is of course the option of using the tablet for sheet music. This saves printing costs, the rain forest and the environment. As an added advantage, you won't need to fill cabinets of sheetmusic with said rain forest.
 
-When choosing a tablet, think about these aspects:
+When choosing a tablet, take into account the following considerations:
 
 - **Storage.** If you have a lot of sheet music it can be a good idea to look for a tablet with plenty of storage space. Especially scanned sheet music in pdf format can be cumbersome, as these are essentially a series of high-resolution image files moulded into a pdf file.
 
@@ -49,7 +49,7 @@ When choosing a tablet, think about these aspects:
 
 * **Battery capacity.** Whatever happens, you will want to avoid your tablet shutting down from lack of power during a concert. A big battery can help prevent this. It may also be wise to bring along an external [power bank](https://www.digitaltrends.com/mobile/best-portable-battery-chargers/) for emergencies.
 
-- **Bluetooth.** It is popular to use a bluetooth pedal with a tablet showing sheet music. As a singer I don't need this, but when holding an instrument you often do not have a hand free to press the screen to go to the next page. And given that most tablets only reasonably show one page at the time, you will have to turn pages more frequently than with paper.
+- **Bluetooth.** It is popular to use a bluetooth pedal with a tablet showing sheet music. As a singer I don't need this, but when holding an instrument you often do not have a hand free to press the screen to go to the next page. And given that most tablets can only (legibly) show one page at the time, you will have to turn pages more frequently than with paper.
   - Pay attention to the Bluetooth version of your tablet and your pedal. A higher version is always better, as it consumes less power and has a more reliable connection. [The newest version right now is 5.1](https://www.howtogeek.com/343718/whats-different-in-bluetooth-5.0/), but version 4.2 should also be plenty reliable to give a concert with without fear of losing your connection midway.
 
 <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
@@ -58,7 +58,7 @@ When choosing a tablet, think about these aspects:
 	<figcaption class="tc">My own Samsung Tab 10.5.</figcaption>
 </figure>
 
-- **Screen size.** To view sheet music meant for A4 (or bigger!) it is important to pick a tablet with a large enough screen. However, it is not necessary to buy a screen with the same measurements as a sheet of A4 paper: good sheet music apps have the option to automatically remove the margins from the sheet music, making the notes (almost) the same size as they are on paper.
+- **Screen size.** To view sheet music meant for A4 paper (or larger!), it is important to pick a tablet with a large enough screen. However, it is not necessary to buy a screen with the same measurements as a sheet of A4 paper: good sheet music apps have the option to automatically remove the margins from the sheet music, making the notes (almost) the same size as they are on paper.
   
   <figure class="fr-ns w-50-ns br3 ma1 ba b--light-gray">
   	<a href="/images/blog/2019/tablet-schaal.jpg">

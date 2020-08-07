@@ -14,7 +14,7 @@ published: true
   	<figcaption class="tc">Invoice with automatically added SEPA Credit Transfer QR code.</figcaption>
 </figure>
 
-While working on my [previous post](https://bammerlaan.nl/posts/GnuCash-LaTeX-and-gcinvoice-for-pretty-invoices) on making prettier invoices for your GnuCash invoices, a student asked me if he could also pay using a [Tikkie](https://www.tikkie.me/). This is a Dutch service that lets you send quick payment requests links through whatever messenger app you prefer, quickly allowing recipients to pay through their bank's app.
+While working on my [previous post](https://bammerlaan.nl/posts/GnuCash-LaTeX-and-gcinvoice-for-pretty-invoices) on making prettier invoices for your GnuCash invoices, a student asked me if he could also pay using a [Tikkie](https://www.tikkie.me/). This is a Dutch service that lets you send quick payment requests links through whatever messenger app you prefer, quickly allowing recipients to pay with their bank's mobile app.
 
 I looked into this a bit, and it turns out using Tikkie for a business of my size costs € 0,25 per transaction. Not too much in the grand scheme of things, but I'd really like to avoid as many overhead costs as possible for my small business.
 
@@ -64,7 +64,7 @@ The website [https://epc-qr.eu/](https://epc-qr.eu/) offers a generator for thes
 
 ## Bash script
 
-`download_SEPA_credit_transfer_QR_Code.sh` uses [gcinvoice](https://bitbucket.org/smoerz/gcinvoice) to get the invoice number and the customer name from your GnuCash database. Since I used gcinvoice in my previous post as well and since I was already familiar with its syntax, this seemed easiest.
+`download_SEPA_credit_transfer_QR_Code.sh` uses [gcinvoice](https://bitbucket.org/smoerz/gcinvoice) to get the invoice number and the customer name from your GnuCash database. Since I used gcinvoice in my previous post as well and since I was already familiar with its syntax, this seemed the easiest option.
 
 Find these scripts on my [Github repository](https://github.com/bammerlaan/template_blogpost_bammerlaan/tree/master/SEPA_CT_QR_codes).
 
@@ -77,4 +77,4 @@ I added an if/else-statement to the LaTeX template to check if a QR code is pres
 Some constants in `Gnucash_make_invoice` to fill in have also been added, check its comments for instructions.
 
 
-Keep in mind I am very much an amateur programmer, so bugs may be present in all these scripts. Let me know in the comments below if you find any. And also if you have more details about bank apps which support this!
+Keep in mind I am very much an amateur programmer, so bugs may be present in all these scripts. Let me know in the comments below if you find any. Also please let me know if you have more details about bank apps supporting this!
