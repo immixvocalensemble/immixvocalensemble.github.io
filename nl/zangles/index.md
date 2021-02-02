@@ -16,7 +16,7 @@ Samen gaan we er aan werken om de muziek te laten klinken zoals jij wilt. Hierbi
 
 Mijn eigen achtergrond ligt in klassieke zang en de klassieke zangtechniek, en vanuit die basis geef ik ook les. Ook voor genres als musical, jazz en pop is dit een zeer geschikt uitgangspunt.
 
-Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoopt te bereiken en hoe ik je daarbij kan helpen. Neem ook iets mee om voor te zingen! Ik geef mijn lessen in Utrecht&mdash;bij mij thuis in Zuilen of op het Utrechts Conservatorium. Desgewenst is les aan huis ook mogelijk.
+Een proefles is altijd gratis. Tijdens deze les kijken we samen naar wat je hoopt te bereiken en hoe ik je daarbij kan helpen. Neem ook iets mee om voor te zingen! Ik geef mijn lessen in Utrecht&mdash;bij mij thuis in Zuilen. Desgewenst is les aan huis ook mogelijk.
 
 <a name="tarieven-en-voorwaarden"></a>
 

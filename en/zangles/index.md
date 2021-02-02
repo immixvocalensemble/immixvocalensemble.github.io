@@ -19,7 +19,7 @@ My own background is in classical voice training, and this is also the method I 
 
 A try-out lesson is always free. During this lesson we will look at what you are hoping to achieve and how I can help you with that. It helps if you bring something along to sing! 
 
-I teach in Utrecht, either at my house in Zuilen or at the Conservatory of Utrecht. If desired I can also teach on location.
+I teach in Utrecht, at my house in Zuilen. If desired I can also teach on location.
 
 <a name="tarieven-en-voorwaarden"></a>
 
