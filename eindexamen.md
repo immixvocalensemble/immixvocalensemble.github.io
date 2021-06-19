@@ -3,36 +3,7 @@ title: Eindexamen Sebastiaan Ammerlaan
 layout: eindexamen
 ---
 
-<style>
 
-.eindexamen
-{
-	white-space: pre;
-}
-
-.song
-{
-background: #444;
-overflow: auto;
-zoom: 1.0;
-padding-bottom: 1em;
-border: 1px solid #000;
-}
-
-.song .lyrics
-{
-float: left;
-color: #ddd;
-margin: 1em;
-width: 20em;
-}
-
-.song #russian.lyrics { background: #009; }
-
-.song #english.lyrics { background: #090; }   
-
-.song .lyrics p { margin: .5em .2em; }
-</style>
 <center>
 
 
@@ -64,7 +35,7 @@ te pareces al mundo en tu actitud de entrega.
 Mi cuerpo de labriego salvaje te socava
 	<i>Mijn arbeiderslijf graaft ruw in je</i>
 y hace saltar el hijo del fondo de la tierra.
-	<i>en laat de zoon opspringen uit het diepst van de aarde.</i><br>
+	<i>en laat de zoon opspringen uit het diepst van de aarde.</i>
 Fui solo como un túnel. De mí huían los pájaros
 	<i>Ik ging alleen als een tunnel. Van mij vluchten de vogels</i>
 y en mí la noche entraba su invasión poderosa.

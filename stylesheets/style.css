@@ -162,3 +162,8 @@ a:active {
                                   supported by Chrome and Opera */
 }
 /* Class to prevent selection, from https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */
+
+.eindexamen
+{
+  white-space: pre;
+}
