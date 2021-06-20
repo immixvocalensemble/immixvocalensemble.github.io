@@ -28,20 +28,67 @@ Welcome to the eye-friendly programme page for the performance of Bloom, by NKK 
 <details><summary class="f5">Lyrics (click)</summary>
 <div align="right">
 
-**(Name of poet)**
+**Lyrics: 那 顺 Na Shun**<br>
+**Chinese translation: 乌兰杰 Wu Lan Jie**
 
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
-The huangbiao horse carries the sun on its mane
-The yellow horse sweeps down the moon by its tail
-The yellow horse’s body is connected to the grassland
-The yellow horse’s back reflects the light of the coloured clouds
-The neighing of the horse shakes the world
-The yellow horse kicks and breaks the mountain
-The yellow horse is calling for Mongolian warriors
-The yellow horse is full of strength Genghis Khan’s loyal companion
-Mother Nature’s selfless blessing I am a flower on the wallpaper's face,And repeat from here to there;While standing midst the birch leaves' greenOn all the walls, a bloom so fair.And yet you do not see me well enough,While sitting with me above,But gaze as if I were but some puzzle's fluff -Have you gone mad, my love?The pride of the Mongolians The majesty of the war horses 
-Thousands of songs circulate on the grasslands and leave good reputation The fire of passion; the source of wisdom The totem of worship; the conviction of victory The flag in the heart; the arrow of the strong The idea horse; the sublimation of thoughts The spirit of fighting; the revitalised sunrise We praise you, the eight yellow horses, the ideal horses
+嗻！  嗬！  叮啼哩   叮 叮 啼哩啼哩啼哩啼哩
+    <i>Zhe   ho    ding ti li    ding ding ti li ti li ti li ti li 
+    [These are onomatopoeia]</i>
+黃驃馬鬃馱來太陽 黃驃馬尾掃落月亮
+    <i>The huangbiao horses 
+    [a kind of horse that is one of the fastest
+    and most beautiful species in Chinese legends]
+    carry the sun on their manes;
+    the huangbiao horses sweep down the moon by their tails</i>
+黃驃馬身連著草原 黃驃馬背映著霞光
+    <i>The bodies of the huangbiao horses
+    are connected to the grassland;
+    The huangbiao horses’ backs
+    reflect the light of the coloured clouds</i>
+黃驃馬嘶威震世界 黃驃馬踢踏破山崗
+    <i>The neighing of the huangbiao horses 
+    shakes the world;
+    the huangbiao horses kick
+    and break the mountain</i>
+黃驃馬在呼喚勇士 八駿渾身都是力量
+    <i>The huangbiao horse
+    are calling for warriors;
+    the eight steeds are full of power</i>
+咪努嗻！  啼哩…嗬！ 叮啼哩 啼哩哩…
+    <i>[These are onomatopoeia]</i>
+成吉思汗的忠實伙伴 大自然母親的無私恩典
+    <i>Genghis Khan’s loyal companion; 
+    Mother Nature’s selfless blessing</i>
+蒙族的驕傲 戰馬的威嚴 
+    <i>The pride of the Mongolians; 
+    the majesty of the war horses</i>
+千歌萬曲流芳草原
+    <i>The fragrance 
+    of the thousands of songs and tunes
+    [of the huangbiao horses] 
+    remains and circulates in the grasslands </i>
+激情的火 智慧的源
+    <i>The fire of passion; 
+    the source of wisdom</i>
+崇拜的圖騰 必勝的信念
+    <i>The totem of worship; 
+    the conviction of victory</i>
+心中的弓 強者的箭
+    <i>The bow in the heart; 
+    the arrow of the strong men</i>
+理想的駿馬 意志的升華
+    <i>The ideal horses; 
+    the sublimation of spirit </i>
+戰斗的銳氣 振興的朝霞
+    <i>The spirit of fighting; 
+    the revitalised coloured clouds
+    during sunrise</i>
+我們贊美你 八匹黃驃馬 理想的駿馬唷
+    <i>We praise you, 
+    the eight steeds, 
+    the ideal horses</i>
 </p>
 </details>
 
@@ -355,7 +402,7 @@ What are the lyrics?
 
 
 <details><summary class="f5">Sebastiaan Ammerlaan (NL)</summary>
-<figure class="fr-l w-20-l ml-auto-l  fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l  fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Sebastiaan.jpg" alt="Sebastiaan" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -366,7 +413,7 @@ In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina
 </details>
 
 <details><summary class="f5">Ruben Grevelink (NL)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Ruben.jpg" alt="Ruben" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -376,7 +423,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Julie Hasfjord (NO)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Julie.jpg" alt="Julie" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -385,7 +432,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Jobbe Hoebink (NL)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Jobbe.jpg" alt="Jobbe" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -394,7 +441,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Phoebe Kirrage (UK)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Phoebe.jpg" alt="Phoebe" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -403,7 +450,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Emma Nelson (UK)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Emma.jpg" alt="Emma" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -412,16 +459,23 @@ Bio here
 </details>
 
 <details><summary class="f5">Ariel Sin Yu Lee (HK)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Ariel.jpg" alt="Ariel" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Ariel Sin Yu Lee is a mezzo-soprano and flutist from Hong Kong. <br><br>
+She completed her bachelor's degree in music at the Chinese University of Hong Kong in 2012, on flute and singing, with an entrance scholarship by the university. <br><br>
+She was awarded the Holland Scholarship by the Dutch government in 2017 and obtained her master’s degree in voice at the HKU Utrecht Conservatory in 2019. Ariel currently studies singing with the renowned vocal educator Henny Diemer. <br><br>
+In 2017, she performed as one of the vocal soloists in Cantabile Limited's production of Handel's Messiah in Hong Kong. In the same year, she made her opera debut with the Hong Kong Philharmonic in Purcell's “Dido and Aeneas”, singing the roles of second woman and second witch. <br><br>
+Ariel was also an active chamber musician in Hong Kong as a flutist and vocalist. She founded the chamber music ensemble “The Music Circles” in 2013 with two musician friends in Hong Kong. Among all the concerts organised by “The Music Circles”, the most successful ones are the tango concert series led by the Argentinean tango flutist Eduardo Tami. <br><br>
+During her master’s study in the Netherlands, she had studied and performed various opera, art songs, oratorios and chamber music repertoires under the guidance of different coaches.<br><br>
+In 2018, Ariel's chamber music trio performed in the last round of Storioni Willem Twee Chamber music Competition in 's-Hertogenbosch, the Netherlands as one of the finalists. In 2019, Ariel performed as the soloist of the talent opera “To Plant Again” in the Opera Forward Festival organized by the Dutch National Opera in Amsterdam. She is invited by the Opera Viva Festival in Woerden, the Netherlands, to give vocal rectials in the 2020 and 2021 editions.<br><br>
+Ariel has a broad interest in music, besides classical singing, she also does pop and jazz music. Ariel is also very interested in theater. 
 </p>
 </details>
 
 <details><summary class="f5">Jesse van der Wel (NL)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Jesse.jpg" alt="Jesse" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -430,7 +484,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Merel Wentink (NL)</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Merel.jpg" alt="Merel" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -445,7 +499,7 @@ Uitstapjes naar andere muziekstijlen en cross-overprojecten maakte ze onder ande
 
 #### Director
 <details><summary class="f5">Stijn Dijkema</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -455,7 +509,7 @@ Bio here
 
 #### Camera
 <details><summary class="f5">Charlie Feld</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -465,7 +519,7 @@ Bio here
 
 #### Sound
 <details><summary class="f5">That guy's name here</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -475,7 +529,7 @@ Bio here
 
 #### Composer
 <details><summary class="f5">Ragnheiður Erla Björnsdóttir</summary>
-<figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/ErlaPerla.jpg" alt="Erla" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
