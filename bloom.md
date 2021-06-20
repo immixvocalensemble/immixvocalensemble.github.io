@@ -369,26 +369,59 @@ Bio here
 #### Composer
 <details><summary class="f5">Ragnheiður Erla Björnsdóttir</summary>
 <figure class="fr-l w-20-l ml-auto-l fr-m w-20-m ml-auto-m br3 ma1 ba b--light-gray">
-    <img src="images/NKKNXT/Merel.jpg" alt="Erla" class="br3 br--top">
+    <img src="images/NKKNXT/ErlaPerla.jpg" alt="Erla" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Ragnheiður Erla Björnsdóttir is an Icelandic composer and poet based in Vienna. Her practice centres around research of sound-based elements with language using experimental vocal technique, syllable language and phonetic poetry to deconstruct text with compositional techniques.<br><br>
+Björnsdóttir has worked as a composer at the National Theatre of Iceland, the Icelandic National Broadcasting Service and the Reykjavík City Theatre. Working in international projects, she collaborates with directors, dancers, visual artists and other musicians leading her  compositions to have been performed in countries such as the United States, Finland, the Netherlands, Austria, Germany, Sweden and Iceland.<br><br>
+Björnsdóttir’s pieces have been performed at contemporary music festival such as Dark Music Days, WeW! Contemporary Festival, TutTötTuð and Young Nordic Music, where she was chosen as one of Iceland’s representatives in 2019. Her music has been portrayed in a National Geographic short film, as well as having composed the music score for three
+full-length films in Iceland.<br><br>
+Erla holds a MA in Creative Writing from the University of Iceland, specializing in the research of music and language, and a BA in Composition from the Icelandic Academy of the Arts under the guidance of composer Hróðmar I. Sigurbjörnsson. She completed exchange studies in Creative Writing at the University of Aberdeen in Scotland in 2017.<br><br>
+Her poetry has been published in magazines in the United States, the UK and Iceland. Additionally, she frequently writes poetry and librettos for other musician’s projects from a sound-derived perspective.<br><br>
+Björnsdóttir is a member of Hlökk, an art ensemble together with composers Ingibjörg Ýr
+Skarphéðinsdóttir and Lilja María Ásmundsdóttir. Their album, Hulduhljóð, won the Kraumur Music Awards 2019 and was nominated as the album of the year at the Icelandic Music Awards.
+Björnsdóttir was also nominated, with Hróðmar I. Sigurbjörnsson, for the composition of the year for their children's opera, The Seal Woman, at the Icelandic Music Awards.
 </p>
 </details>
 
 #### Thanks
+<div class="mw9 center">
+<div class="cf ph2-ns">
+    <div class="fl w-50 pa2">
+    <div class="">
 Imre Ploeg
+
 Eline Langejan
+
 Niels de Groot
+
 Boudewijn Janssen
+
 Béni Csillag
+
 Peggy Olislaegers
+    </div>
+    </div>
+    <div class="fl w-50 pa2">
+    <div class="">
 Haru Kitamika
+
 Joost Verheggen
+
 Minke van der Stelt
+
 Janneke Godschalk
+
 Nelleke Raudenbusch
+
 Tido Visser
+        </div>
+    </div>
+</div>
+</div>
+
+
+
 
 #### Made possible by
 Sponsors here?
