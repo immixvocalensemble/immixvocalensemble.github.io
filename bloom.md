@@ -32,14 +32,16 @@ Welcome to the eye-friendly programme page for the performance of Bloom, by NKK 
 
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
-Chinese text goes here
-	<i>Translation goes here</i>
-Chinese text goes here
-    <i>Translation goes here</i>
-Chinese text goes here
-    <i>Translation goes here</i>
-Chinese text goes here
-    <i>Translation goes here</i>
+The huangbiao horse carries the sun on its mane
+The yellow horse sweeps down the moon by its tail
+The yellow horse’s body is connected to the grassland
+The yellow horse’s back reflects the light of the coloured clouds
+The neighing of the horse shakes the world
+The yellow horse kicks and breaks the mountain
+The yellow horse is calling for Mongolian warriors
+The yellow horse is full of strength Genghis Khan’s loyal companion
+Mother Nature’s selfless blessing I am a flower on the wallpaper's face,And repeat from here to there;While standing midst the birch leaves' greenOn all the walls, a bloom so fair.And yet you do not see me well enough,While sitting with me above,But gaze as if I were but some puzzle's fluff -Have you gone mad, my love?The pride of the Mongolians The majesty of the war horses 
+Thousands of songs circulate on the grasslands and leave good reputation The fire of passion; the source of wisdom The totem of worship; the conviction of victory The flag in the heart; the arrow of the strong The idea horse; the sublimation of thoughts The spirit of fighting; the revitalised sunrise We praise you, the eight yellow horses, the ideal horses
 </p>
 </details>
 
@@ -87,6 +89,7 @@ de la taberna.
     <i>of the tavern.</i>
 </p>
 </details>
+
 #### Ragnheiður Erla Björnsdóttir ⁠— _curls I_
 
 #### Erik Bergman ⁠— _Vier Galgenlieder_
@@ -373,4 +376,19 @@ Bio here
 </p>
 </details>
 
+#### Thanks
+Imre Ploeg
+Eline Langejan
+Niels de Groot
+Boudewijn Janssen
+Béni Csillag
+Peggy Olislaegers
+Haru Kitamika
+Joost Verheggen
+Minke van der Stelt
+Janneke Godschalk
+Nelleke Raudenbusch
+Tido Visser
 
+#### Made possible by
+Sponsors here?
