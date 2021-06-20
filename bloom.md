@@ -209,12 +209,59 @@ Amen.
 </p>
 </details>
 
-#### Jobbe Hoebink ⁠— _Hier. Nu._
+#### Jobbe Hoebink ⁠— _Hier_
 
-<details><summary class="f5">Text</summary>
+<details><summary class="f5">Translation</summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
-Hier Jobbe's tekst
-    <i>met vertaling</i>
+Here.<br>
+Now
+Here
+This moment only
+You and I
+Here and now<br>
+Take them
+These words into the ear
+Thus moves thought to word
+Through sou.n.d.
+Be enchanted
+Like a child who in a seashell newly found discovers the ever-sounding sea.<br>
+Breath with me
+Here and now
+Out and in
+And out
+Thus begins on breath's rhythm a new sentence again and again
+Here out
+Now in<br>
+My lips feel tight, a box
+She shifts, minus, plus
+Registers in one, in nill
+Nill, one, one, nill
+Pulsates them through the cable
+Enwaves them through the air
+Over cities over countryside
+Through ocean's deepest depths 
+'till 'yond the moon and back
+The whole world she brings thus to your home<br>
+Where, through tube and thread and the so called "speaker", she deposits the words in the the little shells of your ears<br>
+Back with you
+Here and now<br>
+I am happy you are listening.<br>
+Through your head, through your throat
+Through our chest, belly and legs
+With your feet planted on the ground
+Into the deepest part of your toes
+These series of pulses
+These waves through the air
+Find their way back into the earth 
+on which I stand<br>
+Wherefrom this sounds..<br>
+When I can feel your touch once more
+And see you not in pixels but 
+by light of moon or sun
+I will go back
+Out and in
+Here and now
+to where all had begun
 </p>
 </details>
 
@@ -258,7 +305,9 @@ What are the lyrics?
     <img src="images/NKKNXT/Sebastiaan.jpg" alt="Sebastiaan" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Ever since Sebastiaan (Bas) Ammerlaan begged his parents for violin lessons when he was four, music took a strong hold of him. He soon changed the violin for the viola, then started singing, studying classical singing at the HKU Utrecht Conservatoire with Jón Þorsteinsson and Selma Harkink. Today he studies at the Master for Ensemble Singing at the Royal Conservatoire with Harry van Berne and Gerda van Zelm.
+Ever since Sebastiaan begged his parents for violin lessons when he was four, music took a strong hold of him. He soon changed the violin for the viola, then started singing, studying classical singing at the HKU Utrecht Conservatoire with Jón Þorsteinsson and Selma Harkink. Today he studies at the Master for Ensemble Singing at the Royal Conservatoire with Harry van Berne and Gerda van Zelm.<br><br>
+Sebastiaan played in the Youth Orchestra of the Netherlands and sang in the National Youth choir. He was a frequent participant in Meesters & Gezellen, another education project of both the Netherlands Chamber Choir and Cappella Amsterdam. He also sang in the TENSO Europe Chamber Choir and is part of the Bach Choir of the Netherlands. <br><br>
+In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina. He also sings in Ensemble Cantorex with soprano Iris Bouman, alto Hester Westra and tenor Dierick Aartsen, a vocal ensemble specialising in Renaissance and Baroque music.
 </p>
 </details>
 
@@ -331,7 +380,11 @@ Bio here
     <img src="images/NKKNXT/Merel.jpg" alt="Merel" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Samenwerking, altijd zoekend naar artistieke urgentie en een brede muzikale en artistieke oriëntatie. Dat zijn de meest karakteristieke eigenschappen van mezzosopraan Merel Wentink.<br><br>
+Merel staat het meest in haar kracht als ze samen met anderen iets neer kan zetten. Dat is terug te zien in haar carrière. Zo is zij op dit moment betrokken bij NKK NXT 20/21 (Immix), het het kader van een traineeship van het Nederlands kamerkoor. In dit ensemble zoekt ze samen met 8 andere zangers, componisten en theatermakers naar manieren om het belang van menselijk samenzijn te vertolken in ensemblezang. <br><br>
+Hiernaast zingt ze in Trio Ridente, een ensemble dat zij in 2019 oprichtte samen met sopraan Meike Wijma en pianiste Julia Hoorman. Trio Ridente vertolkt liederen en duetten in uiteenlopende stijlen en combineert deze met actuele thema’s, teksten en kleinkunst.<br><br>
+Vanaf het begin van haar studie klassieke zang op het Prins Claus conservatorium in Groningen, is Merel geïnteresseerd geweest in projecten met een bepaalde maatschappelijke en artistieke urgentie. Naast dat ze ervaring op deed als klassiek solist in oratoria (Matthäuspassie van Bach, Requiem van Mozart, Elias van Mendelssohn), zocht ze deze urgentie op tijdens verschillende producties van het Opera Forward Festival en een stage bij Holland Opera. Tijdens deze projecten werkte ze samen met hedendaagse componisten en experimenteerde ze met verschillende acteerstijlen. <br><br>
+Uitstapjes naar andere muziekstijlen en cross-overprojecten maakte ze onder andere in haar samenwerking met The Skypainters (een modern-jazzcollectief met klassieke invloeden) en met Wende Snijders in diens meest recente show “De Wildernis”. 
 </p>
 </details>
 
@@ -400,6 +453,8 @@ Boudewijn Janssen
 Béni Csillag
 
 Peggy Olislaegers
+
+Wende Snijders
     </div>
     </div>
     <div class="fl w-50 pa2">
