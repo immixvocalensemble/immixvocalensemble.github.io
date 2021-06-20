@@ -160,7 +160,57 @@ Lalu lalu lalu lalu la!
 
 </div>
 <p class="f6 lh-copy eindexamen overflow-auto">
-(Todo: Ask Jobbe for lyrics)
+Lies and truth denied, 
+to prove our pride, 
+guide our game 
+Lies and truth denied, 
+to smooth the sides,  
+hide our shame<br>
+In fear, who’ll understand? 
+One wonders; ‘who is foe? who is friend?’          
+that record plays all over again 
+Woman nor man can mend…<br>
+Lies and truth denied, 
+to separate and divide  <br>
+One look, but none who see
+Staring blind in bright L.E.D. 
+There’s no connection		
+How could there be?
+Just let it be!			Please, be!<br>
+When we don’t see,   		
+It seems that we         	
+in our anguish              	
+are blinding the eye   	
+to what could be.       <br>	
+Opening eyes, 
+So much we can realise
+When we see!	<br>
+Much as fright begs 
+the body to fight or flee				
+From heart to heart to heart to heart, flow!	 
+From heart to heart to heart to heart, know!<br>
+There lies truth
+In the branch of an olive tree
+From heart to heart to heart to heart, see!
+From heart to heart to heart to heart, be!
+Steadily, show me…<br>
+When we don’t see,   
+It seems that we     
+in our anguish              
+are blinding the eye   
+to what could be.  <br>
+Mirrors in us call
+Can we look at our reflection?
+We all must take action
+You see
+To avoid the debris<br>
+Open eyes.
+Realise and see.<br>
+On Common ground
+Once found
+There’s a space 
+Where all of us can be
+Where you and me are we
 </p>
 </details>
 
@@ -213,7 +263,6 @@ Amen.
 
 <details><summary class="f5">Translation</summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
-Here.<br>
 Now
 Here
 This moment only
@@ -224,12 +273,14 @@ These words into the ear
 Thus moves thought to word
 Through sou.n.d.
 Be enchanted
-Like a child who in a seashell newly found discovers the ever-sounding sea.<br>
+Like a child who in a seashell newly found 
+discovers the ever-sounding sea.<br>
 Breath with me
 Here and now
 Out and in
 And out
-Thus begins on breath's rhythm a new sentence again and again
+Thus begins on breath's rhythm a new sentence 
+again and again
 Here out
 Now in<br>
 My lips feel tight, a box
@@ -241,9 +292,12 @@ Enwaves them through the air
 Over cities over countryside
 Through ocean's deepest depths 
 'till 'yond the moon and back
-The whole world she brings thus to your home<br>
-Where, through tube and thread and the so called "speaker", she deposits the words in the the little shells of your ears<br>
-Back with you
+The whole world she brings thus to your home
+Where, through tube and thread 
+and the so called "speaker", 
+she deposits the words 
+in the little shells of your ears
+Back to you
 Here and now<br>
 I am happy you are listening.<br>
 Through your head, through your throat
@@ -253,8 +307,8 @@ Into the deepest part of your toes
 These series of pulses
 These waves through the air
 Find their way back into the earth 
-on which I stand<br>
-Wherefrom this sounds..<br>
+on which I stand
+Wherefrom this sounds...<br>
 When I can feel your touch once more
 And see you not in pixels but 
 by light of moon or sun
