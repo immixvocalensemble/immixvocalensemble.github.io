@@ -1,5 +1,5 @@
 ---
-title: "NKK NXT 22/23—Immix: Bloom"
+title: "NKK NXT 20/21—Immix: Bloom"
 layout: eindexamen
 ---
 
@@ -11,7 +11,7 @@ layout: eindexamen
 
 
 </center>
-Welcome to the eye-friendly programme page for the performance of Bloom, by NKK NXT 22/23 (Immix). Please do not forget to turn your phone to silent and/or airplane mode when the concert starts.
+Welcome to the eye-friendly programme page for the performance of Bloom, by NKK NXT 20/21 (Immix). Please do not forget to turn your phone to silent and/or airplane mode when the concert starts.
 
 <center>
 
