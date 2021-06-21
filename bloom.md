@@ -470,7 +470,9 @@ In 2017, she performed as one of the vocal soloists in Cantabile Limited's produ
 Ariel was also an active chamber musician in Hong Kong as a flutist and vocalist. She founded the chamber music ensemble “The Music Circles” in 2013 with two musician friends in Hong Kong. Among all the concerts organised by “The Music Circles”, the most successful ones are the tango concert series led by the Argentinean tango flutist Eduardo Tami. <br><br>
 During her master’s study in the Netherlands, she had studied and performed various opera, art songs, oratorios and chamber music repertoires under the guidance of different coaches.<br><br>
 In 2018, Ariel's chamber music trio performed in the last round of Storioni Willem Twee Chamber music Competition in 's-Hertogenbosch, the Netherlands as one of the finalists. In 2019, Ariel performed as the soloist of the talent opera “To Plant Again” in the Opera Forward Festival organized by the Dutch National Opera in Amsterdam. She is invited by the Opera Viva Festival in Woerden, the Netherlands, to give vocal rectials in the 2020 and 2021 editions.<br><br>
-Ariel has a broad interest in music, besides classical singing, she also does pop and jazz music. Ariel is also very interested in theater. 
+Ariel has a broad interest in music, besides classical singing, she also does pop and jazz music. Ariel is also very interested in theater.<br><br>
+Ariel is currently a member of the talent development programme “NKK NXT” (4th edition) of the Netherlands Chamber Choir. The group consists of nine young artists in the disciplines of music and theater. They will continue as vocal ensemble IMMIX after finishing the traineeship programme.<br><br>
+In Dec 2020, Ariel, Gordon H. Williams (composer, researcher), Sol Enae Lee (visual artist) and Augustin Faundez Rojas (percussion) founded the artist collective “Fire is Scary”. The collective presents new original music with the elements of visual arts and theater. “Fire is Scary” is currently one of the research labs of “School of Commons”, a community-based initiative dedicated to the study and development of decentered knowledge, located at the Zürich University of the Arts.
 </p>
 </details>
 
@@ -499,10 +501,10 @@ In her collaboration with The Skypainters (a modern jazz collective with classic
 #### Director
 <details><summary class="f5">Stijn Dijkema</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
-    <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
+    <img src="images/NKKNXT/Stijn.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Stijn Dijkema (1992) studeerde in 2020 af aan de regieopleiding in Amsterdam met een eigen bewerking van *Oedipus Rex*. Sinds zijn afstuderen regisseerde hij onder andere bij de Nationale Opera en Ballet (In Nabijheid), de Stadsschouwburg en Philharmonie Haarlem (Kenau) en schreef en realiseerde hij de voorstelling *Een hart onder de riem* op het nieuwe platform 'Acteur aan de Deur’.
 </p>
 </details>
 
