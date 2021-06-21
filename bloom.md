@@ -588,4 +588,18 @@ Tido Visser
 
 
 #### Made possible by
-Sponsors here?
+
+<main class="cf pa2">
+    <div class="fl w-100 w-50-ns ph2">
+    <a href="https://www.nederlandskamerkoor.nl/" class="pv2 grow db no-underline black"><img class="db w-100" src="images/NKKNXT/Fondsen/NederlandsKamerkoor_Logo_White_CMYK.svg"></a>
+    </div>
+    <div class="fl w-50 w-25-ns ph2">
+    <a href="https://www.fonds1999.org/" class="pv2 grow db no-underline black"><img class="db w-100" src="images/NKKNXT/Fondsen/FONDS-1999-LOGO.jpg"></a>
+    <a href="https://www.janivostichting.nl/" class="pv2 grow db no-underline black"><img class="db w-100" src="images/NKKNXT/Fondsen/jan_ivo.png"></a>
+    <a href="https://www.elisemathilde.nl/" class="pv2 grow db no-underline black"><img class="db w-100" src="images/NKKNXT/Fondsen/elisemathidel.jpg"> </a>
+    </div>
+    <div class="fl w-50 w-25-ns ph2">
+    <a href="https://vanbijleveltstichting.nl/" class="pv2 grow db no-underline black"><img class="db w-100 bg-white" src="images/NKKNXT/Fondsen/bijlevelt.png"></a>
+    <a href="https://www.cultuurfonds.nl/" class="pv2 grow db no-underline black"><img class="db w-100 bg-white" src="images/NKKNXT/Fondsen/bernhard_cultuurfonds.png"></a>
+    </div>
+</main>
