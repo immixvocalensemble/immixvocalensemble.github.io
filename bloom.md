@@ -402,7 +402,7 @@ What are the lyrics?
 
 
 <details><summary class="f5">Sebastiaan Ammerlaan (NL)</summary>
-<figure class="fr-l w-30-l ml-auto-l  fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l grow fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Sebastiaan.jpg" alt="Sebastiaan" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -413,7 +413,7 @@ In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina
 </details>
 
 <details><summary class="f5">Ruben Grevelink (NL)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Ruben.jpg" alt="Ruben" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -423,7 +423,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Julie Hasfjord (NO)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Julie.jpg" alt="Julie" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -432,7 +432,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Jobbe Hoebink (NL)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Jobbe.jpg" alt="Jobbe" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -441,7 +441,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Phoebe Kirrage (UK)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Phoebe.jpg" alt="Phoebe" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -450,7 +450,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Emma Nelson (UK)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Emma.jpg" alt="Emma" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -459,7 +459,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Ariel Sin Yu Lee (HK)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Ariel.jpg" alt="Ariel" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -477,7 +477,7 @@ In Dec 2020, Ariel, Gordon H. Williams (composer, researcher), Sol Enae Lee (vis
 </details>
 
 <details><summary class="f5">Jesse van der Wel (NL)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Jesse.jpg" alt="Jesse" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -486,7 +486,7 @@ Bio here
 </details>
 
 <details><summary class="f5">Merel Wentink (NL)</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Merel.jpg" alt="Merel" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -500,7 +500,7 @@ In her collaboration with The Skypainters (a modern jazz collective with classic
 
 #### Director
 <details><summary class="f5">Stijn Dijkema</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Stijn.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -510,7 +510,7 @@ Stijn Dijkema (1992) studeerde in 2020 af aan de regieopleiding in Amsterdam met
 
 #### Camera
 <details><summary class="f5">Charlie Feld</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -520,7 +520,7 @@ Bio here
 
 #### Sound
 <details><summary class="f5">That guy's name here</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
@@ -530,7 +530,7 @@ Bio here
 
 #### Composer
 <details><summary class="f5">Ragnheiður Erla Björnsdóttir</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/ErlaPerla.jpg" alt="Erla" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
