@@ -11,7 +11,7 @@ layout: eindexamen
 
 
 </center>
-Welcome to the eye-friendly programme page for the performance of Bloom, by NKK NXT 20/21 (Immix). Please do not forget to turn your phone to silent and/or airplane mode when the concert starts.
+Welcome to the eye-friendly programme page for the performance of BLOOM—A Sequence of Gatherings, by NKK NXT 20/21 (Immix). Please do not forget to turn your phone to silent and/or airplane mode when the concert starts.
 
 <center>
 
@@ -161,7 +161,7 @@ Du siehst mich nimmerdar genung,
 so weit du blickst im Stübchen,
     <i>as far as you look in the sitting room,</i>
 und folgst du mir per Rösselsprung –
-    <i>and if you follow me by a knight's move (chess) –</i>
+    <i>and if you follow me by a knight's move [chess] –</i>
 wirst du verrückt, mein Liebchen. 
     <i>you'll go mad, my love.</i>
 </p>
