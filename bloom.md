@@ -546,20 +546,13 @@ Björnsdóttir was also nominated, with Hróðmar I. Sigurbjörnsson, for the co
 </details>
 
 #### Camera
-<details><summary class="f5">Charlie Feld</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
-    <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
-</figure>
-<p class="f6 lh-copy cf">
-Bio here
-</p>
-</details>
+<summary class="f5">Charlie Feld</summary>
 
 #### Sound
-Sander van der Werff
+<summary class="f5">Sander van der Werff</summary>
 
 #### Light
-Mart Hielema
+<summary class="f5">Mart Hielema</summary>
 
 #### Thanks
 <div class="mw9 center">
