@@ -429,8 +429,9 @@ In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina
     <img src="images/NKKNXT/Ruben.jpg" alt="Ruben" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-
-Bio here
+Ruben Grevelink is a singer, choir conductor and music teacher based in Utrecht. He started his musical education in Utrecht at the Bachelor of Music in Education. It was during this bachelor that he discovered his love for vocal music. After he finished the bachelor he continued to study the master Innovative Choir Leading in Aalborg, Denmark. He graduated from the masters in 2020. During his time at this master he developed himself further as a conductor, arranger and vocal improviser. <br><br>
+As a conductor he is currently working with VOISZ Vocal Projects and gospel choir Hatikwa. He also gives workshops in vocal improvisation and rhythm and groove to choirs throughout The Netherlands. <br><br>
+As a bass singer Ruben is currently involved with The Baszment and RAMA Voices.
 </p>
 </details>
 
