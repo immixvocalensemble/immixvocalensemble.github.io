@@ -533,26 +533,6 @@ Stijn Dijkema (1992) studeerde in 2020 af aan de regieopleiding in Amsterdam met
 </p>
 </details>
 
-#### Camera
-<details><summary class="f5">Charlie Feld</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
-    <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
-</figure>
-<p class="f6 lh-copy cf">
-Bio here
-</p>
-</details>
-
-#### Sound
-<details><summary class="f5">That guy's name here</summary>
-<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
-    <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
-</figure>
-<p class="f6 lh-copy cf">
-Bio here
-</p>
-</details>
-
 #### Composer
 <details><summary class="f5">Ragnheiður Erla Björnsdóttir</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
@@ -570,6 +550,22 @@ Skarphéðinsdóttir and Lilja María Ásmundsdóttir. Their album, Hulduhljóð
 Björnsdóttir was also nominated, with Hróðmar I. Sigurbjörnsson, for the composition of the year for their children's opera, The Seal Woman, at the Icelandic Music Awards.
 </p>
 </details>
+
+#### Camera
+<details><summary class="f5">Charlie Feld</summary>
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
+    <img src="images/NKKNXT/Merel.jpg" alt="Stijn" class="br3 br--top">
+</figure>
+<p class="f6 lh-copy cf">
+Bio here
+</p>
+</details>
+
+#### Sound
+Sander van der Werff
+
+#### Light
+Mart Hielema
 
 #### Thanks
 <div class="mw9 center">
