@@ -383,9 +383,20 @@ fast jag dig aldrig får.
 </p>
 </details>
 
-<details><summary class="f5">English song</summary>
+<details><summary class="f5">The Old Churchyard</summary>
 <p class="f6 lh-copy eindexamen overflow-auto">
-What are the lyrics?
+Come, come with me to the old churchyard,
+I so well know those paths 'neath the soft green sward
+Friends in there that we want to regard;
+We can trace out their names in the old churchyard<br>
+Mourn not for them, their trials are o'er,
+And why weep for those who will weep no more?
+For sweet is their sleep, though cold and hard
+Their pillows they be in the old churchyard<br>
+I know that it's vain when our friends depart
+To breathe kind words to a broken heart;
+And I know that the joy of life is marred
+When we follow friends to the old churchyard
 </p>
 </details>
 
@@ -408,7 +419,8 @@ What are the lyrics?
 <p class="f6 lh-copy cf">
 Ever since Sebastiaan begged his parents for violin lessons when he was four, music took a strong hold of him. He soon changed the violin for the viola, then started singing, studying classical singing at the HKU Utrecht Conservatoire with Jón Þorsteinsson and Selma Harkink. Today he studies at the Master for Ensemble Singing at the Royal Conservatoire with Harry van Berne and Gerda van Zelm.<br><br>
 Sebastiaan played in the Youth Orchestra of the Netherlands and sang in the National Youth choir. He was a frequent participant in Meesters & Gezellen, another education project of both the Netherlands Chamber Choir and Cappella Amsterdam. He also sang in the TENSO Europe Chamber Choir and is part of the Bach Choir of the Netherlands. <br><br>
-In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina. He also sings in Ensemble Cantorex with soprano Iris Bouman, alto Hester Westra and tenor Dierick Aartsen, a vocal ensemble specialising in Renaissance and Baroque music.
+In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina. He also sings in Ensemble Cantorex with soprano Iris Bouman, alto Hester Westra and tenor Dierick Aartsen, a vocal ensemble specialising in Renaissance and Baroque music.<br><br>
+<a href=https://bammerlaan.nl>https://bammerlaan.nl</a>
 </p>
 </details>
 
@@ -427,7 +439,10 @@ Bio here
     <img src="images/NKKNXT/Julie.jpg" alt="Julie" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Julie Hasfjord is a Norwegian singer and performer who has been based in the Hague the last 5 years. As a classically trained singer, she appreciates having a versatile approach to genres and repertoire, and she especially enjoys collaborating with other artists in creating new music and art. 
+In the Netherlands she is currently active with her ensemble, Linen of Words, a recently formed new music collective with where she functions as a core member together with Leah Plave (cello) and Annick Odom (double bass/clarinet). <br><br>
+Julie is also active with her early music duo, Parnassos, based in Trondheim, Norway, where she regularly sings with Trondheim Vocal Ensemble. She completed her bachelor studies in classical singing at the University of Stavanger, Norway, where she studied with mezzo-soprano, Bettina Smith. In 2020 she completed her master's degree in classical singing at the Royal Conservatory in the Hague, where she studied with Sasja Hunnego, Lenie van den Heuvel, Catrin Wyn-Davies and Noa Frenkel.<br><br>
+    <a href=http://www.juliehasfjord.com/>http://www.juliehasfjord.com/</a>
 </p>
 </details>
 
@@ -445,7 +460,12 @@ Bio here
     <img src="images/NKKNXT/Phoebe.jpg" alt="Phoebe" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Phoebe Kirrage is a British soprano, hailing from the Midlands.<br><br>
+Having received an extensive musical education in the UK, including receiving a Bachelor of    music with Honours from Royal Holloway University of London, where she performed as a member of the Choir of Royal Holloway under the direction of Rupert Gough, and throughout London with composers and conductors such as James Macmillan, Eamonn Dougan and Howard Goodall.<br><br>
+She moved to the Netherlands to study for her Masters at the Royal Conservatoire of the Hague, studying with Noa Frenkel and Carolien Drewes, where she graduated with a grading of nine. <br><br>
+Phoebe has had the pleasure of performing in a number of both the UK and the Netherlands     prestigious performance venues such as The Royal Albert Hall and The Barbican and in the Grote Zaal in TivoliVredenburg both in chorus and soloist positions. <br><br>
+Within the Conservatoire, Phoebe had the opportunity to perform and prepare roles in The Fairy Queen,Turn of The Screw and La Boheme. <br><br>
+Future performances planned for Phoebe include a number of performances with De Dirigente as the soloist for Mendelssohn’s Psalm 42, and singing the role of Antonia in Holland Opera’s 2022 summer seasons premiere of The Divorce of Figaro. 
 </p>
 </details>
 
@@ -454,7 +474,12 @@ Bio here
     <img src="images/NKKNXT/Emma.jpg" alt="Emma" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+Emma Nelson is a Mezzo-Soprano, aged 23 and an alumna of the Royal Welsh College of Music and Drama where she studied classical voice. During her final year she studied abroad where she was based in the Netherlands pursuing her singing at Codarts University of the Arts, Rotterdam. She currently resides in the Netherlands and is working as a member of the NKK NXT ensemble and also as a freelancer with De Nationale Opera en Ballet koor, Amsterdam.<br><br>
+At a young age being a member of choirs such as Schola Exe, the National Children’s Choir of Great Britain and the National Youth Choir of Great Britain, she has continued her choral work as a lay clerk and also as a scholar with the BBC National Chorus of Wales. <br><br>
+Emma’s experience with opera has included Handel’s Acis and Galatea with Donald Maxwell in Hestercombe Gardens, Somerset. Further mentions include playing a lead role in the Carlisle Floyd opera Susannah as ‘Little Bat’, her first practise of a trouser role character.  Another notable opera experience was her involvement in the Welsh National Youth Opera’s world premier of Kommilitonen! by Peter Maxwell Davies which received a 5* review in both The Guardian and The Times.<br><br>
+Although Emma’s training is in Classic Music, she also performs genres such as jazz, folk, traditional middle eastern and new music through collaborations with up and coming composers. Emma has also been able to provide a voice to film music, including a NETFLIX production, Apostle (2018), and a short film titled The Iris Echo.
+
+<a href=http://www.emmanelson.com/>http://www.emmanelson.com/</a>
 </p>
 </details>
 
@@ -481,7 +506,7 @@ In Dec 2020, Ariel, Gordon H. Williams (composer, researcher), Sol Enae Lee (vis
     <img src="images/NKKNXT/Jesse.jpg" alt="Jesse" class="br3 br--top">
 </figure>
 <p class="f6 lh-copy cf">
-Bio here
+I’m Jesse van der Wel, an Arnhem based music theatre maker and singer. I graduated from ArtEZ Music Theatre in 2019 and I have been freelancing since then. I initially studied Theatre in Education, but during my first year my dreams and goals began to change and I discovered the study Music Theatre with its experimental approach. I entered there with a vision of combining Pina Bausch and Björk and later on I encountered other inspirations like James Blake, Wende and Roomful of Teeth. As a theatremaker I’m very visual and I often start with the musicality of lighting and moving bodies. As a singer I move mostly within pop, but I do have experience with classical singing and I’m also really into improvisation. I compose as well, from theatrical popsongs to choir compositions.
 </p>
 </details>
 
