@@ -447,7 +447,7 @@ Julie is also active with her early music duo, Parnassos, based in Trondheim, No
 </p>
 </details>
 
-Jobbe Hoebink (NL)
+<summary class="f5">Jobbe Hoebink (NL)</summary>
 
 <details><summary class="f5">Phoebe Kirrage (UK)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
