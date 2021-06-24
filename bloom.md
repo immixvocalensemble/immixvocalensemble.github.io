@@ -415,6 +415,7 @@ When we follow friends to the old churchyard
 <details><summary class="f5">Sebastiaan Ammerlaan (NL)</summary>
 <figure class="fr-l w-30-l ml-auto-l grow fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray">
     <img src="images/NKKNXT/Sebastiaan.jpg" alt="Sebastiaan" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Ever since Sebastiaan begged his parents for violin lessons when he was four, music took a strong hold of him. He soon changed the violin for the viola, then started singing, studying classical singing at the HKU Utrecht Conservatoire with Jón Þorsteinsson and Selma Harkink. Today he studies at the Master for Ensemble Singing at the Royal Conservatoire with Harry van Berne and Gerda van Zelm.<br><br>
@@ -427,6 +428,7 @@ In 2017, he founded the Ensemble for New Music with soprano Veronika Akhmetchina
 <details><summary class="f5">Ruben Grevelink (NL)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Ruben.jpg" alt="Ruben" class="br3 br--top">
+    <figcaption class="tc">Photo: Anna van Kooij</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Ruben Grevelink is a singer, choir conductor and music teacher based in Utrecht. He started his musical education in Utrecht at the Bachelor of Music in Education. It was during this bachelor that he discovered his love for vocal music. After he finished the bachelor he continued to study the master Innovative Choir Leading in Aalborg, Denmark. He graduated from the masters in 2020. During his time at this master he developed himself further as a conductor, arranger and vocal improviser. <br><br>
@@ -438,6 +440,7 @@ As a bass singer Ruben is currently involved with The Baszment and RAMA Voices.
 <details><summary class="f5">Julie Hasfjord (NO)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Julie.jpg" alt="Julie" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Julie Hasfjord is a Norwegian singer and performer who has been based in the Hague the last 5 years. As a classically trained singer, she appreciates having a versatile approach to genres and repertoire, and she especially enjoys collaborating with other artists in creating new music and art. 
@@ -447,11 +450,22 @@ Julie is also active with her early music duo, Parnassos, based in Trondheim, No
 </p>
 </details>
 
-<summary class="f5">Jobbe Hoebink (NL)</summary>
+<details><summary class="f5">Jobbe Hoebink (NL)</summary>
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
+    <img src="images/NKKNXT/Jobbe.jpg" alt="Jobbe" class="br3 br--top">
+    <figcaption class="tc">Photo: Adelaide Rosina Ouwerkerk</figcaption>
+</figure>
+<p class="f6 lh-copy cf">
+Born and raised in Brabant, the Netherlands, this artist had many interests before at last the arrow struck home when he started singing in University. Though it was not very much appreciated by the librarians of Maastricht, the local musical school was very enthused. He moved to Tilburg to follow a music theatre education, studied at the Meisner Toneelacademie in Den Bosch and finally finished a Master of Music in Music Theater in summer 2020, at the Fontys Hogeschool voor de Kunsten Conservatory.  During the years he has broadened his scope to more classical and early music theatre repertoire and early musical as well as kleinkunst which seemed a natural fit. <br><br>
+In their artistry Jobbe always strives for urgency. Their broad interest in politics, society and our connection to nature, together with a fascination for words and story, has made them starting to jot down new original songs and creative texts, some of which you have heard today. <br><br>
+Next to being a singer, Jobbe works as a freelance actor in the Efteling and has his own singing students aiming to share the joy and trust in finally finding one’s voice, to be shared on stage, in a park or, indeed, from between the bookshelves of a library.
+</p>
+</details>
 
 <details><summary class="f5">Phoebe Kirrage (UK)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Phoebe.jpg" alt="Phoebe" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Phoebe Kirrage is a British soprano, hailing from the Midlands.<br><br>
@@ -466,6 +480,7 @@ Future performances planned for Phoebe include a number of performances with De 
 <details><summary class="f5">Emma Nelson (UK)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Emma.jpg" alt="Emma" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Emma Nelson is a Mezzo-Soprano, aged 23 and an alumna of the Royal Welsh College of Music and Drama where she studied classical voice. During her final year she studied abroad where she was based in the Netherlands pursuing her singing at Codarts University of the Arts, Rotterdam. She currently resides in the Netherlands and is working as a member of the NKK NXT ensemble and also as a freelancer with De Nationale Opera en Ballet koor, Amsterdam.<br><br>
@@ -480,6 +495,7 @@ Although Emma’s training is in Classic Music, she also performs genres such as
 <details><summary class="f5">Ariel Sin Yu Lee (HK)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Ariel.jpg" alt="Ariel" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Ariel Sin Yu Lee is a mezzo-soprano and flutist from Hong Kong. <br><br>
@@ -498,6 +514,7 @@ In Dec 2020, Ariel, Gordon H. Williams (composer, researcher), Sol Enae Lee (vis
 <details><summary class="f5">Jesse van der Wel (NL)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Jesse.jpg" alt="Jesse" class="br3 br--top">
+    <figcaption class="tc">Photo: ChunYao Lin</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 I’m Jesse van der Wel, an Arnhem based music theatre maker and singer. I graduated from ArtEZ Music Theatre in 2019 and I have been freelancing since then. I initially studied Theatre in Education, but during my first year my dreams and goals began to change and I discovered the study Music Theatre with its experimental approach. I entered there with a vision of combining Pina Bausch and Björk and later on I encountered other inspirations like James Blake, Wende and Roomful of Teeth. As a theatremaker I’m very visual and I often start with the musicality of lighting and moving bodies. As a singer I move mostly within pop, but I do have experience with classical singing and I’m also really into improvisation. I compose as well, from theatrical popsongs to choir compositions.
@@ -507,6 +524,7 @@ I’m Jesse van der Wel, an Arnhem based music theatre maker and singer. I gradu
 <details><summary class="f5">Merel Wentink (NL)</summary>
 <figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
     <img src="images/NKKNXT/Merel.jpg" alt="Merel" class="br3 br--top">
+    <figcaption class="tc">Photo: Anna van Kooij</figcaption>
 </figure>
 <p class="f6 lh-copy cf">
 Cooperation, always looking for artistic urgency and a broad musical and artistic orientation. Those are the most important characteristics of Merel Wentink.<br><br>
@@ -546,7 +564,17 @@ Björnsdóttir was also nominated, with Hróðmar I. Sigurbjörnsson, for the co
 </details>
 
 #### Camera
-<summary class="f5">Charlie Feld</summary>
+
+<details><summary class="f5">Charlie Feld</summary>
+<figure class="fr-l w-30-l ml-auto-l fr-m w-30-m ml-auto-m br3 ma1 ba b--light-gray grow">
+    <img src="images/NKKNXT/Charlie.jpg" alt="Charlie" class="br3 br--top">
+</figure>
+<p class="f6 lh-copy cf">
+Charlie Feld was born in 1996 and has been dedicated to the visual element his whole life. In 2014 he started studying Audiovisual Media at the HKU (University of the Arts Utrecht). He specialized in camera operator and cinematographer.<br><br>
+Since he finished his study he works as a freelance filmmaker and director. He makes everything from commercials, documentaries to fiction. The last 3 years he has also been working in the livestream business.
+</p>
+</details>
+
 
 #### Sound
 <summary class="f5">Sander van der Werff</summary>
