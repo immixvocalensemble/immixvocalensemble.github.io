@@ -12,7 +12,7 @@ layout: eindexamen
 
 </center>
 Welcome to the eye-friendly programme page for the performance of BLOOM—A Sequence of Gatherings, by NKK NXT 20/21 (Immix). Please do not forget to turn your phone to silent and/or airplane mode when the concert starts.<br><br>
-NKK NXT 20/21 (Immix), the fourth edition of the talent development program of the Netherlands Chamber Choir, explores the meaning of togetherness in their new performance BLOOM—a Sequence of Gatherings. Conceptualized and developed in a world in lock-down, full of online meetings, where physical meetings are at a premium, the performance is a musical inquiry into this new art of gathering.
+Conceptualized and developed in a world in lock-down, full of online meetings, where physical meetings are at a premium, this performance is a musical inquiry into this new art of gathering.
 
 <center>
 
