@@ -35,42 +35,48 @@
 <!-- Uses Tachyons CSS and a small override for a responsive CSS dropdown menu. -->
 
 <nav>
-  <ul class="w-100 list ph3 pa3-ns bg-white f4 cf mb0 mb3-ns">
+  <ul class="w-100 list ph3 pa3-ns bg-white f6 cf mb0 mb0-ns">
 
     <!-- <li class="dib ma2 w-100 w-auto-ns bg-red">
 			<a href="/" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">Home</a>
 	    </li> -->
 
-    <li class="fl fn-ns dib-ns ma0-ns w-third w-auto-ns">
+    <li class="fl fn-ns dib-ns ma0-ns w-25 w-auto-ns">
       <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
       <a href="/{{page.lang}}/bio"
-        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['bioNav'][page.lang] }}</a>
+        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['bioNav'][page.lang] }}</a>
     </li>
 
-    <li class="fl fn-ns dib-ns w-third w-auto-ns">
+    <li class="fl fn-ns dib-ns ma0-ns w-25 w-auto-ns">
+      <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
+      <a href="/{{page.lang}}/bio"
+        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">Media</a>
+    </li>
+
+    <li class="fl fn-ns dib-ns w-25 w-auto-ns">
       <a href="/{{page.lang}}/concertagenda"
-        class="link bammerlaan-blauw hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['agendaNav'][page.lang] }}</a>
+        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['agendaNav'][page.lang] }}</a>
     </li>
 
-    <li class="fl fn-ns dib-ns w-third w-auto-ns">
+    <li class="fl fn-ns dib-ns w-25 w-auto-ns">
       <a href="/{{page.lang}}/contact"
-        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['contactNav'][page.lang] }}</a>
+        class="link dark-gray hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['contactNav'][page.lang] }}</a>
     </li>
 
     <!-- Onderstaande twee alleen voor mobiele site.-->
 
-    <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
+    <!-- <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
       <a href="/{{page.lang}}/ensembles/cantorex"
         class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble Can&shy;to&shy;rex</a>
-    </li>
+    </li> -->
 
-    <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
+    <!-- <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
       <a href="/{{page.lang}}/ensembles/enm"
         class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['enmNav'][page.lang] }}</a>
-    </li>
+    </li> -->
 
     <!-- Dropdown menu for -m site.-->
-    <li class="dn dib-m fn-ns pa0-ns ph2-ns relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
+    <!-- <li class="dn dib-m fn-ns pa0-ns ph2-ns relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
       {{ site.data.translations['ensemblesNav'][page.lang] }} ▾
       <ul
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
@@ -86,10 +92,10 @@
         </li>
 
       </ul>
-    </li>
+    </li> -->
 
     <!-- Dropdown menu for -l site.-->
-    <li class="dn dib-l fn-ns pa0-ns ph2-ns hide-child relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
+    <!-- <li class="dn dib-l fn-ns pa0-ns ph2-ns hide-child relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
       {{ site.data.translations['ensemblesNav'][page.lang] }} ▾
       <ul
         class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
@@ -105,10 +111,10 @@
         </li>
 
       </ul>
-    </li>
+    </li> -->
 
     <!-- Dropdown menu for mobile and -l site.-->
-    <li
+    <!-- <li
       class="fn-ns dib dn-m pa0-ns ph2-ns hide-child relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
       <a href="/{{page.lang}}/zangles"
         class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">{{ site.data.translations['zanglesNav'][page.lang] }}
@@ -122,10 +128,10 @@
         </li>
 
       </ul>
-    </li>
+    </li> -->
 
     <!-- Dropdown menu for mobile and -l site.-->
-    <li class="fn-ns dn dib-m pa0-ns ph2-ns relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
+    <!-- <li class="fn-ns dn dib-m pa0-ns ph2-ns relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
       <a href="/{{page.lang}}/zangles"
         class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">{{ site.data.translations['zanglesNav'][page.lang] }}
         ▾</a>
@@ -138,7 +144,7 @@
         </li>
 
       </ul>
-    </li>
+    </li> -->
 
     <!--    <li class="dib w-100 w-auto-ns ">
 			<a href="/media/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Me&shy;di&shy;a</a>

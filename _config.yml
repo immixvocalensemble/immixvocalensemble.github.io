@@ -1,12 +1,12 @@
 --- # ----------- CONFIGURABLE START -----------
-title: "Sebastiaan (Bas) Ammerlaan — bariton"
-description: "Website van klassiek zanger Sebastiaan Ammerlaan."
-url: https://bammerlaan.nl # Site url, without a slash at the end.
-signoff: "Sebastiaan Ammerlaan" # Your name
+title: "Immix Vocal Ensemble"
+description: "Website for Immix Vocal Ensemble."
+url: https://immixvocalensemble.nl # Site url, without a slash at the end.
+signoff: "Immix" # Your name
 facebook_appid: # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-77407217-1
+google_analytics:
 share: false # Turn on twitter and facebook share buttons
-email: "bas@bammerlaan.nl"
+email: "info@immixvocalensemble.nl"
 timezone: "Europe/Amsterdam"
 
 plugins:

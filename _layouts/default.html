@@ -16,12 +16,14 @@
   {% include head.html %}
 </head>
 
+
+  
 <!-- Logo bovenin -->
 
-<body class="lh-copy dark-gray pa0 f6 bg-tiled-bammerlaan" style="font-family: 'Roboto', sans-serif;">
+<body class="lh-copy dark-gray pa0 f6" style="font-family: 'Montserrat', sans-serif; background: url(/images/bgimages/1.jpg) no-repeat center center fixed; background-size: cover;">
   <header class="tc">
     <!-- Language selection flags. -->
-    <div class="mw7 center">
+    <div class="mw8 center">
       <div class="cf">
         <div class="fl w-80 w-90-l">
           <div class="pv3"></div>
@@ -53,7 +55,7 @@
 
 
     <!-- Header logo -->
-    <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
+      <!-- <div class="mw7 bg-white mb2 center br2-ns bt bb ba-ns b--light-gray">
 
       {% if page.lang == 'nl' %}
       <a href="{{ site.url }}">
@@ -63,17 +65,29 @@
           {% endif %}
           <img src="{{ site.url }}/images/Bas_zang_logo_v6.3_white_bg_optimised.svg" alt="Home">
         </a>
-    </div>
+    </div> -->
     <!-- <p>{{ site.title }}</p> -->
     <!-- Tekst onder logo weghalen -->
   </header>
 
   <!-- Begin styling van pagina-body -->
-  <div class="mw7 tc bg-white mt0 mb0 center br2-ns bt bb ba-ns b--light-gray">
+  <div class="tc mw8 mt0 mb0 center bn bg-immix-transparant-bg">
+    
     <!-- Navigatiebalk -->
+      {% include navbar.html %}
 
-
-    {% include navbar.html %}
+    <!-- Logo of dergelijks -->  
+    <div class="mb0 pb4 center bn" style="background: url(/images/bgimages/1.jpg) no-repeat center center fixed; background-size: cover;">
+      
+      {% if page.lang == 'nl' %}
+      <a href="{{ site.url }}" class="white f-5 link">
+        {% endif %}
+        {% if page.lang != 'nl' %}
+        <a href="{{ site.url }}/{{ page.lang }}">
+          {% endif %}
+          Immix Vocal Ensemble
+        </a>
+    </div>
 
     <!-- 
         {% for link in site.links %}

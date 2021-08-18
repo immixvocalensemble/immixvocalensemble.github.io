@@ -4,6 +4,7 @@
 :root {
   --bammerlaan-blauw: #00b3ffff;
   --bammerlaan-grijs: #515151;
+  --immix-transparant-bg: rgba(244, 244, 244, .9)
 }
 
 .bg-tiled-bammerlaan {
@@ -18,14 +19,17 @@
 .top-50 {
   top: 50%;
 }
-.link:hover {
+/* .link:hover {
   background: url(/images/line2.png) repeat-x left bottom;
-}
+} */
 .bg-bammerlaan-blauw {
   background-color: var(--bammerlaan-blauw);
 }
 .bg-bammerlaan-grijs {
   background-color: var(--bammerlaan-grijs);
+}
+.bg-immix-transparant-bg {
+  background-color: var(--immix-transparant-bg);
 }
 .hover-bg-bammerlaan-blauw:hover {
   background-color: var(--bammerlaan-blauw);
