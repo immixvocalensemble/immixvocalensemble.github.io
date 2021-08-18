@@ -97,18 +97,18 @@ th {
 } /* Tabel headers */
 
 /* Markdown styles */
-.markdown-body a {
+/* .markdown-body a {
   text-decoration: none;
   color: var(--bammerlaan-blauw);
-} /* Link-kleur */
+} Link-kleur */
 
-.markdown-body a:hover,
+/* .markdown-body a:hover,
 a:focus,
 a:active {
   text-decoration: none;
   color: var(--bammerlaan-grijs);
   background: url(/images/line2.png) repeat-x left bottom;
-} /* Link-mouse-over */
+} Link-mouse-over */
 
 .markdown-body .highlighter-rouge {
   padding: 0.25rem 0.5rem;
