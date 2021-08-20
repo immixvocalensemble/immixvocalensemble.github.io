@@ -1,8 +1,108 @@
 ---
-title: Biografie
+title: Over Immix
 lang: nl
 lang-ref: bio
 ---
+
+
+<img src="/images/Aeson/nnknxt_g003_2.jpg" class="w-100 f5" alt="Photo of outer space">
+
+<article class="cf pa3 mw9 center">
+  <header class="fl w-100 w-75-l pa3-m pa4-l">
+    <h2 class="lh-title f3 b mt0">
+      Introduction text for Immix goes here. Describing in one or two sentences. Just why we're so great
+    </h2>
+  </header>
+  <section class="fl w-100">
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+      </p>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+      </p>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+      </p>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+      </p>
+    </div>
+  </section>
+  <section class="fl w-100">
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Sebastiaan.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Ruben.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Julie.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Jobbe.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Phoebe.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Emma.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Ariel.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Jesse.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(/images/NKKNXT/Merel.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(http://mrmrs.github.io/images/0002.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(http://mrmrs.github.io/images/0020.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <div class="aspect-ratio aspect-ratio--3x4">
+        <span style="background-image:url(http://mrmrs.github.io/images/0013.jpg);" class="cover bg-center aspect-ratio--object"></span>
+      </div>
+    </div>
+  </section>
+   
+
+</article>
+
+
+
 
 <img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
 

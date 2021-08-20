@@ -4,32 +4,82 @@
 :root {
   --bammerlaan-blauw: #00b3ffff;
   --bammerlaan-grijs: #515151;
-  --immix-transparant-bg: rgba(244, 244, 244, .9)
+  --immix-marigold: rgb(254,174,81);
+  --immix-cerulean: rgb(152,178,209);
+  --immix-rust: rgb(179,95,68);
+  --immix-illuminating: rgb(243,223,77);
+  --immix-greenash: rgb(159,219,173);
+  --immix-ultimategray: rgb(150,153,155);
+  --immix-buttercream: rgb(240,227,206);
+  --immix-desertmist: rgb(224,181,137);
+  --immix-willow: rgb(157,145,90);
+  --bg-immix-buttercream-transparent: rgba(240,227,206, .9);
 }
 
-.bg-tiled-bammerlaan {
-  background: url(/images/tile-bg.svg) repeat;
-}
 .bammerlaan-blauw {
   color: var(--bammerlaan-blauw);
 }
 .bammerlaan-grijs {
   color: var(--bammerlaan-grijs);
 }
-.top-50 {
-  top: 50%;
+.immix-marigold {
+  color: var(--immix-marigold);
 }
-/* .link:hover {
-  background: url(/images/line2.png) repeat-x left bottom;
-} */
+.immix-cerulean {
+  color: var(--immix-cerulean);
+}
+.immix-rust {
+  color: var(--immix-rustblauw);
+}
+.immix-greenash {
+  color: var(--immix-greenash);
+}
+.immix-ultimategray {
+  color: var(--immix-ultimategray);
+}
+.immix-buttercream {
+  color: var(--immix-buttercream);
+}
+.immix-desertmist {
+  color: var(--immix-desertmist);
+}
+.immix-willow {
+  color: var(--immix-willow);
+}
+
+.bg-tiled-bammerlaan {
+  background: url(/images/tile-bg.svg) repeat;
+}
 .bg-bammerlaan-blauw {
   background-color: var(--bammerlaan-blauw);
 }
-.bg-bammerlaan-grijs {
-  background-color: var(--bammerlaan-grijs);
+.bg-immix-marigold {
+  background-color: var(--immix-marigold);
 }
-.bg-immix-transparant-bg {
-  background-color: var(--immix-transparant-bg);
+.bg-immix-cerulean {
+  background-color: var(--immix-cerulean);
+}
+.bg-immix-rust {
+  background-color: var(--immix-rust);
+}
+.bg-immix-greenash {
+  background-color: var(--immix-greenash);
+}
+.bg-immix-ultimategray {
+  background-color: var(--immix-ultimategray);
+}
+.bg-immix-buttercream {
+  background-color: var(--immix-buttercream);
+}
+.bg-immix-desertmist {
+  background-color: var(--immix-desertmist);
+}
+.bg-immix-willow {
+  background-color: var(--immix-willow);
+}
+
+.bg-immix-buttercream-transparent {
+  background-color: var(--bg-immix-buttercream-transparent);
 }
 .hover-bg-bammerlaan-blauw:hover {
   background-color: var(--bammerlaan-blauw);
@@ -43,6 +93,13 @@
 .hover-bg-bammerlaan-grijs:focus {
   background-color: var(--bammerlaan-grijs);
 }
+
+.top-50 {
+  top: 50%;
+}
+/* .link:hover {
+  background: url(/images/line2.png) repeat-x left bottom;
+} */
 
 .pointers {
   pointer-events: auto;
@@ -130,8 +187,8 @@ a:active {
   border-bottom: 1px dotted #ccc;
 } /* <hr> tags. */
 .markdown-body blockquote {
-  background: #f9f9f9;
-  border-left: 0.2rem solid #ccc;
+  background: var(--immix-buttercream);
+  border-left: 0.2rem solid var(--immix-cerulean);
   padding-left: 3.8rem;
 } /* Opmaak blockquotes. Misschien oplossing voor contact-pagina? */
 
