@@ -215,8 +215,8 @@ a:active {
   border-bottom: 1px dotted #ccc;
 } /* <hr> tags. */
 .markdown-body blockquote {
-  background: var(--immix-buttercream);
-  border-left: 0.2rem solid var(--immix-cerulean);
+  /* background: var(--immix-cerulean); */
+  border-left: 0.2rem solid var(--immix-ultimategray);
   padding-left: 3.8rem;
 } /* Opmaak blockquotes. Misschien oplossing voor contact-pagina? */
 
@@ -264,93 +264,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* COLORS */
-
-.dwyl-dark-gray {
-  color: #45535B;
-}
-
-.dwyl-bg-dark-gray {
-  background-color: #45535B;
-}
-
-.dwyl-b--dark-gray {
-  border-color: #45535B;
-}
-
-.dwyl-gray {
-  color: #42575B;
-}
-
-.dwyl-bg-gray {
-  background-color: #42575B;
-}
-
-.dwyl-b--gray {
-  border-color: #42575B;
-}
-
-.dwyl-mint {
-  color: #4BC0A9;
-}
-
-.dwyl-bg-mint {
-  background-color: #4BC0A9;
-}
-
-.dwyl-b--mint {
-  border-color: #4BC0A9;
-}
-
-.dwyl-bg-gold {
-  background-color: #C6AC5C;
-}
-
-.dwyl-light-gray {
-  color: #717E84;
-}
-
-.text-shadow {
-  text-shadow: 0px 2px 0px #45535B;
-}
-
-.left-auto {
-  margin-left: auto;
-}
-
-.f-xl {
-  font-size: 4rem;
-}
-
-.mw-21 {
-  max-width: 21rem;
-}
-
-/*Navbar*/
-
-.menu {
-  min-height: 4rem;
-  max-height: 0;
-  transition: max-height 1s;
-}
-
-#burger:checked ~ .menu {
-  max-height: 25rem;
-}
-
-/*Accessibility*/
-
-.sr-only {
-  color: red;
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  border: 0;
-  overflow: hidden;
-  clip: rect(0,0,0,0);
-}
 
 /* from https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/*/
 
@@ -444,18 +357,18 @@ nav ul li {
   box-shadow: 0 0.15em 0.25em rgba(0, 0, 0, 1);
 }
 .dropdown .dropdown__menu a {
-  color: #47246b;
+  /* color: #47246b; */
   display: block;
   padding: 0.5em;
   opacity: 0;
   /* transition: 280ms all 120ms ease-out; */
 }
 .dropdown .dropdown__menu a:hover {
-  background-color: rgba(102, 51, 153, 1);
+  /* background-color: rgba(102, 51, 153, 1); */
 }
 .dropdown .dropdown__menu a:focus {
   outline: none;
-  background-color: rgba(102, 51, 153, 1);
+  /* background-color: rgba(102, 51, 153, 1); */
 }
 .dropdown:after {
   content: "";

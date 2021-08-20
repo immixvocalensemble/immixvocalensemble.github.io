@@ -2,17 +2,31 @@
 title: Over Immix
 lang: nl
 lang-ref: bio
+bgphoto: /images/Aeson/nnknxt_g003_2.jpg
+bgphotovertsize: vh-50 # vh-0 vh-25, -50, -75 or -100
+phototexthoralign: mr-auto # Align right: ml-auto. Center: center. Align left: mr-auto 
+phototextveralign: v-btm # Align top: v-top. Middle: v-mid. Align bottom: b-btm 
+bgphototext: 
+phototextonoroff: dtc # Show text: dtc Don't show: dn
 ---
+To do this page:
+<ul>
+    <li>Add names to photos and a bio page for everyone</li>
+    <li>Update photos with Julie's list</li>
+    <li>Ask everyone for an English and Dutch version of their bio</li>
+    <li>Remove placeholder pictures in the grid</li>
+    <li>Add an actual text (ask Jobbe?)</li>
+</ul> 
 
-
-<img src="/images/Aeson/nnknxt_g003_2.jpg" class="w-100 f5" alt="Photo of outer space">
 
 <article class="cf pa3 mw9 center">
+  
   <header class="fl w-100 w-75-l pa3-m pa4-l">
     <h2 class="lh-title f3 b mt0">
-      Introduction text for Immix goes here. Describing in one or two sentences. Just why we're so great
+      NKK NXT is an exciting vocal ensemble of nine young artists from across the spectrum of musical disciplines and cultures. This group of talented theater makers, singers and composers is supported and coached by the Netherlands Chamber Choir (NKK)in search of the future of ensemble singing
     </h2>
   </header>
+  <img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
   <section class="fl w-100">
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
@@ -100,32 +114,6 @@ lang-ref: bio
    
 
 </article>
-
-
-
-
-<img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
-
-<div class="pa4 lh-copy">
-  <a class="f4 fw6 db black link hover-near-black" href="#0">near-black on hover </a>
-  <a class="f4 fw6 db black link hover-dark-gray" href="#0">dark-gray on hover </a>
-  <a class="f4 fw6 db black link hover-mid-gray" href="#0">mid-gray on hover </a>
-  <a class="f4 fw6 db black link hover-gray" href="#0">gray on hover </a>
-  <a class="f4 fw6 db black link hover-dark-red" href="#0">dark-red on hover </a>
-  <a class="f4 fw6 db black link hover-red" href="#0">red on hover </a>
-  <a class="f4 fw6 db black link hover-purple" href="#0">purple on hover </a>
-  <a class="f4 fw6 db black link hover-light-purple" href="#0">light-purple on hover </a>
-  <a class="f4 fw6 db black link hover-dark-pink" href="#0">dark-pink on hover </a>
-  <a class="f4 fw6 db black link hover-hot-pink" href="#0">hot-pink on hover </a>
-  <a class="f4 fw6 db black link hover-light-pink" href="#0">light-pink on hover </a>
-  <a class="f4 fw6 db black link hover-dark-green" href="#0">dark-green on hover </a>
-  <a class="f4 fw6 db black link hover-green" href="#0">green on hover </a>
-  <a class="f4 fw6 db black link hover-navy" href="#0">navy on hover </a>
-  <a class="f4 fw6 db black link hover-dark-blue" href="#0">dark-blue on hover </a>
-  <a class="f4 fw6 db black link hover-blue" href="#0">blue on hover </a>
-</div>
-
-
 
 <div class="mw9 center ph3-ns mt5">
   <div class="cf ph2-ns">

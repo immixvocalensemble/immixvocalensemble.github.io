@@ -1,7 +1,7 @@
 {% assign is_post = page.date %}
 <!doctype>
-<!-- <html lang="en" class=""> -->
-<html lang="en" class="debug debug-grid">
+<html lang="en" class="">
+<!-- <html lang="en" class="debug debug-grid"> -->
 
 <head>
   {% if page.title %}
@@ -72,7 +72,7 @@
   </header>
 
   <!-- Begin styling van pagina-body -->
-  <div class="tc w-100 mt0 mb0 center bn ">
+  <div class="tc w-100 mt0 mb0 center bn bg-immix-buttercream">
     
     <!-- Navigatiebalk -->
       {% include navbar.html %}
@@ -104,18 +104,17 @@
     <!-- Oud -->
     <main class="sans-serif tl f6 relative overflow-hidden ">
       <a name="top"></a> <!-- Anchor om bovenaan de pagina te komen. -->
+
       {% if page.title %}
       <div class="mb4">
         {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
-        <!-- Hieronder styling van paginatitels -->
-        <!-- <h1 class="ttu f3 mt0 lh-title cb mb2"> -->
-        <!-- Oud -->
-        <h1>
-          <!-- Zonder class om gewoon h1-regel te volgen -->
+
+        <!-- Uncomment onderstaande voor titel per pagina-->
+        <!-- <h1>
           {% if is_post %}
           {% endif %}
           {{ page.title }}
-        </h1>
+        </h1> -->
 
         <!-- Add tags under title of post -->
         {% if is_post %}

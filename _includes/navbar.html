@@ -16,11 +16,11 @@
           <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false" aria-controls="sweets-dropdown">
             About
           </button>
-          <ul class="dropdown__menu bg-immix-buttercream tc" id="sweets-dropdown">
-            <li><a href="/{{page.lang}}/bio" class="">{{ site.data.translations['bioNav'][page.lang] }}</a></li>
-            <li><a href="#">Bloom</a></li>
-            <li><a href="#">Wende</a></li>
-            <li><a href="#">Blog</a></li>
+          <ul class="dropdown__menu bg-black-30 tc" id="sweets-dropdown">
+            <li><a href="/{{page.lang}}/bio" class="no-underline white hover-immix-marigold">Immix</a></li>
+            <li><a href="#" class="no-underline white hover-immix-rust">Bloom</a></li>
+            <li><a href="#" class="no-underline white hover-immix-desertmist">Wende</a></li>
+            <li><a href="#" class="no-underline white hover-immix-greenash">Blog</a></li>
           </ul>
         </li>
 
@@ -28,7 +28,7 @@
 
         <li class="link  f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/concertagenda" class="link  white hover-immix-illuminating">{{ site.data.translations['agendaNav'][page.lang] }}</a></li>
 
-        <li class="link  f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/contact" class="link  white hover-immix-greenash">{{ site.data.translations['contactNav'][page.lang] }}</a></li>
+        <li class="link  f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/contact" class="link white hover-immix-greenash">{{ site.data.translations['contactNav'][page.lang] }}</a></li>
 
         </ul>
       <!-- Einde navmenu -->
@@ -47,7 +47,7 @@
 
         {% for post in posts %}
         <a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
-          class="{{post.lang}} no-underline"
+          class="{{post.lang}} white no-underline grow dim"
           href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
         </a>
         {% endfor %}
