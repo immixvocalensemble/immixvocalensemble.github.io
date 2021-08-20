@@ -1,156 +1,135 @@
-<!-- Bron: https://w3bits.com/css-responsive-nav-menu/ en https://codepen.io/YoungElPaso/pen/geqpad -->
+<!-- Achtergrondfoto neerzetten-->
+<div class="cover bg-left bg-center-l" style="background-image: url({{ page.bgphoto }})">
 
-<!-- 
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/">
-    Home
-</a>
+
+
+
+<!-- Language flags -->
+<nav class="z-max dt w-100 border-box ph1 ph5-l ph5-m bg-black-30" aria-label="Main Navigation">
+    
+    <!-- Hier het navmenu -->
+    <div class="dtc v-mid w-90-l w-80 tr">
+      <ul class="ph0">
         
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/concertagenda">
-    Concertagenda
-</a>
-        
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/bio">
-    Bio
-</a>
-       
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/zangles">
-     Zangles
-</a>
-        
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/media">
-    Media
-</a>
-        
-<a class="link bammerlaan-blauw hover-mid-gray mh2 pv1"
-    href="/contact">
-    Contact
-</a> -->
-
-<!-- Inspired by www.shopify.ca, Dropdown Navigation Prototype Using Tachyons CSS & Vue.js.-->
-<!-- Uses Tachyons CSS and a small override for a responsive CSS dropdown menu. -->
-
-<nav>
-  <ul class="w-100 list ph3 pa3-ns bg-white f6 cf mb0 mb0-ns">
-
-    <!-- <li class="dib ma2 w-100 w-auto-ns bg-red">
-			<a href="/" class="dib nav tc no-underline pa3 ph4 bg-white dark-gray w-100">Home</a>
-	    </li> -->
-
-    <li class="fl fn-ns dib-ns ma0-ns w-25 w-auto-ns">
-      <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
-      <a href="/{{page.lang}}/bio"
-        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['bioNav'][page.lang] }}</a>
-    </li>
-
-    <li class="fl fn-ns dib-ns ma0-ns w-25 w-auto-ns">
-      <!-- Deze aanpassen voor hoogtemarge van alle menuknoppen. w-100 is voor mobiele site. -->
-      <a href="/{{page.lang}}/media"
-        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">Media</a>
-    </li>
-
-    <li class="fl fn-ns dib-ns w-25 w-auto-ns">
-      <a href="/{{page.lang}}/concertagenda"
-        class="link dark-gray hover-mid-gray dib-ns tc pa0 ph1 ph2-ns">{{ site.data.translations['agendaNav'][page.lang] }}</a>
-    </li>
-
-    <li class="fl fn-ns dib-ns w-25 w-auto-ns">
-      <a href="/{{page.lang}}/contact"
-        class="link dark-gray hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['contactNav'][page.lang] }}</a>
-    </li>
-
-    <!-- Onderstaande twee alleen voor mobiele site.-->
-
-    <!-- <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
-      <a href="/{{page.lang}}/ensembles/cantorex"
-        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">En&shy;sem&shy;ble Can&shy;to&shy;rex</a>
-    </li> -->
-
-    <!-- <li class="fl dn-ns w-third w-auto-ns mt2 ma0-ns">
-      <a href="/{{page.lang}}/ensembles/enm"
-        class="link bammerlaan-blauw hover-mid-gray dib tc pa0 ph1 ph2-ns">{{ site.data.translations['enmNav'][page.lang] }}</a>
-    </li> -->
-
-    <!-- Dropdown menu for -m site.-->
-    <!-- <li class="dn dib-m fn-ns pa0-ns ph2-ns relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
-      {{ site.data.translations['ensemblesNav'][page.lang] }} ▾
-      <ul
-        class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
-
-        <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/ensembles/cantorex"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
+        <li class="dropdown link  dark-gray f6 f5-l dib mr1 mr4-m mr4-l">
+          <!-- aria-expanded needs managed with Javascript -->
+          <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false" aria-controls="sweets-dropdown">
+            About
+          </button>
+          <ul class="dropdown__menu bg-immix-buttercream tc" id="sweets-dropdown">
+            <li><a href="/{{page.lang}}/bio" class="">{{ site.data.translations['bioNav'][page.lang] }}</a></li>
+            <li><a href="#">Bloom</a></li>
+            <li><a href="#">Wende</a></li>
+            <li><a href="#">Blog</a></li>
+          </ul>
         </li>
 
-        <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/ensembles/enm"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['enmNav'][page.lang] }}</a>
-        </li>
+        <li class="link f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/media" class="link  white hover-immix-cerulean">Media</a></li>
 
-      </ul>
-    </li> -->
+        <li class="link  f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/concertagenda" class="link  white hover-immix-illuminating">{{ site.data.translations['agendaNav'][page.lang] }}</a></li>
 
-    <!-- Dropdown menu for -l site.-->
-    <!-- <li class="dn dib-l fn-ns pa0-ns ph2-ns hide-child relative-m relative-l w-50 w-auto-ns bammerlaan-blauw noselect">
-      {{ site.data.translations['ensemblesNav'][page.lang] }} ▾
-      <ul
-        class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
+        <li class="link  f6 f5-l dib mr1 mr4-m mr4-l"><a href="/{{page.lang}}/contact" class="link  white hover-immix-greenash">{{ site.data.translations['contactNav'][page.lang] }}</a></li>
 
-        <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/ensembles/cantorex"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">Can&shy;to&shy;rex</a>
-        </li>
+        </ul>
+      <!-- Einde navmenu -->
 
-        <li class="ma0 pa2-ns ph3-ns bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/ensembles/enm"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['enmNav'][page.lang] }}</a>
-        </li>
+    </div>
+    <!-- Hier taalvlaggetjes (rechts) -->
+    <div class="dtc v-mid ">
+      {% if page.layout != 'tagpage' %}
+      {% if page.layout != 'index' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+      {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+      <div class="f3 ">
 
-      </ul>
-    </li> -->
+        {% for post in posts %}
+        <a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
+          class="{{post.lang}} no-underline"
+          href="{{ site.base-url }}{{ post.url }}">{{ site.data.languages[post.lang].icon }}
+        </a>
+        {% endfor %}
+        {% endif %}
+      </div>
 
-    <!-- Dropdown menu for mobile and -l site.-->
-    <!-- <li
-      class="fn-ns dib dn-m pa0-ns ph2-ns hide-child relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
-      <a href="/{{page.lang}}/zangles"
-        class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">{{ site.data.translations['zanglesNav'][page.lang] }}
-        ▾</a>
-      <ul
-        class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 hide-child child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
-
-        <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/zangles/#tarieven-en-voorwaarden"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['tarievenVoorwaardenNav'][page.lang] }}</a>
-        </li>
-
-      </ul>
-    </li> -->
-
-    <!-- Dropdown menu for mobile and -l site.-->
-    <!-- <li class="fn-ns dn dib-m pa0-ns ph2-ns relative-m relative-l w-third w-auto-ns bammerlaan-blauw mt2 ma0-ns">
-      <a href="/{{page.lang}}/zangles"
-        class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">{{ site.data.translations['zanglesNav'][page.lang] }}
-        ▾</a>
-      <ul
-        class="menu list bg-mid-gray mt0 mt1-ns pa0 f6 child child-vs o-100-vs absolute-m absolute-l top-100-m w-100 br2 shadow-4-ns z-max">
-
-        <li class="ma0 pa2 ph3 bg-white bg-animate hover-bg-white">
-          <a href="/{{page.lang}}/zangles/#tarieven-en-voorwaarden"
-            class="link bammerlaan-blauw hover-mid-gray dib nav tc ph0 pa1 w-100">{{ site.data.translations['tarievenVoorwaardenNav'][page.lang] }}</a>
-        </li>
-
-      </ul>
-    </li> -->
-
-    <!--    <li class="dib w-100 w-auto-ns ">
-			<a href="/media/#top" class="link bammerlaan-blauw hover-mid-gray dib nav tc pa0 ph2 w-100">Me&shy;di&shy;a</a>
-	    </li> -->
-
-
-
-  </ul>
+      {% endif %}
+      {% endif %}
+    </div>
+    <!-- Einde taalvlaggetjes -->
+  <!-- </div> -->
 </nav>
+<!-- End of language flags -->
+
+<!-- Div waar de navbar in komt, met vertical height 75 om foto ruimte te geven. -->
+<div class="dt {{ page.phototexthoralign }} {{ page.bgphotovertsize }}">
+
+<h1 class="{{ page.phototextonoroff }} w-100 f1 f-headline-l fw2 white {{ page.phototextveralign }}">
+  <!-- Ding omhoog/omlaag: style="position:relative; top:200px;" -->
+  {% if is_post %}
+  {% endif %}
+  {{ page.bgphototext }}
+</h1>
+</div>
+
+<!-- Tekst bovenop foto-->
+
+<!-- Eind tekst -->
+
+</div>
+
+<!-- <nav class="z-max" aria-label="Main Navigation">
+  <ul>
+    <li><a href="#" class="">About</a></li>
+    <li class="dropdown"> -->
+
+      <!-- aria-expanded needs managed with Javascript -->
+
+      <!-- <button type="button" class="dropdown__title dib " aria-expanded="false" aria-controls="sweets-dropdown">
+        Sweets
+      </button>
+      <ul class="dropdown__menu" id="sweets-dropdown">
+        <li><a href="#">Donuts</a></li>
+        <li><a href="#">Cupcakes</a></li>
+        <li><a href="#">Chocolate</a></li>
+        <li><a href="#">Bonbons</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Order</a></li> -->
+
+    <!-- Language flags -->
+<div class="cf">
+    
+</div>
+
+
+    <!-- End of languge flags -->
+
+  <!-- </ul>
+</nav> -->
+
+<!-- <nav class="w-100 dwyl-bg-dark-gray tc white relative fixed">
+  <input type="checkbox" id="burger" class="absolute top-2 right-1 dn">
+  <label for="burger" class="dn-ns pointer absolute top-1 right-1">
+    <i class="fa fa-bars white dib f2"></i>
+  </label>
+  <ul class="overflow-hidden menu db-ns w-100 list tc pl0 pt3 mv0 f3 fw3 f5-ns">
+    <li class="absolute top-1 static-ns ph4 mh2 fw3 di-ns pt1 pb3 pv3-ns">
+      <a href="/" class="white link">
+        <img src="./img/common/dwyl-heart-only-logo.png" alt="dwyl logo" class="w1"/>
+        dwyl
+      </a>
+    </li>
+    <li class="ph5 pt5 pb2 tl dn-ns"><a href="/" class="white link">Home</a></li>
+    <li class="ph5 di-ns pv2 tl pv0-ns"><a href="/portfolio" class="white link">Portfolio</a></li>
+    <li class="ph5 di-ns pv2 tl pv0-ns"><a href="/values" class="white link">Values</a></li>
+    <li class="ph5 di-ns pv2 tl pv0-ns"><a href="/team" class="white link">Team</a></li>
+    <li class="ph5 di-ns pv2 tl pv0-ns"><a href="/app" class="white link">App
+      <span class="dwyl-bg-gold pa1 br2 f7">BETA</span></a></li>
+    <li class="ph5 di-ns pv2 tl pv0-ns"><a href="/blog" class="dwyl-mint link">Blog</a></li>
+    <li class="ph5 di-ns pt2 pb3 tl pv0-ns"><a href="/#contact" class="white link">Contact</a></li>
+  </ul>
+</nav> -->
+
+

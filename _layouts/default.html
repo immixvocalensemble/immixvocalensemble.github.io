@@ -1,6 +1,7 @@
 {% assign is_post = page.date %}
 <!doctype>
-<html lang="en">
+<!-- <html lang="en" class=""> -->
+<html lang="en" class="debug debug-grid">
 
 <head>
   {% if page.title %}
@@ -20,10 +21,10 @@
   
 <!-- Logo bovenin -->
 
-<body class="lh-copy dark-gray pa0 f6" style="font-family: 'Montserrat', sans-serif; background: url(/images/bgimages/8.jpg) no-repeat center center fixed; background-size: cover;">
+<body class="lh-copy dark-gray pa0 f6 " >
   <header class="tc">
     <!-- Language selection flags. -->
-    <div class="mw8 center">
+    <!-- <div class="mw8 center">
       <div class="cf">
         <div class="fl w-80 w-90-l">
           <div class="pv3"></div>
@@ -51,7 +52,7 @@
           {% endif %}
         </div>
       </div>
-    </div>
+    </div> -->
 
 
     <!-- Header logo -->
@@ -71,23 +72,23 @@
   </header>
 
   <!-- Begin styling van pagina-body -->
-  <div class="tc mw8 mt0 mb0 center bn bg-immix-buttercream-transparent">
+  <div class="tc w-100 mt0 mb0 center bn ">
     
     <!-- Navigatiebalk -->
       {% include navbar.html %}
 
     <!-- Logo of dergelijks -->  
-    <div class="mb0 pb4 center bn" style="background: url(/images/bgimages/1.jpg) no-repeat center center fixed; background-size: cover;">
+    <!-- <div class="mb0 pb4 center bn" style="background: url(/images/bgimages/1.jpg) no-repeat center center fixed; background-size: cover;">
       
       {% if page.lang == 'nl' %}
-      <a href="{{ site.url }}" class="white f1 link tracked">
+      <a href="{{ site.url }}" class="sans-serif white f1 link tracked">
         {% endif %}
         {% if page.lang != 'nl' %}
         <a href="{{ site.url }}/{{ page.lang }}">
           {% endif %}
           Immix Vocal Ensemble
         </a>
-    </div>
+    </div> -->
 
     <!-- 
         {% for link in site.links %}
@@ -101,7 +102,7 @@
     <!-- Plaats van content op de pagina -->
     <!-- <main class="tl f6 relative pa4 pa5-ns overflow-hidden"> -->
     <!-- Oud -->
-    <main class="tl f6 relative pa4 ph5 overflow-hidden bt b--light-gray">
+    <main class="sans-serif tl f6 relative overflow-hidden ">
       <a name="top"></a> <!-- Anchor om bovenaan de pagina te komen. -->
       {% if page.title %}
       <div class="mb4">
@@ -135,7 +136,7 @@
         {% endif %}
       </div>
       {% endif %}
-      <div class="markdown-body">
+      <div class="markdown-body w-90 center">
         {{ content }}
       </div>
       {% if is_post %}{% include signoff.html %}{% endif %}
