@@ -13,10 +13,10 @@ bgcolour: bg-immix-buttercream
 <img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
 To do this page:
 <ul>
-    <li>Add names to photos and a bio page for everyone</li>
-    <li>Update photos with Julie's list</li>
+    <li class="strike">Add names to photos and a bio page for everyone</li>
+    <li class="strike">Update photos with Julie's list</li>
     <li>Ask everyone for an English and Dutch version of their bio</li>
-    <li>Remove placeholder pictures in the grid</li>
+    <li class="strike">Remove placeholder pictures in the grid</li>
     <li>Add an actual text (ask Jobbe?)</li>
 </ul> 
 
