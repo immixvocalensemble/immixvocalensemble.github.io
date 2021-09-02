@@ -3,7 +3,7 @@ title: Blog post by Jobbe and Ariel?
 date: 2020-06-03
 lang: nl
 lang-ref: sepa-ct-qr-gnucash-latex-invoice # Also create a directory for this in _data/comments. Throws error otherwise. Add empty file there to propagate on Github as well, then remove again.
-tags: technologie boekhouding latex gnucash factuur opensource linux qrcodes
+tags: NetherlandsChamberChoir Music Acapella Singing
 # Run tag_generator.py for every new blog post!
 published: true
 bgphoto: 
