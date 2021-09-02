@@ -8,6 +8,7 @@ phototexthoralign: mr-auto # Align right: ml-auto. Center: center. Align left: m
 phototextveralign: v-btm # Align top: v-top. Middle: v-mid. Align bottom: b-btm 
 bgphototext: 
 phototextonoroff: dtc # Show text: dtc Don't show: dn
+bgcolour: bg-immix-buttercream
 ---
 <img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
 To do this page:
@@ -54,18 +55,18 @@ To do this page:
   <main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
       <div class="fl w-third-ns ph2">
         <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc">Sebastiaan Ammerlaan</figcaption>
-        <a href="" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc">Jobbe Hoebink</figcaption>
-        <a href="#" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc">Ariel Sin Yu Lee</figcaption>
+        <a href="jobbe_hoebink" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc">Jobbe Hoebink</figcaption>
+        <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc">Ariel Sin Yu Lee</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Ruben002.jpg"></a><figcaption class="tc">Ruben Grevelink</figcaption>
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Phoebe002.jpg"></a><figcaption class="tc">Phoebe Kirrage</figcaption>
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Jesse002.jpg"> </a><figcaption class="tc">Jesse van der Wel</figcaption>
+        <a href="ruben_grevelink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Ruben002.jpg"></a><figcaption class="tc">Ruben Grevelink</figcaption>
+        <a href="phoebe_kirrage" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Phoebe002.jpg"></a><figcaption class="tc">Phoebe Kirrage</figcaption>
+        <a href="jesse_van_der_wel" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Jesse002.jpg"> </a><figcaption class="tc">Jesse van der Wel</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Julie002.jpg"></a><figcaption class="tc">Julie Hasfjord</figcaption>
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Emma003.jpg"></a><figcaption class="tc">Emma Nelson</figcaption>
-        <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Merel001.jpg"></a><figcaption class="tc">Merel Wentink</figcaption>
+        <a href="julie_hasfjord" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Julie002.jpg"></a><figcaption class="tc">Julie Hasfjord</figcaption>
+        <a href="emma_nelson" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Emma003.jpg"></a><figcaption class="tc">Emma Nelson</figcaption>
+        <a href="merel_wentink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Merel001.jpg"></a><figcaption class="tc">Merel Wentink</figcaption>
       </div>
   </main>
 
