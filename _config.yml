@@ -20,9 +20,9 @@ defaults:
   - values:
       layout: "default"
 
-staticman:
-  api: "https://staticman3.herokuapp.com/v3/entry/github/bammerlaan/bammerlaan.github.io/master/comments"
-  path: "_data/comments/{{ page.lang-ref }}"
+#staticman:
+#  api: "https://staticman3.herokuapp.com/v3/entry/github/bammerlaan/bammerlaan.github.io/master/comments"
+#  path: "_data/comments/{{ page.lang-ref }}"
 markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
