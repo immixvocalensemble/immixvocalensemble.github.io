@@ -86,6 +86,9 @@ background:rgba(240,227,206, .9)
 .bg-immix-willow {
   background-color: var(--immix-willow);
 }
+.bg-black {
+  background-color:rgba(0, 0, 0, 1)
+}
 
 .hover-immix-marigold:hover { color: var(--immix-marigold); }
 .hover-immix-marigold:focus { color: var(--immix-marigold); }
