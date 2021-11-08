@@ -8,15 +8,29 @@ phototexthoralign: center # Align right: ml-auto. Center: center. Align left: mr
 phototextveralign: v-btm # Align top: v-top. Middle: v-mid. Align bottom: b-btm 
 bgphototext: Immix Vocal Ensemble
 phototextonoroff: dn # Show text: dtc Don't show: dn
+bgcolour: bg-immix-buttercream
 ---
 
+<h1>
+{% if is_post %}
+{% endif %}
+{{ page.title }}
+</h1>
 
-<img src="/images/bio_images/sebastiaan.jpg" alt="Sebastiaan Ammerlaan" class="fr w-third ml-auto br-100">
+<img src="/images/bio_images/sebastiaan.jpg" alt="Sebastiaan Ammerlaan" class="fr w-25 ml-auto br-100">
 
-Ever since Sebastiaan (Bas) Ammerlaan begged his parents for violin lessons when he was four, music took a strong hold of him. He started singing when he joined the [University College Roosevelt](https://www.ucr.nl) university choir as part of his minor in viola playing. He also studied musicology there. From 2013 on he studied classical singing at the [HKU Utrecht Conservatory](https://www.hku.nl/Home/Education/Bachelors/Conservatorium1.htm), first with [Jón Þorsteinsson](https://www.jonthorsteinsson.com) and from 2016–2020 with [Selma Harkink](http://www.selmaharkink.com). 
+> **What is your artistic training and background?**
 
-Since 2020 he follows the [master Ensemble singing](https://www.koncon.nl/opleidingen/master/vocal/master-ensemblezang) at the [Royal Conservatory](https://www.koncon.nl/) with [Harry van Berne](https://www.jhvb.nl/) (ensemble) and [Gerda van Zelm](https://www.koncon.nl/docenten/gerda-van-zelm) (solo singing). He also received lessons from [David Wilson-Johnson](http://www.davidwilsonjohnson.com/), [Jasper Schweppe](https://www.jasperschweppe.nl/), [Irene Verburg](http://www.ireneverburg.nl), [Kaspar Kröner](http://kasparkroener.weebly.com/), [Marjan Kuiper](http://www.marjankuiper.nl) and [Elisabeth Blom](https://www.musicazelandica.nl/nl/artistieke-leiding).
+I played the violin and later the viola from my early youth. I started singing in university and then studied classical singing in Utrecht and The Hague.
 
-Sebastiaan sings in the [Bach Choir of the Netherlands](https://beleefklassiek.nl/nl/2/the-bach-choir--orchestra-of-the-netherlands.aspx) and [NKK NXT](https://www.nederlandskamerkoor.nl/talentontwikkeling-participatie/nkk-nxt/), and sang with [Meesters & Gezellen](http://www.tettix.nl/) (2016–2018), the [Dutch National Opera Academy](http://www.opera-academy.nl/), [Muziektheater Hollands Diep](http://muziektheaterhollandsdiep.nl/), the [National Youth Choir](http://www.nationalekoren.nl/), [TENSO Europe Chamber Choir](https://www.tensoeuropechamberchoir.eu/) and the [Zed Chamber Choir](https://www.musicazelandica.nl/nl/chamber-choir). 
+> **What is you most memorable artistic experience?**
 
-In 2017, he founded the [Ensemble for New Music](/ensembles/enm) with soprano Veronika Akhmetchina. He also sings in [Ensemble Cantorex](/ensembles/cantorex) with soprano Iris Bouman, alto Hester Westra and tenor Dierick Aartsen, a vocal ensemble specialising in Renaissance and Baroque music.
+Singing the solo baritone part in Sun Dogs by Ēriks Ešenvalds with other ensemble singing students. It was such an honor to sing and the artistic quality was exactly where I wanted it to give me chills each concert.
+
+> **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
+
+I wanted to see where innovation in ensemble singing could be found that’s more than simply adding staging to what is otherwise a regular choir performance.
+
+> **What is your superpower in Immix Vocal Ensemble?**
+
+I am the local modern music enthusiast, finding charm and appeal in the strangest of places.

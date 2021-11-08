@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 lang: nl
-title: "Tag: android"
-tag: android
+title: "Tag: Singing"
+tag: Singing
 robots: noindex
 ---

@@ -11,6 +11,6 @@ phototextonoroff: dn # Show text: dtc Don't show: dn
 bgcolour: bg-immix-rust
 ---
 
-<img src="/images/bio_images/" alt="photo here" class="fr w-third ml-auto br-100">
+<img src="/images/bio_images/Jobbe.jpg" alt="photo here" class="fr w-third ml-auto br-100">
 
 bio here

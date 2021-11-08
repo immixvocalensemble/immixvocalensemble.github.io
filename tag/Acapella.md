@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 lang: nl
-title: "Tag: tablet"
-tag: tablet
+title: "Tag: Acapella"
+tag: Acapella
 robots: noindex
 ---

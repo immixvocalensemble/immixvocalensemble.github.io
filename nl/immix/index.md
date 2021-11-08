@@ -10,7 +10,7 @@ bgphototext:
 phototextonoroff: dtc # Show text: dtc Don't show: dn
 bgcolour: bg-immix-buttercream
 ---
-<img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
+<!-- <img src="/images/Aeson/MG_9127.jpg" alt="" class="fr w-third ml-auto br-100">
 To do this page:
 <ul>
     <li class="strike">Add names to photos and a bio page for everyone</li>
@@ -18,36 +18,42 @@ To do this page:
     <li>Ask everyone for an English and Dutch version of their bio</li>
     <li class="strike">Remove placeholder pictures in the grid</li>
     <li>Add an actual text (ask Jobbe?)</li>
-</ul> 
+</ul>  -->
 
 
 <article class="cf pa3 mw9 center">
   
   <header class="fl w-100 w-two-thirds-l pa3-m pa4-l">
     <h2 class="lh-title f3 b mt0">
-      NKK NXT is an exciting vocal ensemble of nine young artists from across the spectrum of musical disciplines and cultures. This group of talented theater makers, singers and composers is supported and coached by the Netherlands Chamber Choir (NKK)in search of the future of ensemble singing
+      IMMIX VOCAL ENSEMBLE is een nieuw collectief van negen jonge artiesten: zangers, schrijvers, theatermakers, componisten en dirigenten, die samen nieuwe voorstellingen <b>ensemble-/koor</b>zang met een verhaal creëren, waar de koorervaring centraal staat.
     </h2>
   </header>
   
   <section class="fl w-100">
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
+    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+        Uit de boezem van het Nederlands Kamerkoor vond de groep elkaar te midden van een wereldwijde pandemie als deelnemers aan het talentontwikkelingsprogramma NKK NXT 20/21. Tijdens deze periode wisten ze een hybride theatrale koorvoorstelling te maken die lovend werd ontvangen door zowel publiek als recensenten.  
+      </p>
+      <p class="f6 lh-copy measure">
+        Bij IMMIX VOCAL ENSEMBLE geloven we in de kracht van harmonie en ensemble-/koorzang. Gezien we leven in een samenleving die snakt naar verbinding, overspoeld door crises, zien wij een urgent en breed potentieel voor deze bedreigde kunstvorm. Wij ervaren dat ensemblezang, door haar harmonie en schoonheid, diverse krachten in zich heeft, van kalmeren en helen tot inspireren en mensen samenbrengen.
+      </p>
+    </div>
+    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Als een ensemble van jonge zangers met een brede keur aan vaardigheden, heeft IMMIX VOCAL ENSEMBLE het unieke recept in handen om dit potentieel van ensemble-/koorzang te ontsluiten, voor zowel bestaand als nieuw publiek. Met verhaal als de regengraad van onze optredens, kijken we over de grenzen van genres, omarmen we samenwerking en experimenteren we in de uitvoering.
+      </p>
+      <p class="f6 lh-copy measure">
+        De theaterexperts in ons ensemble geven ons toegang tot de theaterwetten. De schrijvers en componisten in de groep bieden ruimte voor maatwerk. Onze dirigent des huizes vergroot onze efficiëntie en inspireert tot muzikale kwaliteit, en wij allen zijn ervaren zangers, waardoor we met passie en souplesse een concept kunnen omzetten naar praktijk. Bovendien, omdat onze vorming plaatsvond tijdens de grote coronalockdown  zijn flexibiliteit en aanpassingsvermogen onderdeel geworden van onze groep, waardoor we kunnen werken met de gegeven omstandigheden ten voordele van onze voorstelling.
+      </p>
+    </div>
+    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
+      <p class="f6 lh-copy measure">
+        Meer dan een groep, vormen we een collectief van negen jonge individuen, ieder met hun eigen gevoelens over de problemen en veranderingen in onze tijd. Onze verscheidenheid in persoonlijke verhalen en ervaringen vormt een belangrijk bron van inspiratie voor ons maakproces en optredens. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
-      </p>
-    </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
-        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
-      </p>
-    </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
-        Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix. Here goes text describing Immix.
+        Met al deze ingrediënten samen wil IMMIX VOCAL ENSEMBLE een reis creëren voor zowel bestaand als nieuw publiek, om te genieten en te leren van de schoonheid en kracht van de kunst die ensemblezang is.
       </p>
     </div>
   </section>

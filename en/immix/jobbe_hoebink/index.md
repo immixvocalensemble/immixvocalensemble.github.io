@@ -11,6 +11,23 @@ phototextonoroff: dn # Show text: dtc Don't show: dn
 bgcolour: bg-immix-rust
 ---
 
-<img src="/images/bio_images/" alt="photo here" class="fr w-third ml-auto br-100">
+<h1>
+{% if is_post %}
+{% endif %}
+{{ page.title }}
+</h1>
 
-bio here
+<img src="/images/bio_images/Jobbe.jpg" alt="photo here" class="fr w-25 ml-auto br-100">
+
+> **What is your artistic training and background?**
+
+
+> **What is you most memorable artistic experience?**
+
+
+> **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
+
+
+
+> **What is your superpower in Immix Vocal Ensemble?**
+
