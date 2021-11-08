@@ -10,7 +10,26 @@ bgphototext: Immix Vocal Ensemble
 phototextonoroff: dn # Show text: dtc Don't show: dn
 bgcolour: bg-immix-greenash
 ---
+<h1>
+{% if is_post %}
+{% endif %}
+{{ page.title }}
+</h1>
 
-<img src="/images/bio_images/" alt="photo here" class="fr w-third ml-auto br-100">
+<img src="/images/bio_images/merel.jpg" alt="Sebastiaan Ammerlaan" class="fr w-25 ml-auto br-100">
 
-bio here
+> **What is your artistic training and background?**
+
+I’m trained as a classical singer and as a music teacher.
+
+> **What is you most memorable artistic experience?**
+
+During my studies I had the dream to become an opera singer. At some point I got invited to sing a contemporary short opera about Atlantis. I was the princess of Atlantis who was coming to earth to warn the audience about climate change. I had to sing everything in the opera gurgling, because that was the Atlantis language.
+
+> **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
+
+I wanted to learn how to make a performance from scratch; to not only study the music and sing, but also to think about artistic content and production.
+
+> **What is your superpower in Immix Vocal Ensemble?**
+
+To try to be always true to the story I find important to tell in a performance.

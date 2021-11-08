@@ -139,35 +139,74 @@ background:rgba(240,227,206, .9)
   pointer-events: none;
 }
 
+/* Font styles. See https://www.hacksoft.io/blog/using-multiple-font-files-the-right-way */
+
+/* body {
+font-family: BloggerSansRegular, sans-serif;
+} */
+
+body {
+  font-family: FiraSansRegular, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  font-family: FiraSansRegular, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+} 
+
 caption {
-  font-family: "Roboto", sans-serif;
+  font-family: FiraSansRegular, sans-serif;
   font-weight: 100;
 }
 
+figcaption {
+  font-family: FiraSansRegular, sans-serif;
+  font-weight: normal;
+}
+
 h1 {
-  color: var(--bammerlaan-grijs);
-  font-family: "Roboto", sans-serif;
+  color: ;
+  font-family: FiraSansBold, sans-serif;
   font-weight: 100;
 }
 
 h2 {
-  color: var(--bammerlaan-grijs);
-  font-family: "Roboto", sans-serif;
+  color: ;
+  font-family: FiraSansMedium, sans-serif;
+  font-weight: 200;
+}
+
+h3 {
+  color: ;
+  font-family: FiraSansMedium, sans-serif;
   font-weight: 300;
 }
 
 h4 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
+  font-family: FiraSansMedium, sans-serif;
+  font-weight: 400;
   font-size: 1rem;
 }
+
+h5 {
+  font-family: FiraSansRegular, sans-serif;
+  font-weight: 400;
+}
+
+h6 {
+  font-family: FiraSansLight, sans-serif;
+  font-weight: 400;
+}
+
+
 
 table {
   border-collapse: collapse;
   width: 100%;
 }
-
-
 
 th,
 td {
@@ -185,18 +224,19 @@ th {
 } /* Tabel headers */
 
 /* Markdown styles */
-/* .markdown-body a {
+.markdown-body a {
   text-decoration: none;
-  color: var(--bammerlaan-blauw);
-} Link-kleur */
+  color: var(--immix-cerulean);
+  font-family: FiraSansMedium, sans-serif;
+} /* Link-kleur */
 
-/* .markdown-body a:hover,
+.markdown-body a:hover,
 a:focus,
 a:active {
-  text-decoration: none;
-  color: var(--bammerlaan-grijs);
-  background: url(/images/line2.png) repeat-x left bottom;
-} Link-mouse-over */
+  text-decoration: underline;
+  color: var(--immix-cerulean);
+  font-family: FiraSansMedium, sans-serif;
+} /* Link-mouse-over */
 
 .markdown-body .highlighter-rouge {
   padding: 0.25rem 0.5rem;
@@ -263,9 +303,7 @@ a:active {
 /* Stuff from https://github.com/dwyl/dwyl-site/blob/c80801a9024e9733273a8316cc35924f2fe39583/redesign/css/dwyl.css*/
 
 
-body {
-  font-family: 'Montserrat', sans-serif;
-}
+
 
 
 /* from https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/*/
@@ -422,3 +460,16 @@ footer {
   min-height: 40vh;
   color: #fff;
 } */
+
+.navbar-link a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  font-family: FiraSansRegular, sans-serif;
+} 
+
+.button-text {
+  text-decoration: none;
+  font-family: FiraSansRegular, sans-serif;
+  color: white !important;
+} 

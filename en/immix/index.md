@@ -25,7 +25,7 @@ To do this page:
   
   <header class="fl w-100 w-two-thirds-l pa3-m pa4-l">
     <h2 class="lh-title f3 b mt0">
-      MMIX VOCAL ENSEMBLE is a new collective of nine young artist: singers, writers, theatre makers, composers and conductors, who create novel ensemble singing performances with honest storytelling, putting the choral experience centre stage. 
+      IMMIX VOCAL ENSEMBLE is a new collective of nine young artist: singers, writers, theatre makers, composers and conductors, who create novel ensemble singing performances with honest storytelling, putting the choral experience centre stage. 
     </h2>
   </header>
   
@@ -34,6 +34,8 @@ To do this page:
       <p class="f6 lh-copy measure">
         Coming from the bosom of the Netherlands Chamber Choir, this open-minded troupe found each other in the midst of the global pandemic as participants of NKK NXT 20/21. During this talent development programme they managed to create a hybrid theatrical ensemble singing performance that was well received by both audience and critics.  
       </p>
+    </div>
+    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
         At IMMIX VOCAL ENSEMBLE we believe in the power of harmony and ensemble singing. Living in a society deprived of deeper connection, covered in crises, we see an urgent and wide potential for this endangered artform. In our experience, ensemble singing, through its harmony and beauty, has the innate power to heal, soothe, inspire and unite.
       </p>
@@ -41,19 +43,6 @@ To do this page:
     <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
         As an ensemble of young singers with a wide range of skill sets, IMMIX VOCAL ENSEMBLE is uniquely able to unlock the potential of choir singing for both existing and new audiences. Using story as the backbone of our performance, we look across genres, embrace cooperation and experiment with performance practices.
-      </p>
-      <p class="f6 lh-copy measure">
-        Having experts on theatre in our ensemble allows us to borrow from the theatrical playbook. The inclusion of writers and composers beds custom made material. Our in-house conductor makes us very efficient and inspires musical quality, and all of us are experienced singers, making us passionate and skilled in turning concept into practice. Moreover, since our formation in mid-Covid lockdown, we have flexibility and adaptability baked into our core, enabling us to turn any circumstances into an advantage for the performance.
-      </p>
-    </div>
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
-        More than a mere group, we form a collective of nine young individuals, each having a different feeling with the challenges and changes of our times. Our diverse personal stories and experiences form an important source for our performance.
-      </p>
-    </div>
-    <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
-        With all these ingredients IMMIX VOCAL ENSEMBLE aims to create a journey for existing and new audiences to both appreciate and gain from the beauty and power of the art that is ensemble singing.
       </p>
     </div>
   </section>
