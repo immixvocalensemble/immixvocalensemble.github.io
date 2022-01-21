@@ -49,7 +49,8 @@ To do this page:
 
   <main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
       <div class="fl w-third-ns ph2">
-        <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc">Sebastiaan Ammerlaan</figcaption>
+        <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc"><a href ="sebastiaan_ammerlaan">Sebastiaan Ammerlaan</a></figcaption> 
+        <!-- Even checken of link in caption zo werkt, volgende keer dat ik aan de site werk -->
         <a href="jobbe_hoebink" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc">Jobbe Hoebink</figcaption>
         <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc">Ariel Sin Yu Lee</figcaption>
       </div>

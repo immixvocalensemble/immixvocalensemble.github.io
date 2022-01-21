@@ -1,0 +1,4 @@
+To-do website:
+
+[] Add e-mail subscription link
+[] Add link to bio pages by clicking member names too (besises photos)
