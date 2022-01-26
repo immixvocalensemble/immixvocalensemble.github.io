@@ -6,48 +6,82 @@
     <ul class="ph0">
 
       <!-- Home-knop, verdwijnt op mobile -->
-      <li class="dn dib-m dib-l link f6 f5-l mr1 mr4-m mr4-l">
+      <li class="dn dib-m dib-l link f5 f5-l mr1 mr4-m mr4-l">
         {% if page.lang == 'nl' %}
-        <a class="link white hover-immix-cerulean" href=" {{ site.url }}">
-          Home
+        <a class="link white hover-immix-marigold" style="font-variant: small-caps;" href=" {{ site.url }}">
+          home
           {% endif %}
           {% if page.lang != 'nl' %}
-          <a class="link white hover-immix-cerulean" href=" {{ site.url }}/{{ page.lang }}">
-            Home
+          <a class="link white hover-immix-marigold" style="font-variant: small-caps;" href=" {{ site.url }}/{{ page.lang }}">
+            home
             {% endif %}
           </a>
       </li>
 
       <!-- About-dropdown -->
-      <li class="dropdown link dark-gray f6 f5-l dib mr2 mr4-m mr4-l">
+      <li class="dropdown link dark-gray f5 f5-l dib mr2 mr4-m mr4-l">
         <!-- aria-expanded needs managed with Javascript -->
-        <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false"
+        <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false" style="font-variant: small-caps;"
           aria-controls="sweets-dropdown">
-          About
+          about
         </button>
         <ul class="dropdown__menu bg-black-30 tc" id="sweets-dropdown">
-          <li><a href="/{{page.lang}}/immix" class="no-underline white hover-immix-marigold">Immix</a></li>
-          <li><a href="#" class="no-underline white hover-immix-rust">Bloom</a></li>
-          <li><a href="#" class="no-underline white hover-immix-desertmist">Wende</a></li>
-          <!-- <li><a href="/{{ page.lang }}/blog" class="no-underline white hover-immix-greenash">Blog</a></li> -->
+          <li><a href="/{{page.lang}}/immix" class="no-underline white hover-immix-marigold" style="font-variant: small-caps;">immix</a></li>
+          <li><a href="#" class="no-underline white hover-immix-marigold" style="font-variant: small-caps;">bloom</a></li>
+          <li><a href="#" class="no-underline white hover-immix-marigold" style="font-variant: small-caps;">wende</a></li>
+          <!-- <li><a href="/{{ page.lang }}/blog" class="no-underline white hover-immix-marigold">Blog</a></li> -->
         </ul>
       </li>
 
-      <li class="link f6 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/media"
-          class="navbar-link link white hover-immix-cerulean">Media</a></li>
+      <li class="link f5 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/media"
+          class="navbar-link link white hover-immix-marigold" style="font-variant: small-caps;">media</a></li>
 
-      <li class="link  f6 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/concertagenda"
-          class="navbar-link link  white hover-immix-illuminating">{{ site.data.translations['agendaNav'][page.lang] }}</a></li>
+      <li class="link  f5 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/concertagenda"
+          class="navbar-link link  white hover-immix-marigold" style="font-variant: small-caps;">{{ site.data.translations['agendaNav'][page.lang] }}</a></li>
 
-      <li class="link  f6 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/contact"
-          class="navbar-link link white hover-immix-greenash">{{ site.data.translations['contactNav'][page.lang] }}</a></li>
+      <li class="navbar-link f5 f5-l dib mr2 mr4-m mr4-l"><a href="/{{page.lang}}/contact"
+          class="link white hover-immix-marigold navbar-link" style="font-variant: small-caps;">{{ site.data.translations['contactNav'][page.lang] }}</a></li>
+
+      <!-- Taal dropdown -->
+      <li class="dropdown link dark-gray f5 f5-l dib mr2 mr4-m mr4-l">
+        <!-- aria-expanded needs managed with Javascript -->
+        <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false" style="font-variant: small-caps;"
+          aria-controls="sweets-dropdown">
+          🌐
+        </button>
+          {% if page.layout != 'tagpage' %}
+          {% if page.layout != 'index' %}
+          {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+          {% if posts.size == 0 %}
+          {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+          {% endif %}
+          {% if posts.size > 1 %}
+      
+            <ul class="dropdown__menu bg-black-30 tc" id="sweets-dropdown">
+            {% for post in posts %}
+            <li><a title="{{ site.data.translations['viewIn'][page.lang] }} {{ site.data.languages[post.lang].label }}"
+              class="{{post.lang}} no-underline white hover-immix-marigold" style="font-variant: small-caps;" href="{{ site.base-url }}{{ post.url }}">{{
+              site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}
+            </a></li>
+            {% endfor %}
+          </ul>
+            {% endif %}
+          
+        {% endif %}
+        {% endif %}
+
+      </li>
 
     </ul>
+
+    <!-- a href="/{{page.lang}}/immix" class="no-underline white hover-immix-marigold" style="font-variant: small-caps;">immix</a> -->
+
     <!-- Einde navmenu -->
 
   </div>
+
   <!-- Hier taalvlaggetjes (rechts) -->
-  <div class="dtc v-mid ">
+  <!-- <div class="dtc v-mid ">
     {% if page.layout != 'tagpage' %}
     {% if page.layout != 'index' %}
     {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
@@ -68,7 +102,7 @@
 
     {% endif %}
     {% endif %}
-  </div>
+  </div> -->
   <!-- Einde taalvlaggetjes -->
   <!-- </div> -->
 </nav>

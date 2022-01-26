@@ -23,25 +23,25 @@ To do this page:
 
 <article class="cf pa3 mw9 center">
   
-  <header class="fl w-100 w-two-thirds-l pa3-m pa4-l">
+  <header class="fl w-100 w-two-thirds-l pl4 pr4">
     <h2 class="lh-title f3 b mt0">
       IMMIX VOCAL ENSEMBLE is een nieuw collectief van negen jonge artiesten: zangers, schrijvers, theatermakers, componisten en dirigenten, die samen nieuwe voorstellingen ensemblezang met een verhaal creëren, waar de koorervaring centraal staat.
     </h2>
   </header>
   
   <section class="fl w-100">
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+      <p class="f6 ">
         Uit de boezem van het Nederlands Kamerkoor vond de groep elkaar te midden van een wereldwijde pandemie als deelnemers aan het talentontwikkelingsprogramma NKK NXT 20/21. Tijdens deze periode wisten ze een hybride theatrale koorvoorstelling te maken die lovend werd ontvangen door zowel publiek als recensenten.  
       </p>
     </div>
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-        <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+        <p class="f6 ">
           Bij IMMIX VOCAL ENSEMBLE geloven we in de kracht van harmonie en ensemblezang. Gezien we leven in een samenleving die snakt naar verbinding, overspoeld door crises, zien wij een urgent en breed potentieel voor deze bedreigde kunstvorm. Wij ervaren dat ensemblezang, door haar harmonie en schoonheid, diverse krachten in zich heeft, van kalmeren en helen tot inspireren en mensen samenbrengen.
         </p>
     </div>
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+      <p class="f6 ">
         Als een ensemble van jonge zangers met een brede keur aan vaardigheden, heeft IMMIX VOCAL ENSEMBLE het unieke recept in handen om dit potentieel van ensemblezang te ontsluiten, voor zowel bestaand als nieuw publiek. Met verhaal als de regengraad van onze optredens, kijken we over de grenzen van genres, omarmen we samenwerking en experimenteren we in de uitvoering.
       </p>
     </div>

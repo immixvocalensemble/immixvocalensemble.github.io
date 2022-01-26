@@ -8,7 +8,7 @@ phototexthoralign: center # Align right: ml-auto. Center: center. Align left: mr
 phototextveralign: v-btm # Align top: v-top. Middle: v-mid. Align bottom: b-btm 
 bgphototext: Immix Vocal Ensemble
 phototextonoroff: dn # Show text: dtc Don't show: dn
-bgcolour: bg-immix-cerulean
+bgcolour: bg-immix-buttercream
 ---
 
 

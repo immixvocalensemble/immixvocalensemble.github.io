@@ -89,6 +89,9 @@ background:rgba(240,227,206, .9)
 .bg-black {
   background-color:rgba(0, 0, 0, 1)
 }
+.bg-white {
+  background-color:rgba(255, 255, 255, 1)
+}
 
 .hover-immix-marigold:hover { color: var(--immix-marigold); }
 .hover-immix-marigold:focus { color: var(--immix-marigold); }
@@ -171,6 +174,7 @@ h1 {
   color: ;
   font-family: FiraSansBold, sans-serif;
   font-weight: 100;
+  font-variant: small-caps;"
 }
 
 h2 {
@@ -466,6 +470,7 @@ a:focus,
 a:active {
   text-decoration: none;
   font-family: FiraSansRegular, sans-serif;
+  font-variant: small-caps;
 } 
 
 .button-text {
@@ -473,3 +478,14 @@ a:active {
   font-family: FiraSansRegular, sans-serif;
   color: white !important;
 } 
+
+/* this part adds an icon after external links, using FontAwesome*/
+a[href^="http://"]:after, a[href^="https://"]:after {
+  content: "\f08e";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 3px;
+}

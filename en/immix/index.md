@@ -23,25 +23,25 @@ To do this page:
 
 <article class="cf pa3 mw9 center">
   
-  <header class="fl w-100 w-two-thirds-l pa3-m pa4-l">
+  <header class="fl w-100 w-two-thirds-l pl4-m pr4-m pl4-l pr4-l">
     <h2 class="lh-title f3 b mt0">
-      IMMIX VOCAL ENSEMBLE is a new collective of nine young artist: singers, writers, theatre makers, composers and conductors, who create novel ensemble singing performances with honest storytelling, putting the choral experience centre stage. 
+      IMMIX VOCAL ENSEMBLE is a new collective of nine young artists: singers, writers, theatre makers, composers and conductors, who create novel ensemble singing performances with honest storytelling, putting the choral experience centre stage. 
     </h2>
   </header>
   
   <section class="fl w-100">
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+      <p class="f6 ">
         Coming from the bosom of the Netherlands Chamber Choir, this open-minded troupe found each other in the midst of the global pandemic as participants of NKK NXT 20/21. During this talent development programme they managed to create a hybrid theatrical ensemble singing performance that was well received by both audience and critics.  
       </p>
     </div>
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+      <p class="f6 ">
         At IMMIX VOCAL ENSEMBLE we believe in the power of harmony and ensemble singing. Living in a society deprived of deeper connection, covered in crises, we see an urgent and wide potential for this endangered artform. In our experience, ensemble singing, through its harmony and beauty, has the innate power to heal, soothe, inspire and unite.
       </p>
     </div>
-    <div class="fl w-100 w-50-m w-third-l pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+    <div class="fl w-100">
+      <p class="f6 ">
         As an ensemble of young singers with a wide range of skill sets, IMMIX VOCAL ENSEMBLE is uniquely able to unlock the potential of choir singing for both existing and new audiences. Using story as the backbone of our performance, we look across genres, embrace cooperation and experiment with performance practices.
       </p>
     </div>
