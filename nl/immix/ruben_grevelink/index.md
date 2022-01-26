@@ -10,6 +10,11 @@ bgphototext: Immix Vocal Ensemble
 phototextonoroff: dn # Show text: dtc Don't show: dn
 bgcolour: bg-immix-buttercream
 ---
+<h1>
+{% if is_post %}
+{% endif %}
+{{ page.title }}
+</h1>
 
 <img src="/images/bio_images/" alt="photo here" class="fr w-third w-third-m w-25-l  ml5 br0">
 
