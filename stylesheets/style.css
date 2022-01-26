@@ -310,7 +310,7 @@ a:active {
 
 
 
-/* from https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/*/
+/* from https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/ */
 
 
 * {
@@ -328,7 +328,7 @@ nav {
   /* background-color: rebeccapurple; */
   /* padding: 0 1rem; */
   position: sticky;
-  /* top: 0; */
+  top: 0;
   /* display: grid; */
   /* place-items: center; */
 }
