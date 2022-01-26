@@ -44,7 +44,7 @@ bgcolour: bg-immix-buttercream
     <h3>Credits</h3>
     <div class="fl w-100">
     <p class="f6 ">
-        Music: Ragnheiður Erla Björnsdóttir, Se Enkhbayar, Einojuhani Rautavaara, Erik Bergman, Ruben Grevelink, Jobbe Hoebink & Jesse van der Wel,  ⁠James MacMillan en William Byrd<br><br>
+        Muziek: Ragnheiður Erla Björnsdóttir, Se Enkhbayar, Einojuhani Rautavaara, Erik Bergman, Ruben Grevelink, Jobbe Hoebink & Jesse van der Wel,  ⁠James MacMillan en William Byrd<br><br>
         Regie: Stijn Dijkema<br>
         Camera: Charlie Feld<br>
         Geluid: Sander van der Werff<br>

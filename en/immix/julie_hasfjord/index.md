@@ -18,6 +18,9 @@ bgcolour: bg-immix-buttercream
 
 <img src="/images/bio_images/julie.jpg" alt="Julie Hasfjord" class="fr w-third w-third-m w-25-l  ml5 br0">
 
+[Website](http://www.juliehasfjord.com/)
+
+
 > **What is your artistic training and background?**
 
 I studied classical singing first in Stavanger, Norway where I completed my bachelor’s degree, and then at the Royal Conservatoire in the Hague where I finished my master’s degree in 2020. However, I’ve always enjoyed singing and playing in various musical genres and actually first started playing the trombone and then randomly ended singing with my wind-band as a child. 

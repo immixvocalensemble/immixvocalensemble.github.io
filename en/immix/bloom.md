@@ -45,11 +45,11 @@ bgcolour: bg-immix-buttercream
     <div class="fl w-100">
     <p class="f6 ">
         Music: Ragnheiður Erla Björnsdóttir, Se Enkhbayar, Einojuhani Rautavaara, Erik Bergman, Ruben Grevelink, Jobbe Hoebink & Jesse van der Wel,  ⁠James MacMillan en William Byrd<br><br>
-        Regie: Stijn Dijkema<br>
+        Direction: Stijn Dijkema<br>
         Camera: Charlie Feld<br>
-        Geluid: Sander van der Werff<br>
-        Licht:  Mart Hielema<br><br>
-        Concept, zang en spel:<br>
+        Sounds: Sander van der Werff<br>
+        Lights:  Mart Hielema<br><br>
+        Concept, singing and acting:<br>
         Phoebe Kirrage<br>
         Julie Hasfjord<br>
         Ariel Sin Yu Lee<br>
