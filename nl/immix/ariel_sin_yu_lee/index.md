@@ -16,7 +16,7 @@ bgcolour: bg-immix-buttercream
 {{ page.title }}
 </h1>
     
-<img src="/images/bio_images/Ariel.jpg" alt="photo here" class="fr w-25 ml-auto br-100">
+<img src="/images/bio_images/Ariel.jpg" alt="photo here" class="fr w-third w-third-m w-25-l  ml5 br0">
 
 > **What is your artistic training and background?**
 

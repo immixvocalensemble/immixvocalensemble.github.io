@@ -470,7 +470,7 @@ a:focus,
 a:active {
   text-decoration: none;
   font-family: FiraSansRegular, sans-serif;
-  font-variant: small-caps;
+  
 } 
 
 .button-text {

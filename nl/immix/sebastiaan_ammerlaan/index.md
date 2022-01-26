@@ -17,7 +17,7 @@ bgcolour: bg-immix-buttercream
 {{ page.title }}
 </h1>
 
-<img src="/images/bio_images/sebastiaan.jpg" alt="Sebastiaan Ammerlaan" class="fr w-25 ml-auto br-100">
+<img src="/images/bio_images/sebastiaan.jpg" alt="Sebastiaan Ammerlaan" class="fr w-third w-third-m w-25-l  ml5 br0">
 
 [Website](https://www.bammerlaan.nl)
 
