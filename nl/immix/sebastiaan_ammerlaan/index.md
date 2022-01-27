@@ -23,15 +23,15 @@ bgcolour: bg-immix-buttercream
 
 > **What is your artistic training and background?**
 
-I played the violin and later the viola from my early youth. I started singing in university and then studied classical singing in Utrecht and The Hague.
+I played the violin and later the viola from my early youth. I started singing in university and then studied classical singing in Utrecht and The Hague.<br><br>
 
 > **What is you most memorable artistic experience?**
 
-Singing the solo baritone part in Sun Dogs by Ēriks Ešenvalds with other ensemble singing students. It was such an honor to sing and the artistic quality was exactly where I wanted it to give me chills each concert.
+Singing the solo baritone part in Sun Dogs by Ēriks Ešenvalds with other ensemble singing students. It was such an honor to sing and the artistic quality was exactly where I wanted it to give me chills each concert.<br><br>
 
 > **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
 
-I wanted to see where innovation in ensemble singing could be found that’s more than simply adding staging to what is otherwise a regular choir performance.
+I wanted to see where innovation in ensemble singing could be found that’s more than simply adding staging to what is otherwise a regular choir performance.<br><br>
 
 > **What is your superpower in Immix Vocal Ensemble?**
 

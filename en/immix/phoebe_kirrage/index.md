@@ -21,18 +21,19 @@ bgcolour: bg-immix-buttercream
 > **What is your artistic training and background?**
 
 I have been singing in ensembles since I was very young, I received my Bachelors in Music from Royal Holloway University of London and my Classical Performance Masters from The Royal
-Conservatoire in The Hague. I’ve also toured all over Europe, North America and Canada both as a soloist and in Ensembles.
+Conservatoire in The Hague. I’ve also toured all over Europe, North America and Canada both as a soloist and in Ensembles.<br><br>
 
 > **What is you most memorable artistic experience?**
 
 One of my most memorable artistic experiences is having the honour of performing at the Royal
-Albert Hall as part of the Festival of Remembrance for the Royal British Legion.
+Albert Hall as part of the Festival of Remembrance for the Royal British Legion.<br><br>
+
 > **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
  
 To perform alongside some of the most prestigious artists in the UK in a revered venue for and important day to millions of viewers worldwide was an unforgettable experience.
 I wanted to become a member of the NKK NXT scheme to take on the challenge of creating a new
 ensemble and production from beginning to completion of the performance. To broaden my
-horizons and work in a co-operative in an ensemble setting. To have complete creative control over the project and work outside my comfort zone.
+horizons and work in a co-operative in an ensemble setting. To have complete creative control over the project and work outside my comfort zone.<br><br>
 
 > **What is your superpower in Immix Vocal Ensemble?**
 

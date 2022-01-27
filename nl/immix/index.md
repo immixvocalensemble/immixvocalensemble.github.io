@@ -29,7 +29,7 @@ To do this page:
     </h2>
   </header>
   
-  <section class="fl w-100">
+  <section class="fl w-100 pb4-ns">
     <div class="fl w-100">
       <p class="f6 ">
         Uit de boezem van het Nederlands Kamerkoor vond de groep elkaar te midden van een wereldwijde pandemie als deelnemers aan het talentontwikkelingsprogramma NKK NXT 20/21. Tijdens deze periode wisten ze een hybride theatrale koorvoorstelling te maken die lovend werd ontvangen door zowel publiek als recensenten.  
@@ -47,21 +47,22 @@ To do this page:
     </div>
   </section>
 
-  <main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
+<main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
       <div class="fl w-third-ns ph2">
-        <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc">Sebastiaan Ammerlaan</figcaption>
-        <a href="jobbe_hoebink" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc">Jobbe Hoebink</figcaption>
-        <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc">Ariel Sin Yu Lee</figcaption>
+        <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">sebastiaan ammerlaan</figcaption> 
+        <!-- Even checken of link in caption zo werkt, volgende keer dat ik aan de site werk -->
+        <a href="jobbe_hoebink" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">jobbe hoebink</figcaption>
+        <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc" style="font-variant: small-caps;">ariel sin yu lee</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
-        <a href="ruben_grevelink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Ruben002.jpg"></a><figcaption class="tc">Ruben Grevelink</figcaption>
-        <a href="phoebe_kirrage" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Phoebe002.jpg"></a><figcaption class="tc">Phoebe Kirrage</figcaption>
-        <a href="jesse_van_der_wel" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Jesse002.jpg"> </a><figcaption class="tc">Jesse van der Wel</figcaption>
+        <a href="ruben_grevelink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Ruben002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">ruben grevelink</figcaption>
+        <a href="phoebe_kirrage" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Phoebe002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">phoebe kirrage</figcaption>
+        <a href="jesse_van_der_wel" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Jesse002.jpg"> </a><figcaption class="tc" style="font-variant: small-caps;">jesse van der wel</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
-        <a href="julie_hasfjord" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Julie002.jpg"></a><figcaption class="tc">Julie Hasfjord</figcaption>
-        <a href="emma_nelson" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Emma003.jpg"></a><figcaption class="tc">Emma Nelson</figcaption>
-        <a href="merel_wentink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Merel001.jpg"></a><figcaption class="tc">Merel Wentink</figcaption>
+        <a href="julie_hasfjord" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Julie002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">julie hasfjord</figcaption>
+        <a href="emma_nelson" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Emma003.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">emma nelson</figcaption>
+        <a href="merel_wentink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Merel001.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">merel wentink</figcaption>
       </div>
   </main>
 
@@ -70,13 +71,13 @@ To do this page:
 <div class="mw9-l center ph3-ns mt5">
   <div class="cf ph2-ns">
     <div class="fl w-100 w-third-ns pa2">
-      <img src="/images/Aeson/nnknxt_g009.jpg" alt="Eason Lam photography" class="br3">
+      <img src="/images/About/210625_NKKNXT_Bloom_LindeDorenbos_HiRes-9996.jpg" alt="Eason Lam photography" class="br3">
     </div>
     <div class="fl w-100 w-third-ns pa2">
-      <img src="/images/LindeDorenbos/210625_NKKNXT_Bloom_LindeDorenbos-0009.jpg" alt="Linde Dorenbos photography" class="br3">
+      <img src="/images/About/210625_NKKNXT_Bloom_LindeDorenbos_HiRes-0020.jpg" alt="Linde Dorenbos photography" class="br3">
     </div>
     <div class="fl w-100 w-third-ns pa2">
-      <img src="/images/LindeDorenbos/210625_NKKNXT_Bloom_LindeDorenbos-0073.jpg" alt="Linde Dorenbos photography" class="br3">
+      <img src="/images/About/nnknxt_g004.jpg" alt="Linde Dorenbos photography" class="br3">
     </div>
   </div>
 </div>

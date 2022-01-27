@@ -23,7 +23,7 @@
         <!-- aria-expanded needs managed with Javascript -->
         <button type="button" class="dropdown__title dib link  white hover-immix-marigold" aria-expanded="false" style="font-variant: small-caps;"
           aria-controls="sweets-dropdown">
-          about
+          {{ site.data.translations['bioNav'][page.lang] }}
         </button>
         <ul class="dropdown__menu bg-black-30 tc" id="sweets-dropdown">
           <li><a href="/{{page.lang}}/immix" class="no-underline white hover-immix-marigold" style="font-variant: small-caps;">immix</a></li>

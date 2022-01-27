@@ -23,15 +23,15 @@ bgcolour: bg-immix-buttercream
 
 > **What is your artistic training and background?**
 
-After a brief detour into European politics, I started training to become a musical theater performer. I followed the MusicAllFactory in Tilburg, the Meisner Toneelacademie in Den Bosch and finally a master of music  for music theatre at the Fontys Hogeschool voor de Kunsten.
+After a brief detour into European politics, I started training to become a musical theater performer. I followed the MusicAllFactory in Tilburg, the Meisner Toneelacademie in Den Bosch and finally a master of music  for music theatre at the Fontys Hogeschool voor de Kunsten.<br><br>
 
 > **What is you most memorable artistic experience?**
 
-Besides being part of NKKNXT. I remember creating a weekly murder series at primary school. My first artistic creation however, was a silent film adaptation of Euripides’ Bacchae. Also creating a music theatre film for my Master exam, because audience was banned due to Covid, was a memorable and ultimately highly enjoyable and rewarding experience.
+Besides being part of NKKNXT. I remember creating a weekly murder series at primary school. My first artistic creation however, was a silent film adaptation of Euripides’ Bacchae. Also creating a music theatre film for my Master exam, because audience was banned due to Covid, was a memorable and ultimately highly enjoyable and rewarding experience.<br><br>
 
 > **Immix Vocal Ensemble sprung out from NKK NXT, a traineeship organized by the Nederlands Kamerkoor where young singers explore what choir singing is about by creating and producing their own performance. Why did you want to be a part of this program?**
 
-For me as person with a music theatre background who has been dabbling with more classical repertoire, the opportunity to work musically on such a high level was very enticing. Additionally the chance to make our own performance and really work as a group on a project made me eager to be part of this experience.
+For me as person with a music theatre background who has been dabbling with more classical repertoire, the opportunity to work musically on such a high level was very enticing. Additionally the chance to make our own performance and really work as a group on a project made me eager to be part of this experience.<br><br>
 
 > **What is your superpower in Immix Vocal Ensemble?**
 

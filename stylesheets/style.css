@@ -253,7 +253,7 @@ a:active {
 
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
-  padding: 0.5rem 4rem;
+  padding: 0rem 4rem;
   margin: 2em -4rem;
 }
 .markdown-body > hr {
