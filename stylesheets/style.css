@@ -329,6 +329,7 @@ nav {
   /* padding: 0 1rem; */
   position: sticky;
   top: 0;
+  /* float: right; */
   /* display: grid; */
   /* place-items: center; */
 }

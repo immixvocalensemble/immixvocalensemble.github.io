@@ -16,8 +16,10 @@ bgcolour: bg-immix-buttercream
 {{ page.title }}
 </h1>
 
-<img src="/images/bio_images/Ariel.jpg" alt="photo here" class="fr w-third w-third-m w-25-l  ml5 br0">
-
+<div class="fr w-third w-third-m w-25-l  ml5 br0">
+    <img src="/images/bio_images/Ariel.jpg" alt="Ariel Lee"><figcaption class="tr f7">Photo: Evripidis Makris</figcaption>
+</div>
+    
 > **What is your artistic training and background?**
 
 - I started my musical training first as a flutist when I was 12. The wind orchestra of my school was quite established and often participated in competitions, music festivals in Hong Kong and abroad. Then I studied my bachelors in music study with a major in flute in the Chinese University of Hong Kong. I played in different wind orchestras, orchestras and chamber concerts in Hong Kong.

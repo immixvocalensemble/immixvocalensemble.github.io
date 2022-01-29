@@ -47,17 +47,17 @@ To do this page:
     </div>
   </section>
 
-<main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
+  <main class="cf pa2 w-100 w-75-m w-two-thirds-l center">
       <div class="fl w-third-ns ph2">
         <a href="sebastiaan_ammerlaan" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/NKKNXT/Sebastiaan.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">sebastiaan ammerlaan</figcaption> 
         <!-- Even checken of link in caption zo werkt, volgende keer dat ik aan de site werk -->
         <a href="jobbe_hoebink" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_Jobbe001.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">jobbe hoebink</figcaption>
-        <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/nnknxt_ariel001.jpg"/></a><figcaption class="tc" style="font-variant: small-caps;">ariel sin yu lee</figcaption>
+        <a href="ariel_sin_yu_lee" class="no-underline pv2 grow db"><img class="db w-100" src="/images/Aeson/Ariel.jpg"/></a><figcaption class="tc" style="font-variant: small-caps;">ariel sin yu lee</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
         <a href="ruben_grevelink" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Ruben002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">ruben grevelink</figcaption>
         <a href="phoebe_kirrage" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Phoebe002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">phoebe kirrage</figcaption>
-        <a href="jesse_van_der_wel" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Jesse002.jpg"> </a><figcaption class="tc" style="font-variant: small-caps;">jesse van der wel</figcaption>
+        <a href="jesse_van_der_wel" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/jesse.jpg"> </a><figcaption class="tc" style="font-variant: small-caps;">jesse van der wel</figcaption>
       </div>
       <div class="fl w-third-ns ph2">
         <a href="julie_hasfjord" class="pv2 grow db no-underline black"><img class="db w-100" src="/images/Aeson/nnknxt_Julie002.jpg"></a><figcaption class="tc" style="font-variant: small-caps;">julie hasfjord</figcaption>
