@@ -1,12 +1,12 @@
 --- # ----------- CONFIGURABLE START -----------
 title: "Immix Vocal Ensemble"
 description: "Website for Immix Vocal Ensemble."
-url: https://immixvocalensemble.github.io # Site url, without a slash at the end.
+url: https://immixvocalensemble.com # Site url, without a slash at the end.
 signoff: "Immix" # Your name
 facebook_appid: # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics:
 share: false # Turn on twitter and facebook share buttons
-email: "info@immixvocalensemble.nl"
+email: "info@immixvocalensemble.com"
 timezone: "Europe/Amsterdam"
 
 plugins:
