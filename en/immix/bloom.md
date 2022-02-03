@@ -15,7 +15,7 @@ bgcolour: bg-immix-buttercream
   
 <header class="fl w-100 w-two-thirds-l pl4 pr4">
     <h2 class="lh-title f3 b mt0">
-        "Young choral talent proves: Live and online can co-exist very well" ★★★★☆ – NRC
+        "Young choral talent proves: Live and online can co-exist very well" ★★★★☆ – <a href="https://www.nrc.nl/nieuws/2021/06/28/jong-koortalent-bewijst-live-en-online-kunnen-heel-goed-samengaan-a4049052">NRC</a>
     </h2>
 </header>
   
