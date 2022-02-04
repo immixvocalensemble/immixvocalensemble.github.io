@@ -37,7 +37,7 @@ To do this page:
     </div>
     <div class="fl w-100">
       <p class="f6 ">
-        At IMMIX VOCAL ENSEMBLE we believe in the power of harmony and ensemble singing. Living in a society deprived of deeper connection, covered in crises, we see an urgent and wide potential for this endangered artform. In our experience, ensemble singing, through its harmony and beauty, has the innate power to heal, soothe, inspire and unite.
+        At IMMIX VOCAL ENSEMBLE we believe in the power of harmony and ensemble singing. Living in a society deprived of deeper connection, covered in crises, we see an urgent and wide potential for this artform. In our experience, ensemble singing, through its harmony and beauty, has the innate power to heal, soothe, inspire and unite.
       </p>
     </div>
     <div class="fl w-100">

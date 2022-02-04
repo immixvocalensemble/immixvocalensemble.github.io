@@ -37,7 +37,7 @@ To do this page:
     </div>
     <div class="fl w-100">
         <p class="f6 ">
-          Bij IMMIX VOCAL ENSEMBLE geloven we in de kracht van harmonie en ensemblezang. Gezien we leven in een samenleving die snakt naar verbinding, overspoeld door crises, zien wij een urgent en breed potentieel voor deze bedreigde kunstvorm. Wij ervaren dat ensemblezang, door haar harmonie en schoonheid, diverse krachten in zich heeft, van kalmeren en helen tot inspireren en mensen samenbrengen.
+          Bij IMMIX VOCAL ENSEMBLE geloven we in de kracht van harmonie en ensemblezang. Gezien we leven in een samenleving die snakt naar verbinding, overspoeld door crises, zien wij een urgent en breed potentieel voor deze kunstvorm. Wij ervaren dat ensemblezang, door haar harmonie en schoonheid, diverse krachten in zich heeft, van kalmeren en helen tot inspireren en mensen samenbrengen.
         </p>
     </div>
     <div class="fl w-100">
