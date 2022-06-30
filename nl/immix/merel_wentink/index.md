@@ -20,6 +20,8 @@ bgcolour: bg-immix-buttercream
 <img src="/images/bio_images/merel.jpg" alt="Merel Wentink"><figcaption class="tr f7">Photo: Jean Philipse</figcaption>
 </div>
 
+[Website](https://www.merelwentink.nl)
+
 > **What is your artistic training and background?**
 
 I’m trained as a classical singer and as a music teacher.<br><br>
