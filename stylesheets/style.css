@@ -490,3 +490,34 @@ a[href^="http://"]:after, a[href^="https://"]:after {
   text-decoration: none;
   padding-left: 3px;
 }
+
+/* Step 1: Common Properties for Fontawesome
+These styles are required to make icons render reliably */
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Step 1: Common Properties: All required to make icons render reliably - we did this above but it's included here for the full demo */
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Step 2: Reference Individual Icons */
+/* Note: Make sure to include the correct weight and Unicode value for the icon */
+
+/* here's an individual icon rule for the fa-user icon in the solid style which will show up next to any element with the "document" class */  
+.document::before {
+  font-family: FontAwesome;
+  content: "\f15c";
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+
